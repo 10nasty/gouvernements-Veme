@@ -1,0 +1,5736 @@
+[{
+	"nom_gouv": "Gouvernement de Michel DEBRE",
+	"debut_gouv": "8 janvier 1959",
+	"fin_gouv": "14 avril 1962",
+	"Ministres": [{
+		"role": "Ministre d'Etat sans portefeuille",
+		"fin": "20 mai 1959",
+		"nom": "Félix HOUPHOUET-BOIGNY"
+	}, {
+		"role": "Ministre sans portefeuille devenu Ministre d'Etat aux Affaires culturelles",
+		"debut": "22 juillet 1959",
+		"nom": "André MALRAUX"
+	}, {
+		"role": "Ministre d'Etat à l'Aide et à la coopération",
+		"fin": "5 février 1960",
+		"nom": "Robert LECOURT"
+	}, {
+		"role": "Ministre d'Etat pour le Sahara et les Dom-Tom",
+		"debut": "5 février 1960",
+		"fin": "24 août 1961",
+		"nom": "Robert LECOURT"
+	}, {
+		"role": "Ministre d'Etat pour le Sahara et les Dom-Tom",
+		"debut": "24 août 1961",
+		"nom": "Louis JACQUINOT"
+	}, {
+		"role": "SE (Sahara, Dom-Tom)",
+		"debut": "24 août 1961",
+		"nom": "Jean DE BROGLIE"
+	}, {
+		"role": "Ministre d'Etat aux Affaires algériennes",
+		"debut": "22 novembre 1960",
+		"nom": "Louis JOXE"
+	}, {
+		"role": "Ministre conseiller",
+		"debut": "23 juillet 1959",
+		"nom": "Félix HOUPHOUET-BOIGNY"
+	}, {
+		"role": "Ministre conseiller",
+		"debut": "23 juillet 1959",
+		"nom": "Philibert TSIRANANA"
+	}, {
+		"role": "Ministre conseiller",
+		"debut": "23 juillet 1959",
+		"nom": "Gabriel LISETTE"
+	}, {
+		"role": "Ministre conseiller",
+		"debut": "23 juillet 1959",
+		"nom": "Léopold-Sédar SENGHOR"
+	}, {
+		"role": "Ministre de la Justice",
+		"fin": "24 août 1961",
+		"nom": "Edmond MICHELET"
+	}, {
+		"role": "Ministre de la Justice",
+		"debut": "24 août 1961",
+		"nom": "Bernard CHENOT"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "M. COUVE DE MURVILLE"
+	}, {
+		"role": "SE (affaires étrangères)",
+		"debut": "18 mai 1961 ",
+		"nom": "Georges GORSE"
+	}, {
+		"role": "Ministre de la Coopération",
+		"debut": "16 mai 1962",
+		"nom": "Jean FOYER"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"fin": "28 mai 1959",
+		"nom": "Jean BERTHOIN"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"debut": "28 mai 1959",
+		"fin": "6 mai 1961",
+		"nom": "Pierre CHATENET"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"debut": "6 mai 1961",
+		"nom": "Roger FREY"
+	}, {
+		"role": "SE (intérieur)",
+		"debut": "20 janvier 1959",
+		"fin": "5 février 1960",
+		"nom": "Michel MAURICE-BOKANOWSKI"
+	}, {
+		"role": "SE (rapatriés)",
+		"debut": "24 août 1961",
+		"nom": "Robert BOULIN"
+	}, {
+		"role": "Ministre des Armées",
+		"fin": "5 février 1960",
+		"nom": "Pierre GUILLAUMAT"
+	}, {
+		"role": "Ministre des Armées",
+		"debut": "5 février 1960",
+		"nom": "Pierre MESSMER"
+	}, {
+		"role": "Ministre des Finances, des Affaires économiques ",
+		"fin": "13 janvier 1960",
+		"nom": "Antoine PINAY"
+	}, {
+		"role": "Ministre des Finances, des Affaires économiques",
+		"debut": "13 janvier 1960",
+		"fin": "18 janvier 1962",
+		"nom": "Wilfried BAUMGARTNER"
+	}, {
+		"role": "Ministre des Finances, des Affaires économiques",
+		"debut": "18 janvier 1962",
+		"nom": "Valéry GISCARD D'ESTAING"
+	}, {
+		"role": "SE (finances)",
+		"fin": "17 janvier 1962",
+		"nom": "Valéry GISCARD D'ESTAING"
+	}, {
+		"role": "SE (affaires économiques - le 20/01/1959) puis SE (affaires économiques extérieures - le 17/11/1959)",
+		"fin": "19 janvier 1960",
+		"nom": "Max FLECHET"
+	}, {
+		"role": "SE (commerce intérieur)",
+		"debut": "17 novembre 1959",
+		"fin": "24 août 1961",
+		"nom": "Joseph FONTANET"
+	}, {
+		"role": "SE (commerce intérieur)",
+		"debut": "24 août 1961",
+		"nom": "François MISSOFFE"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"fin": "23 décembre 1959",
+		"nom": "André BOULLOCHE"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"debut": "15 janvier 1960",
+		"fin": "22 novembre 1960",
+		"nom": "Louis JOXE"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"debut": "22 novembre 1960",
+		"fin": "20 février 1961",
+		"nom": "Pierre GUILLAUMAT"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"debut": "20 février 1961",
+		"nom": "Lucien PAYE"
+	}, {
+		"role": "Ministre des Travaux publics et des Transports",
+		"nom": "Robert BURON"
+	}, {
+		"role": "Ministre de l'Industrie et du Commerce (devenu Ministre de l'Industrie le 17 novembre 1959)",
+		"nom": "Jean-Marcel JEANNENEY"
+	}, {
+		"role": "SE (industrie et commerce)",
+		"debut": "20 janvier 1959",
+		"fin": "17 novembre 1959",
+		"nom": "Joseph FONTANET"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"fin": "28 mai 1959",
+		"nom": "Roger HOUDET"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"debut": "28 mai 1959",
+		"fin": "24 août 1961",
+		"nom": "Henri ROCHEREAU"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"debut": "24 août 1961",
+		"nom": "Edgar PISANI"
+	}, {
+		"role": "Ministre du Travail ",
+		"nom": "Paul BACON"
+	}, {
+		"role": "Ministre de la Santé publique et de la Population",
+		"fin": "24 août 1961",
+		"nom": "Bernard CHENOT"
+	}, {
+		"role": "Ministre de la Santé publique et de la Population",
+		"debut": "24 août 1961",
+		"nom": "Joseph FONTANET"
+	}, {
+		"role": "Ministre de la Construction ",
+		"nom": "Pierre SUDREAU"
+	}, {
+		"role": "Ministre des anciens combattants et victimes de guerre",
+		"nom": "Raymond TRIBOULET"
+	}, {
+		"role": "Ministre des Postes, des Télégraphes et des Téléphones devenu Ministre des Postes et des Télécommunications",
+		"debut": "24 août 1959",
+		"fin": "5 février 1960",
+		"nom": "Bernard CORNUT-GENTILLE"
+	}, {
+		"role": "Ministre des Postes, des Télégraphes et des Téléphones devenu Ministre des Postes et des Télécommunications",
+		"debut": "5 février 1960",
+		"nom": "Michel MAURICE-BOKANOWSKI"
+	}, {
+		"role": "Ministre de l'Information",
+		"fin": "5 février 1960",
+		"nom": "Roger FREY"
+	}, {
+		"role": "Ministre de l'Information",
+		"debut": "5 février 1960",
+		"fin": "28 août 1961",
+		"nom": "Louis TERRENOIRE"
+	}, {
+		"role": "Ministre de la Coopération",
+		"debut": "18 mai 1961",
+		"nom": "Jean FOYER"
+	}, {
+		"role": "MD chargé de l'énergie atomique + à compter du 13 février 1959 chargé du Sahara, des Dom-Tom",
+		"fin": "5 février 1960",
+		"nom": "Jacques SOUSTELLE"
+	}, {
+		"role": "MD chargé de l'énergie atomique, de la recherche scientifique et de la fonction publique",
+		"debut": "5 février 1960",
+		"nom": "Pierre GUILLAUMAT"
+	}, {
+		"role": "MD chargé de la Coordination interministérielle",
+		"debut": "5 février 1960",
+		"fin": "6 mai 1961",
+		"nom": "Roger FREY"
+	}, {
+		"role": "MD chargé des rapports entre le Gouvernement et le Parlement",
+		"debut": "27 août 1961",
+		"nom": "Louis TERRENOIRE"
+	}, {
+		"role": "SE chargée des questions algériennes",
+		"nom": "Nafissa SID CARA"
+	}, {
+		"role": "SE chargé de la fonction publique et de la coopération internationale en matière de défense",
+		"fin": "28 mai 1959",
+		"nom": "Pierre CHATENET"
+	}, {
+		"role": "SE chargé des relations avec les Etats de la Communauté",
+		"debut": "5 février 1960",
+		"fin": "18 mai 1961",
+		"nom": "Jean FOYER"
+	}, {
+		"role": "SE chargé de l'information",
+		"nom": "Christian de la MALENE"
+	}, {
+		"role": "SE chargé de la défense et de la fonction publique",
+		"fin": "15 janvier 1960",
+		"nom": "Louis JOXE"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Georges POMPIDOU (1er Gouvernement)",
+	"debut_gouv": "14 avril 1962",
+	"fin_gouv": "28 novembre 1962",
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre des Affaires culturelles",
+		"nom": "André MALRAUX"
+	}, {
+		"role": "Ministre d'Etat, Ministre de la Coopération",
+		"fin": "16 mai 1962",
+		"nom": "Pierre PFLIMLIN"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Dom-Tom",
+		"nom": "Louis JACQUINOT"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Affaires algériennes",
+		"nom": "Louis JOXE"
+	}, {
+		"role": "Ministre d'Etat, Ministre de la Recherche scientifique et des questions atomiques et spatiales",
+		"nom": "Gaston PALEWSKI"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Jean FOYER"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Maurice COUVE DE MURVILLE"
+	}, {
+		"role": "SE chargé des affaires étrangères",
+		"fin": "16 mai 1962",
+		"nom": "Georges GORSE"
+	}, {
+		"role": "Ministre chargé de la coopération",
+		"debut": "16 mai 1962",
+		"nom": "Georges GORSE"
+	}, {
+		"role": "Ministre de l'intérieur",
+		"nom": "Roger FREY"
+	}, {
+		"role": "SE chargé des Rapatriés",
+		"fin": "11 septembre 1962",
+		"nom": "Robert BOULIN"
+	}, {
+		"role": "Ministre des Armées",
+		"nom": "Pierre MESSMER"
+	}, {
+		"role": "Ministre des Finances et des Affaires économiques",
+		"nom": "Valéry GISCARD D'ESTAING"
+	}, {
+		"role": "SE chargé du Commerce intérieur",
+		"nom": "François MISSOFFE"
+	}, {
+		"role": "SE chargé du Commerce extérieur",
+		"fin": "16 mai 1962",
+		"nom": "Gilbert GRANDVAL"
+	}, {
+		"role": "SE chargé du Budget",
+		"debut": "11 septembre 1962",
+		"nom": "Robert BOULIN"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"fin": "15 octobre 1962",
+		"nom": "Pierre SUDREAU"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"debut": "15 octobre 1962",
+		"nom": "Louis JOXE"
+	}, {
+		"role": "Ministre des Travaux publics et des Transports",
+		"fin": "16 mai 1962",
+		"nom": "Robert BURON"
+	}, {
+		"role": "Ministre des Travaux publics et des Transports",
+		"debut": "16 mai 1962",
+		"nom": "Roger DUSSEAULX"
+	}, {
+		"role": "SE chargé des Travaux publics",
+		"nom": "Pierre DUMAS"
+	}, {
+		"role": "Ministre de l'Industrie",
+		"nom": "Michel MAURICE-BOKANOWSKI"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"nom": "Edgar PISANI"
+	}, {
+		"role": "Ministre du Travail",
+		"fin": "16 mai 1962",
+		"nom": "Paul BACON"
+	}, {
+		"role": "Ministre du Travail",
+		"debut": "16 mai 1962",
+		"nom": "Gilbert GRANDVAL"
+	}, {
+		"role": "Ministre de la Santé publique et de la Population",
+		"fin": "16 mai 1962",
+		"nom": "Joseph FONTANET"
+	}, {
+		"role": "Ministre de la Santé publique et de la Population",
+		"debut": "16 mai 1962",
+		"nom": "Raymond MARCELLIN"
+	}, {
+		"role": "Ministre de la Construction",
+		"nom": "Jacques MAZIOL"
+	}, {
+		"role": "Ministre des anciens Combattants et Victimes de guerre",
+		"nom": "Raymond TRIBOULET"
+	}, {
+		"role": "Ministre des Postes et Télécommunications (P.et T.)",
+		"nom": "Jacques MARETTE"
+	}, {
+		"role": "MD chargé des Relations avec le Parlement",
+		"fin": "16 mai 1962",
+		"nom": "Roger DUSSEAULX"
+	}, {
+		"role": "MD chargé de l'Aménagement du Territoire",
+		"fin": "16 mai 1962",
+		"nom": "Maurice SCHUMANN"
+	}, {
+		"role": "MD chargé de l'Information",
+		"debut": "11 septembre 1962",
+		"nom": "Christian FOUCHET"
+	}, {
+		"role": "MD chargé des Rapatriés",
+		"debut": "11 septembre 1962",
+		"nom": "Alain PEYREFITTE"
+	}, {
+		"role": "SE chargé de l'Information (devenu MD)",
+		"fin": "11 septembre 1962",
+		"nom": "Alain PEYREFITTE"
+	}, {
+		"role": "SE chargé de la Fonction publique",
+		"nom": "Jean de BROGLIE"
+	}, {
+		"role": "SE chargé des Relations avec le Parlement",
+		"debut": "16 mai 1962",
+		"nom": "Pierre DUMAS"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Georges POMPIDOU (2ème Gouvernement)",
+	"debut_gouv": "28 novembre 1962",
+	"fin_gouv": "8 janvier 1966",
+	 
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre des Affaires culturelles",
+		"nom": "André MALRAUX"
+	}, {
+		"role": "Ministre d'Etat, Ministre de la Réforme administrative",
+		"nom": "Louis JOXE"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Dom-Tom",
+		"nom": "Louis JACQUINOT"
+	}, {
+		"role": "Ministre d'Etat, Ministre de la Recherche scientifique, des questions atomiques et spatiales",
+		"fin": "22 février 1965",
+		"nom": "Gaston PALEWSKI"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Jean FOYER"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Maurice COUVE DE MURVILLE"
+	}, {
+		"role": "SE chargé des affaires étrangères",
+		"nom": "Michel HABIB-DELONCLE"
+	}, {
+		"role": "Ministre de l'intérieur",
+		"nom": "Roger FREY"
+	}, {
+		"role": "Ministre des Armées",
+		"nom": "Pierre MESSMER"
+	}, {
+		"role": "Ministre des Finances et des Affaires économiques",
+		"nom": "Valéry GISCARD D'ESTAING"
+	}, {
+		"role": "SE chargé du budget",
+		"nom": "Robert BOULIN"
+	}, {
+		"role": "Ministre délégué à la Coopération",
+		"nom": "Raymond TRIBOULET"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"nom": "Christian FOUCHET"
+	}, {
+		"role": "Ministre des Travaux publics et des Transports",
+		"nom": "Marc JACQUET"
+	}, {
+		"role": "Ministre de l'Industrie",
+		"nom": "Michel MAURICE-BOKANOWSKI"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"nom": "Edgar PISANI"
+	}, {
+		"role": "Ministre du Travail",
+		"nom": "Gilbert GRANDVAL"
+	}, {
+		"role": "Ministre de la Santé publique et de la Population",
+		"nom": "Raymond MARCELLIN"
+	}, {
+		"role": "Ministre de la Construction",
+		"nom": "Jacques MAZIOL"
+	}, {
+		"role": "Ministre des anciens Combattants et Victimes de guerre",
+		"nom": "Jacques SAINTENY"
+	}, {
+		"role": "Ministre des Postes et Télécommunications (P.et T.)",
+		"nom": "Jacques MARETTE"
+	}, {
+		"role": "Ministre de l'Information",
+		"nom": "Alain PEYREFITTE"
+	}, {
+		"role": "Ministre des Rapatriés",
+		"fin": "23 juillet 1964",
+		"nom": "François MISSOFFE",
+		"info": "Ministère supprimé ; ses attributions ont été transférées au ministère de l'intérieur"
+	}, {
+		"role": "SE chargé des Affaires algériennes",
+		"nom": "Jean de BROGLIE"
+	}, {
+		"role": "SE chargé des Relations avec le Parlement",
+		"nom": "Pierre DUMAS"
+	}, {
+		"role": "SE chargé de la Recherche scientifique, des questions atomiques et spatiales",
+		"debut": "23 février 1965",
+		"nom": "Yvon BOURGES"
+	}, {
+		"role": "SE chargé de la Jeunesse et des Sports",
+		"debut": "11 juin 1963",
+		"nom": "Maurice HERZOG"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Georges POMPIDOU (3ème Gouvernement)",
+	"debut_gouv": "8 janvier 1966",
+	"fin_gouv": "1er avril 1967",
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre des Affaires culturelles",
+		"nom": "André MALRAUX"
+	}, {
+		"role": "Ministre d'Etat, Ministre de la Réforme administrative",
+		"nom": "Louis JOXE"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Dom-Tom",
+		"nom": "Pierre BILLOTTE"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Jean FOYER"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Maurice COUVE DE MURVILLE"
+	}, {
+		"role": "SE chargé des affaires étrangères",
+		"nom": "Jean de BROGLIE"
+	}, {
+		"role": "SE chargé de la Coopération",
+		"nom": "Jean CHARBONNEL"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Roger FREY"
+	}, {
+		"role": "SE chargé de l'Intérieur",
+		"nom": "André BORD"
+	}, {
+		"role": "Ministre des Armées",
+		"nom": "Pierre MESSMER"
+	}, {
+		"role": "Ministre de l'Economie et des Finances",
+		"nom": "Michel DEBRE"
+	}, {
+		"role": "SE chargé du budget",
+		"nom": "Robert BOULIN"
+	}, {
+		"role": "SE chargé du Commerce extérieur",
+		"nom": "Charles de CHAMBRUN"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"nom": "Christian FOUCHET"
+	}, {
+		"role": "SE chargé de l'Education nationale",
+		"nom": "Michel HABIB-DELONCLE"
+	}, {
+		"role": "Ministre de l'Equipement",
+		"nom": "Edgar PISANI"
+	}, {
+		"role": "SE chargé du Logement",
+		"nom": "Roland NUNGESSER"
+	}, {
+		"role": "SE chargé des Transports",
+		"nom": "André BETTENCOURT"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"nom": "Edgar FAURE"
+	}, {
+		"role": "Ministre de l'Industrie",
+		"nom": "Raymond MARCELLIN"
+	}, {
+		"role": "Ministre des Affaires sociales",
+		"nom": "Jean-Marcel JEANNENEY"
+	}, {
+		"role": "MD chargé de la Recherche scientifique, des questions atomiques et spatiales",
+		"nom": "Alain PEYREFITTE"
+	}, {
+		"role": "Ministre des anciens Combattants et Victimes de guerre",
+		"nom": "Alexandre SANGUINETTI"
+	}, {
+		"role": "Ministre des Postes et Télécommunications",
+		"nom": "Jacques MARETTE"
+	}, {
+		"role": "Ministre de la Jeunesse et des Sports",
+		"nom": "François MISSOFFE"
+	}, {
+		"role": "SE chargé des Relations avec le Parlement",
+		"nom": "Pierre DUMAS"
+	}, {
+		"role": "SE chargé de l'Information",
+		"nom": "Yvon BOURGES"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Georges POMPIDOU (4ème Gouvernement)",
+	"debut_gouv": "7 avril 1967",
+	"fin_gouv": "10 juillet 1968",
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre des Affaires culturelles",
+		"nom": "André MALRAUX"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Affaires sociales",
+		"debut": "31 mai 1968",
+		"nom": "Maurice SCHUMANN"
+	}, {
+		"role": "Ministre d'Etat, Ministre de la Fonction Publique",
+		"fin": "31 mai 1968",
+		"nom": "Edmond MICHELET"
+	}, {
+		"role": "Ministre d'Etat, Ministre des DOM-TOM",
+		"fin": "31 mai 1968",
+		"nom": "Pierre BILLOTTE"
+	}, {
+		"role": "Ministre d'Etat, Ministre de la Recherche scientifique, des questions atomiques et spatiales",
+		"fin": "31 mai 1968",
+		"nom": "Maurice SCHUMANN"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Relations avec le Parlement",
+		"fin": "31 mai 1968",
+		"nom": "Roger FREY"
+	}, {
+		"role": "Ministre d'Etat",
+		"debut": "31 mai 1968",
+		"nom": "Edmond MICHELET"
+	}, {
+		"role": "Ministre d'Etat",
+		"debut": "31 mai 1968",
+		"nom": "Henri REY"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"fin": "31 mai 1968",
+		"nom": "Louis JOXE"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"debut": "31 mai 1968",
+		"nom": "René CAPITANT"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"fin": "31 mai 1968",
+		"nom": "Maurice COUVE DE MURVILLE"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"debut": "31 mai 1968",
+		"nom": "Michel DEBRE"
+	}, {
+		"role": "SE chargé de la Coopération",
+		"nom": "Yvon BOURGES"
+	}, {
+		"role": "SE chargé des affaires étrangères",
+		"fin": "31 mai 1968",
+		"nom": "André BETTENCOURT"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"fin": "31 mai 1968",
+		"nom": "Christian FOUCHET"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"debut": "31 mai 1968",
+		"nom": "Raymond MARCELLIN"
+	}, {
+		"role": "SE chargé de l'Intérieur",
+		"nom": "André BORD"
+	}, {
+		"role": "Ministre des Armées",
+		"nom": "Pierre MESSMER"
+	}, {
+		"role": "Ministre de l'Economie et des Finances",
+		"fin": "31 mai 1968",
+		"nom": "Michel DEBRE"
+	}, {
+		"role": "Ministre de l'Economie et des Finances",
+		"debut": "31 mai 1968",
+		"nom": "Maurice COUVE DE MURVILLE"
+	}, {
+		"role": "SE chargé de l'Economie et des Finances",
+		"fin": "31 mai 1968",
+		"nom": "Robert BOULIN"
+	}, {
+		"role": "SE chargé de l'Economie et des Finances",
+		"debut": "31 mai 1968",
+		"nom": "Jacques CHIRAC"
+	}, {
+		"role": "SE chargé de l'Economie et des Finances",
+		"fin": "31 mai 1968",
+		"nom": "Roland NUNGESSER"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"fin": "28 mai 1968",
+		"nom": "Alain PEYREFITTE"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"debut": "31 mai 1968",
+		"nom": "François ORTOLI"
+	}, {
+		"role": "SE chargée de l'Education nationale",
+		"debut": "31 mai 1968",
+		"nom": "Marie-Madeleine DIENESCH"
+	}, {
+		"role": "Ministre de l'Equipement et du Logement",
+		"fin": "28 avril 1967",
+		"nom": "Edgar PISANI"
+	}, {
+		"role": "Ministre de l'Equipement et du Logement",
+		"debut": "28 avril 1967",
+		"fin": "31 mai 1968",
+		"nom": "François ORTOLI"
+	}, {
+		"role": "Ministre de l'Equipement et du Logement",
+		"debut": "31 mai 1968",
+		"nom": "Robert GALLEY"
+	}, {
+		"role": "SE chargé des problèmes du logement",
+		"debut": "31 mai 1968",
+		"nom": "Philippe DECHARTRE"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"nom": "Edgar FAURE"
+	}, {
+		"role": "Ministre de l'Industrie",
+		"nom": "Olivier GUICHARD"
+	}, {
+		"role": "Ministre des Affaires sociales",
+		"fin": "31 mai 1968",
+		"nom": "Jean-Marcel JEANNENEY"
+	}, {
+		"role": "SE chargé des Problèmes de l'Emploi",
+		"fin": "31 mai 1968",
+		"nom": "Jacques CHIRAC"
+	}, {
+		"role": "SE chargé des Problèmes de l'Emploi",
+		"debut": "31 mai 1968",
+		"nom": "Yvon MORANDAT"
+	}, {
+		"role": "Ministre des Transports",
+		"nom": "Jean CHAMANT"
+	}, {
+		"role": "Ministre des anciens Combattants et Victimes de guerre",
+		"nom": "Henri DUVILLARD"
+	}, {
+		"role": "Ministre des Postes et Télécommunications",
+		"fin": "31 mai 1968",
+		"nom": "Yves GUENA"
+	}, {
+		"role": "Ministre des Postes et Télécommunications",
+		"debut": "31 mai 1968",
+		"nom": "André BETTENCOURT"
+	}, {
+		"role": "Ministre de la Jeunesse et des Sports",
+		"fin": "31 mai 1968",
+		"nom": "François MISSOFFE"
+	}, {
+		"role": "Ministre de la Jeunesse et des Sports",
+		"debut": "31 mai 1968",
+		"nom": "Roland NUNGESSER"
+	}, {
+		"role": "Ministre de l'Information",
+		"fin": "31 mai 1968",
+		"nom": "Georges GORSE"
+	}, {
+		"role": "Ministre de l'Information",
+		"debut": "31 mai 1968",
+		"nom": "Yves GUENA"
+	}, {
+		"role": "Ministre des Dom-Tom",
+		"debut": "31 mai 1968",
+		"nom": "Joël LE THEULE"
+	}, {
+		"role": "Ministre de la Fonction publique",
+		"debut": "31 mai 1968",
+		"nom": "Robert BOULIN"
+	}, {
+		"role": "Ministre de la Recherche scientifique, des questions atomiques et spatiales",
+		"debut": "31 mai 1968",
+		"nom": "Christian de la MALENE "
+	}, {
+		"role": "MD chargé du Plan et de l'Aménagement du Territoire",
+		"fin": "31 mai 1968",
+		"nom": "Raymond MARCELLIN"
+	}, {
+		"role": "MD chargé du Plan et de l'Aménagement du Territoire",
+		"debut": "31 mai 1968",
+		"nom": "Oliver GUICHARD"
+	}, {
+		"role": "SE chargé du Tourisme",
+		"fin": "31 mai 1968",
+		"nom": "Pierre DUMAS"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Maurice COUVE DE MURVILLE",
+	"debut_gouv": "10 juillet 1968",
+	"fin_gouv": "20 juin 1969",
+	 
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre des Affaires culturelles",
+		"nom": "André MALRAUX"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Affaires sociales",
+		"nom": "Maurice SCHUMANN"
+	}, {
+		"role": "SE (affaires sociales)",
+		"nom": "Marie-Madeleine DIENESCH"
+	}, {
+		"role": "SE (affaires sociales)",
+		"nom": "Pierre DUMAS"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Relations avec le Parlement",
+		"nom": "Roger FREY"
+	}, {
+		"role": "Ministre d'Etat",
+		"nom": "Jean-Marcel JEANNENEY"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"fin": "28 avril 1969",
+		"nom": "René CAPITANT",
+		"info": "Démissionne"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"debut": "28 avril 1969",
+		"nom": "Jean-Marcel JEANNENEY"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Michel DEBRE"
+	}, {
+		"role": "SE (affaires étrangères)",
+		"nom": "Yvon BOURGES"
+	}, {
+		"role": "SE (affaires étrangères)",
+		"nom": "Jean de LIPKOWSKI"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Raymond MARCELLIN"
+	}, {
+		"role": "SE (intérieur)",
+		"nom": "André BORD"
+	}, {
+		"role": "Ministre des Armées",
+		"nom": "Pierre MESSMER"
+	}, {
+		"role": "Ministre de l'Economie et des Finances",
+		"nom": "François ORTOLI"
+	}, {
+		"role": "SE (économie et finances)",
+		"nom": "Jacques CHIRAC"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"nom": "Edgar FAURE"
+	}, {
+		"role": "SE (éducation nationale)",
+		"nom": "Jacques TRORIAL"
+	}, {
+		"role": "Ministre de l'Equipement et du Logement",
+		"nom": "Albin CHALANDON"
+	}, {
+		"role": "SE (équipement et logement)",
+		"nom": "Philippe DECHARTRE"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"nom": "Robert BOULIN"
+	}, {
+		"role": "Ministre de l'Industrie",
+		"nom": "André BETTENCOURT"
+	}, {
+		"role": "Ministre des Transports",
+		"nom": "Jean CHAMANT"
+	}, {
+		"role": "Ministre des anciens Combattants et Victimes de guerre",
+		"nom": "Henri DUVILLARD"
+	}, {
+		"role": "Ministre des Postes et Télécommunications",
+		"nom": "Yves GUENA"
+	}, {
+		"role": "MD chargé du Plan et de l'Aménagement du Territoire",
+		"nom": "Olivier GUICHARD"
+	}, {
+		"role": "MD chargé de la Recherche scientifique, des questions atomiques et spatiales",
+		"nom": "Robert GALLEY"
+	}, {
+		"role": "SE chargé de l'Information",
+		"nom": "Joël LE THEULE"
+	}, {
+		"role": "SE chargé de la Fonction publique",
+		"nom": "Philippe MALAUD"
+	}, {
+		"role": "SE chargé de la Jeunesse et des Sports",
+		"nom": "Joseph COMITI"
+	}, {
+		"role": "SE chargé des Dom-Tom",
+		"nom": "Michel INCHAUSPE"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Jacques CHABAN-DELMAS",
+	"debut_gouv": "20 juin 1969",
+	"fin_gouv": "5 juillet 1972",
+	  
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre de la Défense nationale",
+		"nom": "Michel DEBRE"
+	}, {
+		"role": "SE (défense nationale)",
+		"nom": "André FANTON"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Affaires culturelles",
+		"fin": "9 octobre 1970",
+		"nom": "Edmond MICHELET"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Affaires culturelles",
+		"debut": "7 janvier 1971",
+		"nom": "Jacques DUHAMEL",
+		"info": "devenu ministère simple"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Relations avec le Parlement",
+		"fin": "7 janvier 1971",
+		"nom": "Roger FREY"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Relations avec le Parlement",
+		"debut": "7 janvier 1971",
+		"nom": "Jacques CHIRAC"
+	}, {
+		"role": "SE auprès du ministre chargé des relations avec le Parlement",
+		"nom": "Jean-Louis TINAUD"
+	}, {
+		"role": "SE auprès du ministre chargé des relations avec le Parlement",
+		"nom": "Jacques LIMOUZY"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Réformes administratives",
+		"debut": "7 janvier 1971",
+		"nom": "Roger FREY"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Dom-Tom",
+		"debut": "25 février 1971",
+		"nom": "Pierre MESSMER"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "René PLEVEN"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Maurice SCHUMANN"
+	}, {
+		"role": "SE auprès du ministre des affaires étrangères",
+		"nom": "Yvon BOURGES"
+	}, {
+		"role": "SE auprès du ministre des affaires étrangères",
+		"nom": "Jean de LIPKOWSKI"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Raymond MARCELLIN"
+	}, {
+		"role": "SE auprès du ministre de l’intérieur",
+		"nom": "André BORD"
+	}, {
+		"role": "Ministre des Armées",
+		"nom": "Pierre MESSMER"
+	}, {
+		"role": "Ministre de l'Economie et des Finances",
+		"nom": "Valéry GISCARD D'ESTAING"
+	}, {
+		"role": "SE chargé de l'Economie et des Finances",
+		"fin": "7 janvier 1971",
+		"nom": "Jacques CHIRAC"
+	}, {
+		"role": "SE chargé du budget",
+		"debut": "7 janvier 1971",
+		"nom": "Jean TAITTINGER"
+	}, {
+		"role": "SE chargé du Commerce",
+		"nom": "Jean BAILLY"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"nom": "Olivier GUICHARD"
+	}, {
+		"role": "SE auprès du ministre de l’éducation nationale",
+		"nom": "Pierre BILLECOCQ"
+	}, {
+		"role": "Ministre du Développement industriel et scientifique",
+		"nom": "François ORTOLI"
+	}, {
+		"role": "SE chargé des Moyennes et Petites Entreprises et de l'Artisanat",
+		"nom": "Gabriel KASPEREIT"
+	}, {
+		"role": "SE auprès du ministre du développement industriel et scientifique",
+		"nom": "Bernard LAFAY"
+	}, {
+		"role": "Ministre de l'Equipement et du Logement",
+		"nom": "Albin CHALANDON"
+	}, {
+		"role": "SE chargé du Tourisme",
+		"nom": "Marcel ANTHONIOZ"
+	}, {
+		"role": "SE chargé du Logement",
+		"nom": "Robert-André VIVIEN"
+	}, {
+		"role": "Ministre des P. et T.",
+		"nom": "Robert GALLEY"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"fin": "7 janvier 1971",
+		"nom": "Jacques DUHAMEL"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"debut": "7 janvier 1971",
+		"nom": "Michel COINTAT"
+	}, {
+		"role": "SE auprès du ministre de l’agriculture",
+		"nom": "Bernard PONS"
+	}, {
+		"role": "Ministre des Transports",
+		"fin": "31 décembre 1970",
+		"nom": "Raymond MONDON"
+	}, {
+		"role": "Ministre des Transports",
+		"debut": "7 janvier 1971",
+		"nom": "Jean CHAMANT"
+	}, {
+		"role": "Ministre du Travail, de l'Emploi et de la Population",
+		"nom": "Joseph FONTANET"
+	}, {
+		"role": "SE auprès du ministre du travail, de l'emploi et de la population",
+		"fin": "15 mai 1972",
+		"nom": "Philippe DECHARTRE"
+	}, {
+		"role": "Ministre de la Santé publique et de la Sécurité sociale",
+		"nom": "Robert BOULIN"
+	}, {
+		"role": "SE chargée de l'Action sociale et de la Réadaptation",
+		"nom": "Marie-Madeleine DIENESCH"
+	}, {
+		"role": "Ministre des anciens Combattants et Victimes de guerre",
+		"nom": "Henri DUVILLARD"
+	}, {
+		"role": "MD chargé du Plan et de l'Aménagement du Territoire",
+		"nom": "André BETTENCOURT"
+	}, {
+		"role": "MD chargé des Dom-Tom",
+		"fin": "25 février 1971",
+		"nom": "Henri REY"
+	}, {
+		"role": "MD chargé de la Protection de la nature et de l'Environnement",
+		"debut": "7 janvier 1971",
+		"nom": "Robert POUJADE"
+	}, {
+		"role": "SE (+ Participation et Intéressement à compter du 15 mai 1972 + Porte-Parole du Gouvernement à compter du 18 juillet 1969)*",
+		"nom": "Léo HAMON"
+	}, {
+		"role": "SE chargé de la Fonction publique et de la Réforme administrative",
+		"nom": "Philippe MALAUD",
+		"info": "devenu Fonction publique le 7 janvier 1971"
+	}, {
+		"role": "SE chargé de la Jeunesse, des Sports et des Loisirs",
+		"nom": "Joseph COMITI"
+	}, {
+		"role": "SE auprès du Premier ministre",
+		"nom": "Jacques BAUMEL"
+	}, {
+		"role": "SE auprès du Premier ministre",
+		"debut": "15 mai 1972",
+		"nom": "Jean-Philippe LECAT"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Pierre MESSMER (1er Gouvernement)",
+	"debut_gouv": "5 juillet 1972",
+	"fin_gouv": "28 mars 1973",
+	 
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre de la Défense nationale",
+		"nom": "Michel DEBRE"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Affaires sociales",
+		"nom": "Edgar FAURE"
+	}, {
+		"role": "SE auprès du ministre d'État, chargé des affaires sociales",
+		"nom": "Christian PONCELET"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"fin": "15 mars 1973",
+		"nom": "René PLEVEN"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"fin": "15 mars 1973",
+		"nom": "Maurice SCHUMANN"
+	}, {
+		"role": "Ministre délégué auprès du ministre des affaires étrangères",
+		"nom": "André BETTENCOURT"
+	}, {
+		"role": "SE chargé de la Coopération",
+		"nom": "Pierre BILLECOCQ"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Raymond MARCELLIN"
+	}, {
+		"role": "Ministre de l'Economie et des Finances",
+		"nom": "Valéry GISCARD D'ESTAING"
+	}, {
+		"role": "SE chargé du budget",
+		"nom": "Jean TAITTINGER"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"nom": "Joseph FONTANET"
+	}, {
+		"role": "Ministre de l'Aménagement du territoire, de l'Equipement, du Logement et du Tourisme",
+		"nom": "Olivier GUICHARD"
+	}, {
+		"role": "SE auprès du ministre de l'équipement, du logement et de l'aménagement du territoire",
+		"nom": "Christian BONNET"
+	}, {
+		"role": "Ministre des Affaires culturelles",
+		"nom": "Jacques DUHAMEL"
+	}, {
+		"role": "Ministre de l'Agriculture et du Développement rural",
+		"nom": "Jacques CHIRAC"
+	}, {
+		"role": "SE auprès du ministre de l'agriculture et du développement rural",
+		"nom": "Bernard PONS"
+	}, {
+		"role": "Ministre du Développement industriel et scientifique",
+		"nom": "Jean CHARBONNEL"
+	}, {
+		"role": "Ministre de la Santé publique",
+		"nom": "Jean FOYER"
+	}, {
+		"role": "SE chargée de l'Action sociale et de la Réadaptation",
+		"nom": "Marie-Madeleine DIENESCH"
+	}, {
+		"role": "Ministre des Transports",
+		"nom": "Robert GALLEY"
+	}, {
+		"role": "Ministre des P. et T.",
+		"nom": "Hubert GERMAIN"
+	}, {
+		"role": "Ministre du Commerce et de l'Artisanat",
+		"nom": "Yvon BOURGES"
+	}, {
+		"role": "Ministre des anciens Combattants et Victimes de guerre",
+		"nom": "André BORD"
+	}, {
+		"role": "MD chargé des relations avec le Parlement",
+		"nom": "Robert BOULIN"
+	}, {
+		"role": "MD chargé de la Protection de la Nature et de l'Environnement",
+		"nom": "Robert POUJADE"
+	}, {
+		"role": "SE chargé de la Fonction publique et des services de l'Information",
+		"nom": "Philippe MALAUD"
+	}, {
+		"role": "SE chargé de la Jeunesse, des Sports et des Loisirs",
+		"nom": "Joseph COMITI"
+	}, {
+		"role": "SE Porte-Parole du Gouvernement",
+		"nom": "Jean-Philippe LECAT"
+	}, {
+		"role": "SE chargé des DOM-TOM",
+		"nom": "Xavier DENIAU"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Pierre MESSMER (2ème Gouvernement)",
+	"debut_gouv": "28 mars 1973",
+	"fin_gouv": "27 février 1974",
+	"Ministres": [{
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Jean TAITTINGER"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Michel JOBERT"
+	}, {
+		"role": "SE auprès du ministre des affaires étrangères",
+		"nom": "Jean de LIPKOWSKI"
+	}, {
+		"role": "SE auprès du ministre des affaires étrangères",
+		"nom": "Jean-François DENIAU"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Raymond MARCELLIN"
+	}, {
+		"role": "SE auprès du ministre de l'intérieur",
+		"nom": "Pierre VERTADIER"
+	}, {
+		"role": "Ministre des Armées",
+		"nom": "Robert GALLEY"
+	}, {
+		"role": "SE auprès du ministre des armées",
+		"nom": "Aymar ACHILLE-FOULD"
+	}, {
+		"role": "Ministre de l'Economie et des Finances",
+		"nom": "Valéry GISCARD D'ESTAING"
+	}, {
+		"role": "SE auprès du ministre de l'économie et des finances",
+		"fin": "23 octobre 1973",
+		"nom": "Jean-Philippe LECAT"
+	}, {
+		"role": "SE auprès du ministre de l'économie et des finances",
+		"debut": "23 octobre 1973",
+		"nom": "Henri TORRE"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"nom": "Joseph FONTANET"
+	}, {
+		"role": "SE auprès du ministre de l'éducation nationale",
+		"nom": "Jacques LIMOUZY"
+	}, {
+		"role": "SE auprès du ministre de l'éducation nationale",
+		"nom": "Suzanne PLOUX"
+	}, {
+		"role": "Ministre de l'Aménagement du territoire, de l'Equipement, du Logement et du Tourisme",
+		"nom": "Olivier GUICHARD"
+	}, {
+		"role": "SE auprès du ministre de l'aménagement du territoire, de l'équipement, du logement et du tourisme (chargé de la construction et de l'habitat, le 26 avril 1973)",
+		"nom": "Christian BONNET"
+	}, {
+		"role": "SE auprès du ministre de l'aménagement du territoire, de l'équipement, du logement et du tourisme",
+		"nom": "Aimé PAQUET"
+	}, {
+		"role": "Ministre des Réformes administratives",
+		"nom": "Alain PEYREFITTE"
+	}, {
+		"role": "Ministre  de la Protection de la Nature et de l'Environnement",
+		"nom": "Robert POUJADE"
+	}, {
+		"role": "Ministre des Affaires culturelles",
+		"nom": "Maurice DRUON"
+	}, {
+		"role": "Ministre de l'Agriculture et du Développement rural",
+		"nom": "Jacques CHIRAC"
+	}, {
+		"role": "Ministre du Développement industriel et scientifique",
+		"nom": "Jean CHARBONNEL"
+	}, {
+		"role": "SE auprès du Ministre du Développement industriel et scientifique",
+		"fin": "23 octobre 1973",
+		"nom": "Henri TORRE"
+	}, {
+		"role": "Ministre du Commerce et de l'Artisanat",
+		"nom": "Jean ROYER"
+	}, {
+		"role": "Ministre des Relations avec le Parlement, Porte-Parole du Gouvernement",
+		"nom": "Joseph COMITI"
+	}, {
+		"role": "SE auprès du Ministre des Relations avec le Parlement, Porte-Parole du Gouvernement",
+		"nom": "Olivier STIRN"
+	}, {
+		"role": "Ministre du Travail, de l'Emploi et de la Population",
+		"nom": "Georges GORSE"
+	}, {
+		"role": "SE auprès du Ministre du Travail, de l'Emploi et de la Population",
+		"nom": "Christian PONCELET"
+	}, {
+		"role": "Ministre de la Santé publique et de la Sécurité sociale",
+		"nom": "Michel PONIATOWSKI"
+	}, {
+		"role": "SE auprès du Ministre de la Santé publique et de la Sécurité sociale",
+		"nom": "Marie-Madeleine DIENESCH"
+	}, {
+		"role": "Ministre des Transports",
+		"nom": "Yves GUENA"
+	}, {
+		"role": "SE auprès du Ministre des Transports",
+		"nom": "Pierre BILLECOCQ"
+	}, {
+		"role": "Ministre de l'Information",
+		"fin": "23 octobre 1973",
+		"nom": "Philippe MALAUD"
+	}, {
+		"role": "Ministre de l'Information",
+		"debut": "23 octobre 1973",
+		"nom": "Jean-Philippe LECAT"
+	}, {
+		"role": "Ministre de la Fonction publique",
+		"debut": "23 octobre 1973",
+		"nom": "Philippe MALAUD"
+	}, {
+		"role": "Ministre des Postes et Télécommunications",
+		"nom": "Hubert GERMAIN"
+	}, {
+		"role": "Ministre des DOM-TOM",
+		"nom": "Bernard STASI"
+	}, {
+		"role": "Ministre des anciens Combattants et victimes de guerre",
+		"nom": "André BORD"
+	}, {
+		"role": "SE auprès du Premier ministre (+ chargé de la Fonction publique le 20/04/1973)",
+		"nom": "Paul DIJOUD"
+	}, {
+		"role": "SE auprès du Premier ministre",
+		"nom": "Pierre MAZEAUD"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Pierre MESSMER (3ème Gouvernement)",
+	"debut_gouv": "27 février 1974",
+	"fin_gouv": "27 mai 1974",
+	"Ministres": [{
+		"role": "Ministre d'Etat, Garde des Sceaux, Ministre de la Justice",
+		"nom": "Jean TAITTINGER"
+	}, {
+		"role": "Ministre de l'Economie et des Finances",
+		"nom": "Valéry GISCARD D'ESTAING"
+	}, {
+		"role": "SE chargé du Budget",
+		"nom": "Henri TORRE"
+	}, {
+		"role": "Ministre d'Etat, Ministre de l'Aménagement du territoire, de l'Equipement et des Transports ",
+		"nom": "Olivier GUICHARD"
+	}, {
+		"role": "SE chargé du Logement",
+		"nom": "Christian BONNET"
+	}, {
+		"role": "SE chargé des Transports",
+		"nom": "Aymar ACHILLE-FOULD"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Michel JOBERT"
+	}, {
+		"role": "SE auprès du ministre des affaires étrangères",
+		"nom": "Jean de LIPKOWSKI"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Jacques CHIRAC"
+	}, {
+		"role": "Ministre des Armées",
+		"nom": "Robert GALLEY"
+	}, {
+		"role": "SE chargé des Anciens Combattants et des Victimes de Guerre",
+		"nom": "André BORD"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"nom": "Joseph FONTANET"
+	}, {
+		"role": "SE chargé de la Jeunesse et des Sports",
+		"nom": "Pierre MAZEAUD"
+	}, {
+		"role": "SE auprès du ministre de l'éducation nationale",
+		"nom": "Jacques LIMOUZY"
+	}, {
+		"role": "Ministre de l'Agriculture et du Développement rural",
+		"nom": "Raymond MARCELLIN"
+	}, {
+		"role": "SE auprès du ministre de l'agriculture et du développement rural",
+		"nom": "Jean-François DENIAU"
+	}, {
+		"role": "Ministre des Affaires culturelles et de l'Environnement",
+		"nom": "Alain PEYREFITTE"
+	}, {
+		"role": "SE auprès du ministre des  affaires culturelles et de l'environnement, chargé de l'environnement",
+		"nom": "Paul DIJOUD"
+	}, {
+		"role": "Ministre de l'Industrie, du Commerce et de l'Artisanat",
+		"nom": "Yves GUENA"
+	}, {
+		"role": "Ministre des Relations avec le Parlement",
+		"nom": "Hubert GERMAIN"
+	}, {
+		"role": "SE auprès du ministre chargé des relations avec le Parlement  ",
+		"nom": "Olivier STIRN"
+	}, {
+		"role": "Ministre du Travail, de l'Emploi et de la Population",
+		"nom": "Georges GORSE"
+	}, {
+		"role": "Ministre de la Santé publique et de la Sécurité sociale",
+		"nom": "Michel PONIATOWSKI"
+	}, {
+		"role": "SE auprès du ministre de la santé publique et de la sécurité sociale",
+		"nom": "Marie-Madeleine DIENESCH"
+	}, {
+		"role": "Ministre des Postes et Télécommunications",
+		"fin": "11 avril 1974",
+		"nom": "Jean ROYER"
+	}, {
+		"role": "Ministre de l'Information",
+		"nom": "Jean-Philippe LECAT"
+	}, {
+		"role": "SE chargé des DOM-TOM",
+		"nom": "Joseph COMITI"
+	}, {
+		"role": "SE chargé de la Fonction publique",
+		"nom": "Christian PONCELET"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Jacques CHIRAC (1er Gouvernement)",
+	"debut_gouv": "27 mai 1974",
+	"fin_gouv": "25 août 1976",
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre de l'Intérieur",
+		"nom": "Michel PONIATOWSKI"
+	}, {
+		"role": "SE auprès du ministre d’État, ministre de l’intérieur",
+		"debut": "12 janvier 1976",
+		"nom": "Pierre-Christian TAITTINGER"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Jean LECANUET",
+		"info": "devenu Ministre d'Etat le 12 janvier 1976"
+	}, {
+		"role": "SE chargée de la Condition pénitentiaire",
+		"nom": "Hélène DORLHAC de BORNE"
+	}, {
+		"role": "Ministre de la Défense",
+		"fin": "31 janvier 1975",
+		"nom": "Jacques SOUFFLET"
+	}, {
+		"role": "Ministre de la Défense",
+		"debut": "31 janvier 1975",
+		"nom": "Yvon BOURGES"
+	}, {
+		"role": "SE auprès du ministre de la défense",
+		"debut": "31 janvier 1975",
+		"fin": "4 août 1975",
+		"nom": "Marcel BIGEARD"
+	}, {
+		"role": "Ministre de la Réforme",
+		"fin": "9 juin 1974",
+		"nom": "Jean-Jacques SERVAN-SCHREIBER"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Jean SAUVAGNARGUES"
+	}, {
+		"role": "SE auprès du ministre des affaires étrangères",
+		"nom": "Bernard DESTREMEAU"
+	}, {
+		"role": "SE auprès du ministre des affaires étrangères",
+		"debut": "12 janvier 1976",
+		"fin": "27 juillet 1976",
+		"nom": "Jean-François PONCET"
+	}, {
+		"role": "Ministre de l'Economie et des Finances",
+		"nom": "Jean-Pierre FOURCADE"
+	}, {
+		"role": "SE chargé du Budget",
+		"nom": "Christian PONCELET"
+	}, {
+		"role": "SE chargée de la Consommation",
+		"debut": "12 janvier 1976",
+		"nom": "Christiane SCRIVENER"
+	}, {
+		"role": "Ministre de l'Education",
+		"nom": "René HABY"
+	}, {
+		"role": "SE chargée de l'Enseignement préscolaire",
+		"fin": "12 janvier 1976",
+		"nom": "Annie LESUR"
+	}, {
+		"role": "Ministre de la Coopération",
+		"fin": "12 janvier 1976",
+		"nom": "Pierre ABELIN"
+	}, {
+		"role": "Ministre de la Coopération",
+		"fin": "12 janvier 1976",
+		"nom": "Jean de LIPKOWSKI"
+	}, {
+		"role": "Ministre de l'Equipement",
+		"nom": "Robert GALLEY"
+	}, {
+		"role": "SE chargé du Logement",
+		"nom": "Jacques BARROT"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"nom": "Christian BONNET"
+	}, {
+		"role": "SE chargé de l'Industrie alimentaire",
+		"debut": "12 janvier 1976",
+		"nom": "Jean TIBERI"
+	}, {
+		"role": "SE auprès du ministre de l’agriculture",
+		"debut": "31 janvier 1975",
+		"fin": "12 janvier 1976",
+		"nom": "Jean-François DENIAU"
+	}, {
+		"role": "SE auprès du ministre de l’agriculture",
+		"debut": "12 janvier 1976",
+		"nom": "Pierre MEHAIGNERIE"
+	}, {
+		"role": "Ministre de la Qualité de la Vie",
+		"fin": "12 janvier 1976",
+		"nom": "André JARROT"
+	}, {
+		"role": "Ministre de la Qualité de la Vie",
+		"debut": "12 janvier 1976",
+		"nom": "André FOSSET"
+	}, {
+		"role": "SE chargé de la Jeunesse et des Sports",
+		"nom": "Pierre MAZEAUD"
+	}, {
+		"role": "SE chargé de l'Environnement",
+		"fin": "29 octobre 1974",
+		"nom": "Gabriel PERONNET"
+	}, {
+		"role": "SE chargé de l'Environnement",
+		"debut": "12 janvier 1976",
+		"nom": "Paul GRANET"
+	}, {
+		"role": "SE chargé du Tourisme",
+		"fin": "12 janvier 1976",
+		"nom": "Gérard DUCRAY"
+	}, {
+		"role": "SE chargé du Tourisme",
+		"debut": "12 janvier 1976",
+		"nom": "Jacques MEDECIN"
+	}, {
+		"role": "Ministre du Travail",
+		"nom": "Michel DURAFOUR"
+	}, {
+		"role": "SE chargé des Travailleurs immigrés",
+		"fin": "22 juillet 1974",
+		"nom": "André POSTEL-VINAY",
+		"info": "Démissionne"
+	}, {
+		"role": "SE chargé des Travailleurs immigrés",
+		"debut": "22 juillet 1974",
+		"nom": "Paul DIJOUD"
+	}, {
+		"role": "SE chargé de la Condition des Travailleurs manuel",
+		"debut": "12 janvier 1976 ",
+		"nom": "Lionel STOLERU"
+	}, {
+		"role": "Ministre de la Santé",
+		"nom": "Simone VEIL"
+	}, {
+		"role": "SE auprès du ministre de la santé (action sociale)",
+		"nom": "René LENOIR"
+	}, {
+		"role": "Ministre de l'Industrie (devenu Ministre de l'Industrie et de la Recherche)",
+		"nom": "Michel D'ORNANO"
+	}, {
+		"role": "Ministre du Commerce et de l'Artisanat",
+		"nom": "Vincent ANSQUER"
+	}, {
+		"role": "SE, Porte-Parole du Gouvernement",
+		"nom": "André ROSSI"
+	}, {
+		"role": "SE chargé des Relations avec le Parlement",
+		"nom": "René TOMASINI"
+	}, {
+		"role": "SE chargée de la Condition féminine",
+		"debut": "16 juillet 1974",
+		"nom": "Françoise GIROUD"
+	}, {
+		"role": "SE chargé de la Fonction publique",
+		"fin": "29 octobre 1974",
+		"nom": "Roger POUDONSON",
+		"info": "démissionne"
+	}, {
+		"role": "SE chargé de la Fonction publique",
+		"debut": "29 octobre 1974",
+		"nom": "Gabriel PERONNET"
+	}, {
+		"role": "SE chargé de la Formation professionnelle",
+		"fin": "22 janvier 1976",
+		"nom": "Paul GRANET"
+	}, {
+		"role": "SE chargé de la Formation professionnelle",
+		"debut": "22 janvier 1976",
+		"nom": "Jean-Pierre SOISSON"
+	}, {
+		"role": "SE chargé des Anciens Combattants",
+		"nom": "André BORD"
+	}, {
+		"role": "SE chargé des P. et T.",
+		"fin": "31 janvier 1975",
+		"nom": "Pierre LELONG"
+	}, {
+		"role": "SE chargé des P. et T.",
+		"debut": "31 janvier 1975",
+		"fin": "12 janvier 1976",
+		"nom": "Aymar ACHILLE-FOULD"
+	}, {
+		"role": "SE chargé des P. et T.",
+		"debut": "12 janvier 1976",
+		"nom": "Norbert SEGARD"
+	}, {
+		"role": "SE chargé des Transports",
+		"nom": "Marcel CAVAILLE"
+	}, {
+		"role": "SE chargé de la Culture",
+		"nom": "Michel GUY"
+	}, {
+		"role": "SE chargé du Commerce extérieur (devenu Ministère le 31/01/1975)",
+		"fin": "12 janvier 1976",
+		"nom": "Norbert SEGARD"
+	}, {
+		"role": "SE chargé du Commerce extérieur (devenu Ministère le 31/01/1975)",
+		"fin": "12 janvier 1976",
+		"nom": "Raymond BARRE"
+	}, {
+		"role": "SE chargé des Universités",
+		"fin": "12 janvier 1976",
+		"nom": "Jean-Pierre SOISSON"
+	}, {
+		"role": "SE chargé des Universités",
+		"debut": "12 janvier 1976",
+		"nom": "Alice SAUNIER-SEITE"
+	}, {
+		"role": "SE chargé des DOM-TOM",
+		"nom": "Olivier STIRN"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Raymond BARRE (1er Gouvernement)",
+	"debut_gouv": "25 août 1976",
+	"fin_gouv": "29 mars 1977",
+	"Ministres": [{
+		"role": "Ministre d'Etat, Garde des Sceaux, Ministre de la Justice",
+		"nom": "Olivier GUICHARD"
+	}, {
+		"role": "Ministre d'Etat, Ministre de l'Intérieur",
+		"nom": "Michel PONIATOWSKI"
+	}, {
+		"role": "SE chargé des DOM-TOM",
+		"nom": "Oliver STIRN"
+	}, {
+		"role": "Ministre d'Etat, Ministre du Plan et de l'Aménagement du Territoire",
+		"nom": "Jean LECANUET"
+	}, {
+		"role": "Premier Ministre, Ministre de l'Economie et des Finances",
+		"nom": "Raymond BARRE"
+	}, {
+		"role": "MD chargé de l'Economie et des Finances",
+		"nom": "Michel DURAFOUR"
+	}, {
+		"role": "SE chargé du Budget",
+		"nom": "Christian PONCELET"
+	}, {
+		"role": "SE chargée de la Consommation",
+		"nom": "Christiane SCRIVENER"
+	}, {
+		"role": "SE chargé de la Fonction publique",
+		"nom": "Maurice LIGOT"
+	}, {
+		"role": "SE",
+		"nom": "Antoine RUFFENACHT"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Louis de GUIRINGAUD"
+	}, {
+		"role": "SE",
+		"nom": "Pierre-Christian TAITTINGER"
+	}, {
+		"role": "Ministre de la Défense",
+		"nom": "Yvon BOURGES"
+	}, {
+		"role": "Ministre de l'Education",
+		"nom": "René HABY"
+	}, {
+		"role": "Ministre de la Coopération",
+		"nom": "Robert GALLEY"
+	}, {
+		"role": "Ministre de l'Equipement",
+		"nom": "Jean-Pierre FOURCADE"
+	}, {
+		"role": "SE chargé des Transports",
+		"nom": "Marcel CAVAILLE"
+	}, {
+		"role": "SE chargé du Logement",
+		"nom": "Jacques BARROT"
+	}, {
+		"role": "Ministre des Relations avec le Parlement",
+		"nom": "Robert BOULIN"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"nom": "Christian BONNET"
+	}, {
+		"role": "SE",
+		"nom": "Pierre MEHAIGNERIE"
+	}, {
+		"role": "Ministre du Travail",
+		"nom": "Christian BEULLAC"
+	}, {
+		"role": "SE chargé des Travailleurs immigrés",
+		"nom": "Paul DIJOUD"
+	}, {
+		"role": "SE chargés des Travailleurs manuels",
+		"nom": "Lionel STOLERU"
+	}, {
+		"role": "Ministre de la Santé",
+		"nom": "Simone VEIL"
+	}, {
+		"role": "SE chargé de l'Action sociale",
+		"nom": "René LENOIR"
+	}, {
+		"role": "Ministre de l'Industrie et de la Recherche",
+		"nom": "Michel D'ORNANO"
+	}, {
+		"role": "Ministre de la qualité de la vie",
+		"nom": "Vincent ANSQUER"
+	}, {
+		"role": "SE",
+		"debut": "20 décembre 1976",
+		"nom": "Claude COULAIS"
+	}, {
+		"role": "Ministre de la Qualité de la Vie",
+		"nom": "Vincent ANSQUIER"
+	}, {
+		"role": "SE chargé de la Jeunesse et des Sports",
+		"nom": "Jean-Pierre SOISSON"
+	}, {
+		"role": "SE chargé du Tourisme",
+		"nom": "Jacques MEDECIN"
+	}, {
+		"role": "Ministre du Commerce et de l'Artisanat",
+		"nom": "Pierre BROUSSE"
+	}, {
+		"role": "Ministre du Commerce extérieur",
+		"nom": "André ROSSI"
+	}, {
+		"role": "SE chargé des P. et T.",
+		"nom": "Norbert SEGARD"
+	}, {
+		"role": "SE chargé des Anciens Combattants",
+		"nom": "André BORD"
+	}, {
+		"role": "SE chargée de la Culture",
+		"nom": "Françoise GIROUD"
+	}, {
+		"role": "SE chargée des Universités",
+		"nom": "Alice SAUNIER-SEITE"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Raymond BARRE (2ème Gouvernement)",
+	"debut_gouv": "30 mars 1977",
+	"fin_gouv": "31 mars 1978",
+	"Ministres": [{
+		"role": "Premier Ministre, Ministre de l'Economie et des Finances",
+		"nom": "Raymond BARRE"
+	}, {
+		"role": "SE chargé des Relations avec le Parlement",
+		"fin": "26 septembre 1977",
+		"nom": "Christian PONCELET",
+		"info": "demissionne"
+	}, {
+		"role": "SE chargé des Relations avec le Parlement",
+		"debut": "26 septembre 1977",
+		"nom": "André BORD"
+	}, {
+		"role": "SE chargé de la Fonction publique",
+		"nom": "Maurice LIGOT"
+	}, {
+		"role": "SE chargé de la Recherche",
+		"nom": "Jacques SOURDILLE"
+	}, {
+		"role": "SE chargé des Rapports entre le public et l'administration",
+		"nom": "Jacques DOMINATI"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Alain PEYREFITTE"
+	}, {
+		"role": "SE auprès du garde des sceaux, ministre de la justice",
+		"debut": "10 janvier 1978",
+		"nom": "Monique PELLETIER"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Louis de GUIRINGAUD"
+	}, {
+		"role": "SE auprès du ministre des affaires étrangères",
+		"fin": "26 septembre 1977",
+		"nom": "Pierre-Christian TAITTINGER",
+		"info": "démissionne"
+	}, {
+		"role": "SE auprès du ministre des affaires étrangères",
+		"debut": "26 septembre 1977",
+		"nom": "Jean-François DENIAU"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Christian BONNET"
+	}, {
+		"role": "SE chargé des DOM-TOM",
+		"nom": "Olivier STIRN"
+	}, {
+		"role": "SE chargé des Collectivités locales",
+		"nom": "Marc BECAM"
+	}, {
+		"role": "Ministre de la Défense",
+		"nom": "Yvon BOURGES"
+	}, {
+		"role": "SE auprès du ministre de la Défense",
+		"fin": "26 septembre 1977",
+		"nom": "Jean-Jacques BEUCLER"
+	}, {
+		"role": "Ministre de la Coopération",
+		"nom": "Robert GALLEY"
+	}, {
+		"role": "Ministre de la Culture et de l'Environnement",
+		"nom": "Michel d'ORNANO"
+	}, {
+		"role": "SE chargé du Tourisme",
+		"nom": "Jacques MEDECIN"
+	}, {
+		"role": "MD chargé de l'Economie et des Finances",
+		"nom": "Robert BOULIN"
+	}, {
+		"role": "SE chargé du Budget",
+		"nom": "Pierre BERNARD-REYMOND"
+	}, {
+		"role": "SE chargée de la Consommation",
+		"nom": "Catherine SCRIVENER"
+	}, {
+		"role": "Ministre de l'Equipement et de l'Aménagement du territoire",
+		"fin": "26 septembre 1977",
+		"nom": "Jean-Pierre FOURCADE"
+	}, {
+		"role": "Ministre de l'Equipement et de l'Aménagement du territoire",
+		"debut": "26 septembre 1977",
+		"nom": "Fernand ICART"
+	}, {
+		"role": "SE chargé du Logement",
+		"nom": "Jacques BARROT"
+	}, {
+		"role": "SE chargé des Transports",
+		"nom": "Marcel CAVAILLE"
+	}, {
+		"role": "SE chargé de l'Aménagement du territoire",
+		"fin": "8 juin 1977",
+		"nom": "Paul DIJOUD"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"nom": "René HABY"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"nom": "Pierre MEHAIGNERIE"
+	}, {
+		"role": "SE auprès du ministre de l’agriculture",
+		"nom": "Jacques BLANC"
+	}, {
+		"role": "Ministre de l'Industrie, du Commerce et de l'Artisanat",
+		"nom": "René MONORY"
+	}, {
+		"role": "SE auprès du ministre de l’industrie, du commerce et de l’artisanat",
+		"nom": "Antoine RUFFENACHT"
+	}, {
+		"role": "SE auprès du ministre de l’industrie, du commerce et de l’artisanat",
+		"nom": "Claude COULAIS"
+	}, {
+		"role": "Ministre du Travail",
+		"nom": "Christian BEULLAC"
+	}, {
+		"role": "SE auprès du ministre du travail",
+		"nom": "Lionel STOLERU"
+	}, {
+		"role": "SE auprès du ministre du travail",
+		"nom": "Jacques LEGENDRE"
+	}, {
+		"role": "SE chargée de l'Emploi féminin",
+		"debut": "10 janvier 1978",
+		"nom": "Nicole PASQUIER"
+	}, {
+		"role": "Ministre de la Santé et de la Sécurité sociale",
+		"nom": "Simone VEIL"
+	}, {
+		"role": "SE auprès du ministre de la santé et de la sécurité sociale",
+		"nom": "René LENOIR"
+	}, {
+		"role": "SE auprès du ministre de la santé et de la sécurité sociale",
+		"nom": "Hélène MISSOFFE"
+	}, {
+		"role": "Ministre du Commerce extérieur",
+		"nom": "André ROSSI"
+	}, {
+		"role": "SE chargé des P. et T.",
+		"nom": "Norbert SEGARD"
+	}, {
+		"role": "SE chargé des Anciens Combattants",
+		"fin": "26 septembre 1977",
+		"nom": "André BORD"
+	}, {
+		"role": "SE chargé des Anciens Combattants",
+		"debut": "26 septembre 1977",
+		"nom": "Jean-Jacques BEUCLER"
+	}, {
+		"role": "SE chargée des Universités (devenu Ministère le 10 janvier 1978)",
+		"nom": "Alice SAUNIER-SEITE"
+	}, {
+		"role": "SE chargé de la Jeunesse et des Sports",
+		"fin": "1er juin 1977",
+		"nom": "Jean-Pierre SOISSON"
+	}, {
+		"role": "SE chargé de la Jeunesse et des Sports",
+		"debut": "8 juin 1977",
+		"nom": "Paul DIJOUD"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Raymond BARRE (3ème Gouvernement)",
+	"debut_gouv": "03 avril 1978",
+	"fin_gouv": "13 mai 1981",
+	  
+	"Ministres": [{
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Alain PEYREFITTE"
+	}, {
+		"role": "SE auprès du garde des sceaux, ministre de la justice",
+		"fin": "11 septembre 1978",
+		"nom": "Monique PELLETIER"
+	}, {
+		"role": "SE auprès du garde des sceaux, ministre de la justice",
+		"debut": "11 septembre 1978",
+		"nom": "Jean-Paul MOUROT"
+	}, {
+		"role": "Ministre de la Santé et de la Famille",
+		"fin": "4 juillet 1979",
+		"nom": "Simone VEIL"
+	}, {
+		"role": "Ministre de la Santé et de la Sécurité Sociale",
+		"debut": "4 juillet 1979",
+		"nom": "Jacques BARROT"
+	}, {
+		"role": "SE auprès du ministre de la santé et de la famille",
+		"fin": "2 octobre 1980",
+		"nom": "Daniel HOEFFEL"
+	}, {
+		"role": "SE auprès du ministre de la santé et de la famille",
+		"debut": "2 octobre 1980",
+		"nom": "Rémy MONTAGNE"
+	}, {
+		"role": "SE auprès du ministre de la santé et de la sécurité sociale",
+		"debut": "5 juillet 1979",
+		"nom": "Jean FARGE"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Christian BONNET"
+	}, {
+		"role": "SE chargé des DOM-TOM",
+		"nom": "Paul DIJOUD"
+	}, {
+		"role": "SE chargé des Collectivités locales",
+		"fin": "2 octobre 1980",
+		"nom": "Marc BECAM"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"fin": "29 novembre 1978",
+		"nom": "Louis de GUIRINGAUD"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"debut": "29 novembre 1978",
+		"nom": "Jean-François PONCET"
+	}, {
+		"role": "SE auprès du ministre des affaires étrangères",
+		"fin": "11 septembre 1978",
+		"nom": "Olivier STIRN"
+	}, {
+		"role": "SE auprès du ministre des affaires étrangères",
+		"debut": "11 septembre 1978",
+		"nom": "Pierre BERNARD-REYMOND"
+	}, {
+		"role": "Ministre de la Défense",
+		"fin": "2 octobre 1980",
+		"nom": "Yvon BOURGES"
+	}, {
+		"role": "Ministre de la Défense",
+		"debut": "2 octobre 1980",
+		"nom": "Joël LE THEULE"
+	}, {
+		"role": "Ministre du Travail et de la Participation",
+		"fin": "8 novembre 1979",
+		"nom": "Robert BOULIN"
+	}, {
+		"role": "Ministre du Travail et de la Participation",
+		"debut": "8 novembre 1979",
+		"nom": "Jean MATTEOLI"
+	}, {
+		"role": "SE chargé de la Formation Professionnelle",
+		"nom": "Jacques LEGENDRE"
+	}, {
+		"role": "Ministre des Travailleurs manuels et immigrés",
+		"nom": "Lionel STOLERU"
+	}, {
+		"role": "Ministre de l'Emploi féminin",
+		"nom": "Nicole PASQUIER"
+	}, {
+		"role": "Ministre de la Coopération",
+		"nom": "Robert GALLEY"
+	}, {
+		"role": "Ministre de l'Economie",
+		"nom": "René MONORY"
+	}, {
+		"role": "Ministre du Budget",
+		"nom": "Maurice PAPON"
+	}, {
+		"role": "Ministre de l'Environnement et du Cadre de vie (+ le 4/03/1981 : culture et communication)",
+		"nom": "Michel d'ORNANO"
+	}, {
+		"role": "SE chargé du Logement",
+		"fin": "2 octobre 1980",
+		"nom": "Marcel CAVAILLE"
+	}, {
+		"role": "SE chargé de l'Environnement",
+		"nom": "François DELMAS"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"nom": "Christian BEULAC"
+	}, {
+		"role": "SE auprès du ministre de l’éducation nationale",
+		"fin": "2 octobre 1980",
+		"nom": "Jacques PELLETIER"
+	}, {
+		"role": "Ministre des Universités (+ le 04/03/1981 : condition féminine)",
+		"nom": "Alice SAUNIER-SEITE"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"nom": "Pierre MEHAIGNERIE"
+	}, {
+		"role": "SE auprès du ministre de l’agriculture",
+		"nom": "Jacques FOUCHIER"
+	}, {
+		"role": "Ministre de l'Industrie",
+		"nom": "André GIRAUD"
+	}, {
+		"role": "SE chargé des Petites et Moyennes Entreprises",
+		"nom": "Jean-Pierre PROUTEAU"
+	}, {
+		"role": "Ministre des Transports",
+		"fin": "2 octobre 1980",
+		"nom": "Joël LE THEULE"
+	}, {
+		"role": "Ministre des Transports",
+		"debut": "2 octobre 1980",
+		"nom": "Daniel HOEFFEL"
+	}, {
+		"role": "Ministre du Commerce et de l'Artisanat",
+		"fin": "4 juillet 1979",
+		"nom": "Jacques BARROT"
+	}, {
+		"role": "Ministre du Commerce et de l'Artisanat",
+		"debut": "4 juillet 1979",
+		"nom": "Maurice CHARRETIER"
+	}, {
+		"role": "Ministre du Commerce extérieur",
+		"fin": "2 octobre 1980",
+		"nom": "Jean-François DENIAU"
+	}, {
+		"role": "Ministre du Commerce extérieur",
+		"debut": "2 octobre 1980",
+		"nom": "Michel COINTAT"
+	}, {
+		"role": "Ministre de la Jeunesse, des Sports et des Loisirs",
+		"nom": "Jean-Pierre SOISSON"
+	}, {
+		"role": "Ministre de la Culture et de la Communication",
+		"nom": "Jean-Philippe LECAT"
+	}, {
+		"role": "Ministre délégué auprès du Premier ministre",
+		"debut": "5 octobre 1980",
+		"nom": "Norbert SEGARD"
+	}, {
+		"role": "Ministre déléguée chargée de la Condition féminine",
+		"debut": "11 septembre 1978",
+		"nom": "Monique PELLETIER"
+	}, {
+		"role": "Ministre délégué chargé des Réformes administratives",
+		"fin": "2 octobre 1980",
+		"nom": "Jean-François DENIAU",
+		"info": "démissionne"
+	}, {
+		"role": "Ministre délégué chargé des Réformes administratives",
+		"debut": "4 mars 1981",
+		"nom": "Raymond BARRE"
+	}, {
+		"role": "SE chargé de la Fonction publique",
+		"nom": "Jacques DOMINATI"
+	}, {
+		"role": "SE chargé des Relations avec le Parlement",
+		"nom": "Jacques LIMOUZY"
+	}, {
+		"role": "SE chargé de la Recherche",
+		"nom": "Pierre AIGRAIN"
+	}, {
+		"role": "SE chargé de l'Industrie agricole et alimentaire",
+		"debut": "22 octobre 1979",
+		"nom": "Michel DEBATISSE"
+	}, {
+		"role": "SE chargé des P. et T.",
+		"fin": "5 novembre 1980",
+		"nom": "Norbert SEGARD"
+	}, {
+		"role": "SE chargé des P. et T.",
+		"debut": "5 novembre 1980",
+		"nom": "Pierre RIBES"
+	}, {
+		"role": "SE chargé des Anciens Combattants",
+		"nom": "Maurice PLANTIER"
+	} ]
+}, {
+	"nom_gouv": "Gouvernement de Pierre MAUROY (1er Gouvernement)",
+	"debut_gouv": "21 mai 1981",
+	"fin_gouv": "22 juin 1981",
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre de l'Intérieur et de la décentralisation",
+		"nom": "Gaston DEFFERRE"
+	}, {
+		"role": "SE chargé des DOM-TOM",
+		"nom": "Henri EMMANUELLI"
+	}, {
+		"role": "Ministre d'Etat, Ministre de la Solidarité nationale",
+		"nom": "Nicole QUESTIAUX"
+	}, {
+		"role": "SE chargé de la Sécurité sociale",
+		"nom": "François AUTAIN"
+	}, {
+		"role": "SE chargé des Personnes âgées",
+		"nom": "Joseph FRANCESCHI"
+	}, {
+		"role": "SE chargée de la Famille",
+		"nom": "Georgina DUFOIX"
+	}, {
+		"role": "Ministre d'Etat, Ministre du Commerce extérieur",
+		"nom": "Michel JOBERT"
+	}, {
+		"role": "Ministre d'Etat, Ministre du Plan et de l'Aménagement du Territoire",
+		"nom": "Michel ROCARD"
+	}, {
+		"role": "Ministre d'Etat, Ministre de la Recherche et de la Technologie",
+		"nom": "Jean-Pierre CHEVENEMENT"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Maurice FAURE"
+	}, {
+		"role": "Ministre des Relations extérieures",
+		"nom": "Claude CHEYSSON"
+	}, {
+		"role": "MD chargé des Relations européennes",
+		"nom": "André CHANDERNAGOR"
+	}, {
+		"role": "MD chargé de la Coopération (et du développement rectificatif JO du 24 mai)",
+		"nom": "Jean-Pierre COT"
+	}, {
+		"role": "Ministre de la Défense",
+		"nom": "Charles HERNU"
+	}, {
+		"role": "Ministre de l'Economie et des Finances",
+		"nom": "Jacques DELORS"
+	}, {
+		"role": "MD chargé du Budget",
+		"nom": "Laurent FABIUS"
+	}, {
+		"role": "Ministre de l'Education Nationale",
+		"nom": "Alain SAVARY"
+	}, {
+		"role": "SE chargé de la Formation professionnelle",
+		"nom": "Marcel DEBARGE"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"nom": "Edith CRESSON"
+	}, {
+		"role": "SE auprès du ministre de l’agriculture",
+		"nom": "André CELLARD"
+	}, {
+		"role": "Ministre de l'Industrie",
+		"nom": "Pierre JOXE"
+	}, {
+		"role": "SE chargé de l'Energie",
+		"nom": "Georges LEMOINE"
+	}, {
+		"role": "Ministre du Commerce et de l'Artisanat",
+		"nom": "André DELELIS"
+	}, {
+		"role": "Ministre du Travail",
+		"nom": "Jean AUROUX"
+	}, {
+		"role": "Ministre de l'Equipement et des Transports",
+		"nom": "Louis MERMAZ"
+	}, {
+		"role": "Ministre de la Santé",
+		"nom": "Edmond HERVE"
+	}, {
+		"role": "Ministre du Temps libre",
+		"nom": "André HENRY"
+	}, {
+		"role": "MD chargée de la Jeunesse et des Sports",
+		"nom": "Edwige AVICE"
+	}, {
+		"role": "SE chargé du Tourisme",
+		"nom": "François ABADIE"
+	}, {
+		"role": "Ministre de la Culture",
+		"nom": "Jack LANG"
+	}, {
+		"role": "Ministre de la Communication",
+		"nom": "Georges FILLIOUD"
+	}, {
+		"role": "Ministre du Logement",
+		"nom": "Roger QUILLIOT"
+	}, {
+		"role": "Ministre de l'Environnement",
+		"nom": "Michel CREPEAU"
+	}, {
+		"role": "SE auprès du ministre de l’environnement",
+		"nom": "Alain BOMBARD"
+	}, {
+		"role": "Ministre de la Mer",
+		"nom": "Louis LE PENSEC"
+	}, {
+		"role": "Ministre des P.T.T.",
+		"nom": "Louis MEXANDEAU"
+	}, {
+		"role": "Ministre des Anciens Combattants",
+		"nom": "Jean LAURAIN"
+	}, {
+		"role": "MD chargée des Droits de la Femme",
+		"nom": "Yvette ROUDY"
+	}, {
+		"role": "MD chargé des Relations avec le Parlement",
+		"nom": "André LABARRERE"
+	}, {
+		"role": "SE auprès du Premier ministre",
+		"nom": "Jean LE GARREC"
+	}, {
+		"role": "SE chargée de la Fonction Publique et des Réformes administratives",
+		"nom": "Catherine LALUMIERE"
+	}, {
+		"role": "SE chargé des Rapatriés",
+		"nom": "Raymond COURRIERE"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Pierre MAUROY (2ème Gouvernement)",
+	"debut_gouv": "22 juin 1981",
+	"fin_gouv": "22 mars 1983",
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre de l'Intérieur et de la décentralisation",
+		"nom": "Gaston DEFFERRE"
+	}, {
+		"role": "SE chargé des DOM-TOM",
+		"nom": "Henri EMMANUELLI"
+	}, {
+		"role": "SE chargé de la Sécurité publique",
+		"debut": "17 août 1982",
+		"nom": "Joseph FRANCESCHI"
+	}, {
+		"role": "Ministre d'Etat, Ministre du Commerce extérieur",
+		"nom": "Michel JOBERT"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Transports",
+		"nom": "Charles FITERMAN"
+	}, {
+		"role": "Ministre d'Etat, Ministre du Plan et de l'Aménagement du Territoire",
+		"nom": "Michel ROCARD"
+	}, {
+		"role": "Ministre d'Etat, Ministre de la Recherche et de la Technologie (devenu Recherche et Industrie le 29 juin 1982)",
+		"nom": "Jean-Pierre CHEVENEMENT"
+	}, {
+		"role": "Ministre de la Solidarité nationale",
+		"nom": "Nicole QUESTIAUX",
+		"info": "démissionne"
+	}, {
+		"role": "Ministre des Affaires sociales et de la Solidarité nationale",
+		"fin": "29 juin 1982",
+		"nom": "Pierre BEREGOVOY"
+	}, {
+		"role": "MD chargé des Affaires sociales chargé de l'Emploi",
+		"debut": "29 juin 1982",
+		"nom": "Jean AUROUX"
+	}, {
+		"role": "SE chargée de la Famille",
+		"nom": "Georgina DUFOIX"
+	}, {
+		"role": "SE chargé des Immigrés",
+		"nom": "François AUTAIN"
+	}, {
+		"role": "SE chargé des Personnes âgées",
+		"fin": "17 août 1982",
+		"nom": "Joseph FRANCESCHI"
+	}, {
+		"role": "SE chargé des Personnes âgées",
+		"debut": "8 décembre 1982",
+		"nom": "Daniel BENOIST"
+	}, {
+		"role": "Ministre des Relations extérieures",
+		"nom": "Claude CHEYSSON"
+	}, {
+		"role": "MD chargé des Relations européennes",
+		"nom": "André CHANDERNAGOR"
+	}, {
+		"role": "MD chargé de la Coopération et du Développement",
+		"fin": "8 décembre 1982",
+		"nom": "Jean-Pierre COT"
+	}, {
+		"role": "MD chargé de la Coopération et du Développement",
+		"debut": "8 décembre 1982",
+		"nom": "Christian NUCCI"
+	}, {
+		"role": "Ministre de la Défense",
+		"nom": "Charles HERNU"
+	}, {
+		"role": "SE auprès du ministre de la défense",
+		"nom": "Georges LEMOINE"
+	}, {
+		"role": "Ministre de l'Economie et des Finances",
+		"nom": "Jacques DELORS"
+	}, {
+		"role": "MD chargé du Budget",
+		"nom": "Laurent FABIUS"
+	}, {
+		"role": "Ministre de l'Education Nationale",
+		"nom": "Alain SAVARY"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"nom": "Edith CRESSON"
+	}, {
+		"role": "SE auprès du ministre de l’agriculture",
+		"nom": "André CELLARD"
+	}, {
+		"role": "Ministre de l'Industrie",
+		"fin": "29 juin 1982 (démissionne)",
+		"nom": "Pierre DREYFUS"
+	}, {
+		"role": "MD chargé de l'Energie",
+		"nom": "Edmond HERVE"
+	}, {
+		"role": "Ministre du Commerce et de l'Artisanat",
+		"nom": "André DELELIS"
+	}, {
+		"role": "Ministre de la Culture",
+		"nom": "Jack LANG"
+	}, {
+		"role": "Ministre du Travail",
+		"fin": "29 juin 1982",
+		"nom": "Jean AUROUX"
+	}, {
+		"role": "Ministre de la Santé",
+		"nom": "Jack RALITE"
+	}, {
+		"role": "Ministre du Temps libre",
+		"nom": "André HENRY"
+	}, {
+		"role": "MD chargée de la Jeunesse et des Sports",
+		"nom": "Edwige AVICE"
+	}, {
+		"role": "SE chargé du Tourisme",
+		"nom": "François ABADIE"
+	}, {
+		"role": "Ministre de l'Urbanisme et du Logement",
+		"nom": "Roger QUILLIOT"
+	}, {
+		"role": "Ministre de l'Environnement",
+		"nom": "Michel CREPEAU"
+	}, {
+		"role": "Ministre de la Mer",
+		"nom": "Louis LE PENSEC"
+	}, {
+		"role": "Ministre de la Communication",
+		"nom": "Georges FILLIOUD"
+	}, {
+		"role": "Ministre des P.T.T.",
+		"nom": "Louis MEXANDEAU"
+	}, {
+		"role": "Ministre des Anciens Combattants",
+		"nom": "Jean LAURAIN"
+	}, {
+		"role": "Ministre de la Consommation",
+		"nom": "Catherine LALUMIERE"
+	}, {
+		"role": "Ministre de la Formation professionnelle",
+		"nom": "Marcel RIGOUT"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Robert BADINTER"
+	}, {
+		"role": "MD chargée des Droits de la Femme",
+		"nom": "Yvette ROUDY"
+	}, {
+		"role": "MD chargé des Relations avec le Parlement",
+		"nom": "André LABARRERE"
+	}, {
+		"role": "MD chargé de la Fonction Publique et des Réformes administratives",
+		"nom": "Anicet LE PORS"
+	}, {
+		"role": "MD chargé de l'Emploi",
+		"debut": "29 juin 1982",
+		"nom": "Jean LE GARREC"
+	}, {
+		"role": "SE chargé de l'Extension du secteur public",
+		"fin": "29 juin 1982",
+		"nom": "Jean LE GARREC"
+	}, {
+		"role": "SE chargé des Rapatriés",
+		"nom": "Raymond COURRIERE"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Pierre MAUROY (3ème Gouvernement)",
+	"debut_gouv": "22 mars 1983",
+	"fin_gouv": "17 juillet 1984",
+	"Ministres": [{
+		"role": "Ministre de l'Economie et des Finances",
+		"nom": "Jacques DELORS"
+	}, {
+		"role": "SE chargé du Budget",
+		"nom": "Henri EMMANUELLI"
+	}, {
+		"role": "SE chargée de la Consommation",
+		"nom": "Catherine LALUMIERE"
+	}, {
+		"role": "Ministre des Affaires sociales et de la Solidarité nationale",
+		"nom": "Pierre BEREGOVOY"
+	}, {
+		"role": "MD chargé de l'Emploi",
+		"nom": "Jack RALITE"
+	}, {
+		"role": "SE chargé de la Famille, de la Population et des Travailleurs immigrés",
+		"nom": "Georgina DUFOIX"
+	}, {
+		"role": "SE chargé des Personnes âgées",
+		"nom": "Daniel BENOIST"
+	}, {
+		"role": "SE chargé des Rapatriés",
+		"nom": "Raymond COURRIERE"
+	}, {
+		"role": "SE chargé de la Santé",
+		"nom": "Edmond HERVE"
+	}, {
+		"role": "Ministre de l'Intérieur et de la décentralisation",
+		"nom": "Gaston DEFFERRE"
+	}, {
+		"role": "SE chargé de la Sécurité publique",
+		"nom": "Joseph FRANCESCHI"
+	}, {
+		"role": "SE chargé des DOM-TOM",
+		"nom": "Georges LEMOINE"
+	}, {
+		"role": "Ministre des Transports",
+		"nom": "Charles FITERMAN"
+	}, {
+		"role": "SE chargé de la Mer",
+		"nom": "Guy LENGAGNE"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Robert BADINTER"
+	}, {
+		"role": "Ministre des Relations extérieures",
+		"nom": "Claude CHEYSSON"
+	}, {
+		"role": "MD chargé des Affaires européennes",
+		"fin": "7 décembre 1983",
+		"nom": "André CHANDERNAGOR"
+	}, {
+		"role": "MD chargé des Affaires européennes",
+		"debut": "18 décembre 1983",
+		"nom": "Roland DUMAS"
+	}, {
+		"role": "Porte-Parole du Gouvernement",
+		"debut": "18 juin 1984",
+		"nom": "André CHANDERNAGOR"
+	}, {
+		"role": "MD chargé de la Coopération et du Développement",
+		"nom": "Christian NUCCI"
+	}, {
+		"role": "Ministre de la Défense",
+		"nom": "Charles HERNU"
+	}, {
+		"role": "SE auprès du ministre de la Défense",
+		"fin": "4 octobre 1983",
+		"nom": "François AUTAIN",
+		"info": "démissionne"
+	}, {
+		"role": "SE auprès du ministre de la Défense",
+		"debut": "4 décembre 1983",
+		"nom": "Jean GATEL"
+	}, {
+		"role": "SE chargé des Anciens Combattants",
+		"nom": "Jean LAURAIN"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"nom": "Michel ROCARD"
+	}, {
+		"role": "SE chargé de l'Agriculture et de la Forêt",
+		"nom": "René SOUCHON"
+	}, {
+		"role": "Ministre de l'Industrie et de la Recherche",
+		"nom": "Laurent FABIUS"
+	}, {
+		"role": "MD chargé des PTT",
+		"nom": "Louis MEXANDEAU"
+	}, {
+		"role": "SE chargé de l'Energie",
+		"nom": "Jean AUROUX"
+	}, {
+		"role": "Ministre de l'Education Nationale",
+		"nom": "Alain SAVARY"
+	}, {
+		"role": "SE auprès du ministre de l’éducation nationale",
+		"nom": "Roger-Gérard SCHWARTZENBERG"
+	}, {
+		"role": "Ministre du Commerce extérieur et du Tourisme",
+		"nom": "Edith CRESSON"
+	}, {
+		"role": "SE chargé du Tourisme",
+		"nom": "Roland CARRAZ"
+	}, {
+		"role": "Ministre de l'Urbanisme et du Logement",
+		"fin": "4 octobre 1983",
+		"nom": "Roger QUILLIOT"
+	}, {
+		"role": "Ministre de l'Urbanisme et du Logement",
+		"debut": "4 octobre 1983",
+		"nom": "Paul QUILES"
+	}, {
+		"role": "Ministre du Commerce et de l'Artisanat",
+		"nom": "Michel CREPEAU"
+	}, {
+		"role": "Ministre de la Formation professionnelle",
+		"nom": "Marcel RIGOUT"
+	}, {
+		"role": "MD chargée des Droits de la Femme",
+		"nom": "Yvette ROUDY"
+	}, {
+		"role": "MD chargé des Relations avec le Parlement",
+		"nom": "André LABARRERE"
+	}, {
+		"role": "SE auprès du Premier ministre",
+		"nom": "Jean LE GARREC"
+	}, {
+		"role": "SE chargé de la Fonction Publique et des Réformes administratives",
+		"nom": "Anicet LE PORS"
+	}, {
+		"role": "SE chargé des Techniques de la Communication",
+		"nom": "Georges FILLIOUD"
+	}, {
+		"role": "SE chargée de l'Environnement et Qualité de la Vie",
+		"nom": "Huguette BOUCHARDEAU"
+	}, {
+		"role": "SE, Porte-Parole du Gouvernement",
+		"fin": "18 juin 1984",
+		"nom": "Max GALLO",
+		"info": "démissionne"
+	}, {
+		"role": "SE",
+		"debut": "18 juin 1984",
+		"nom": "Roland DUMAS"
+	}, {
+		"role": "chargé de la Culture",
+		"nom": "Jack LANG"
+	}, {
+		"role": "chargée du Temps libre, Jeunesse et Sport",
+		"nom": "Edwige AVICE"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Laurent FABIUS",
+	"debut_gouv": "17 juillet 1984",
+	"fin_gouv": "20 mars 1986",
+	 
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre du Plan et de l'Aménagement du Territoire",
+		"nom": "Gaston DEFFERRE"
+	}, {
+		"role": "Ministre de l'Economie, des Finances et du Budget",
+		"nom": "Pierre BEREGOVOY"
+	}, {
+		"role": "SE chargé du Budget (+ consommation à compter du 7 décembre 1984)",
+		"nom": "Henri EMMANUELLI"
+	}, {
+		"role": "SE chargée de la Consommation",
+		"fin": "7 décembre 1984",
+		"nom": "Catherine LALUMIERE"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"fin": "19 février 1986",
+		"nom": "Robert BADINTER"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"debut": "19 février 1986",
+		"nom": "Michel CREPEAU"
+	}, {
+		"role": "Ministre des Relations extérieures",
+		"fin": "7 décembre 1984",
+		"nom": "Claude CHEYSSON"
+	}, {
+		"role": "Ministre des Relations extérieures",
+		"debut": "7 décembre 1984",
+		"nom": "Roland DUMAS"
+	}, {
+		"role": "MD chargé de la Coopération et du Développement",
+		"nom": "Christian NUCCI"
+	}, {
+		"role": "SE auprès du ministre des relations extérieures",
+		"nom": "Jean-Michel BAYLET"
+	}, {
+		"role": "SE chargée des Affaires européennes",
+		"debut": "7 décembre 1984",
+		"nom": "Catherine LALUMIERE"
+	}, {
+		"role": "Ministre des Affaires européennes, Porte-Parole du Gouvernement",
+		"fin": "7 décembre 1984",
+		"nom": "Roland DUMAS"
+	}, {
+		"role": "Ministre de la Défense",
+		"fin": "20 septembre 1985",
+		"nom": "Charles HERNU"
+	}, {
+		"role": "Ministre de la Défense",
+		"debut": "20 septembre 1985",
+		"nom": "Paul QUILES"
+	}, {
+		"role": "SE auprès du ministre de la défense",
+		"nom": "Edwige AVICE"
+	}, {
+		"role": "SE chargé des Anciens Combattants et Victimes de guerre",
+		"nom": "Jean LAURAIN"
+	}, {
+		"role": "Ministre de l'Intérieur et de la Décentralisation",
+		"nom": "Pierre JOXE"
+	}, {
+		"role": "SE chargé des DOM-TOM",
+		"nom": "Georges LEMOINE"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"fin": "5 avril 1985",
+		"nom": "Michel ROCARD"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"debut": "5 avril 1985",
+		"nom": "Henri NALLET"
+	}, {
+		"role": "SE chargé de l'Agriculture et des Forêts (devenu MD le 5 avril 1985)",
+		"nom": "René SOUCHON"
+	}, {
+		"role": "Ministre du Redéploiement industriel  et du commerce extérieur",
+		"nom": "Edith CRESSON"
+	}, {
+		"role": "MD chargé des PTT (devenu Ministre des PTT le 15 novembre 1985)",
+		"nom": "Louis MEXANDEAU"
+	}, {
+		"role": "SE chargé de l'Energie",
+		"nom": "Martin MALVY"
+	}, {
+		"role": "Ministre de l'Education Nationale",
+		"nom": "Jean-Pierre CHEVENEMENT"
+	}, {
+		"role": "SE auprès du ministre de l’éducation nationale, chargé des universités",
+		"nom": "Roger-Gérard SCHWARTZENBERG"
+	}, {
+		"role": "SE chargé de l'Enseignement Technique et Technologique",
+		"nom": "Roland CARRAZ"
+	}, {
+		"role": "Ministre des Affaires sociales et de la Solidarité (+ Porte-Parole du Gouvernement à compter du 7 décembre 1984)",
+		"nom": "Georgina DUFOIX"
+	}, {
+		"role": "SE chargé des Retraités et des Personnes âgées",
+		"nom": "Joseph FRANCESCHI"
+	}, {
+		"role": "SE chargé des Rapatriés",
+		"nom": "Raymond COURRIERE"
+	}, {
+		"role": "SE chargé de la Santé",
+		"nom": "Edmond HERVE"
+	}, {
+		"role": "Ministre de l'Urbanisme, du Logement et des Transports",
+		"fin": "20 septembre 1985",
+		"nom": "Paul QUILES"
+	}, {
+		"role": "Ministre de l'Urbanisme, du Logement et des Transports",
+		"debut": "20 septembre 1985",
+		"fin": "15 novembre 1985",
+		"nom": "Jean AUROUX"
+	}, {
+		"role": "Ministre de l'Urbanisme, du Logement et des Transports",
+		"debut": "15 novembre 1985",
+		"nom": "Charles JOSSELIN"
+	}, {
+		"role": "SE chargé des Transports (devenu ministère le 20 septembre 1985)",
+		"nom": "Jean AUROUX"
+	}, {
+		"role": "SE chargé de la Mer",
+		"nom": "Guy LENGAGNE"
+	}, {
+		"role": "Ministre du Commerce, de l'Artisanat et du Tourisme",
+		"fin": "19 février 1986",
+		"nom": "Michel CREPEAU"
+	}, {
+		"role": "Ministre du Commerce, de l'Artisanat et du Tourisme",
+		"debut": "19 février 1986",
+		"nom": "Jean-Marie BOCKEL"
+	}, {
+		"role": "MD chargé de l'Emploi",
+		"nom": "Jack RALITE"
+	}, {
+		"role": "SE chargée de la Famille, de la Population et des Travailleurs immigrés",
+		"nom": "Georgina DUFOIX"
+	}, {
+		"role": "SE chargé de la Sécurité publique",
+		"nom": "Joseph FRANCESCHI"
+	}, {
+		"role": "Ministre de l'Emploi, du Travail et de la Formation professionnelle",
+		"nom": "Michel DELEBARRE"
+	}, {
+		"role": "Ministre de l'Environnement",
+		"nom": "Huguette BOUCHARDEAU"
+	}, {
+		"role": "Ministre chargé de la Nouvelle-Calédonie",
+		"debut": "21 mai 1985",
+		"fin": "15 novembre 1985",
+		"nom": "Edgar PISANI",
+		"info": "démissionne"
+	}, {
+		"role": "Ministre de la Recherche et de la Technologie",
+		"nom": "Hubert CURIEN"
+	}, {
+		"role": "MD chargée des Droits de la Femme (devenu ministère le 23 mai 1985)",
+		"nom": "Yvette ROUDY"
+	}, {
+		"role": "MD chargé des Relations avec le Parlement",
+		"nom": "André LABARRERE"
+	}, {
+		"role": "SE chargé de la Fonction Publique et des Simplifications administratives",
+		"nom": "Jean LE GARREC"
+	}, {
+		"role": "SE chargé des Techniques de la Communication",
+		"fin": "12 mars 1986",
+		"nom": "Georges FILLIOUD"
+	}, {
+		"role": "SE chargé de l'Economie sociale",
+		"nom": "Jean GATEL"
+	}, {
+		"role": "SE chargé de la Prévention des risques naturels et des technologiques majeurs",
+		"nom": "Haroun TAZIEFF"
+	}, {
+		"role": "MD chargé de la Jeunesse et des Sports",
+		"nom": "Alain CALMAT"
+	}, {
+		"role": "MD chargé de la Culture (devenu ministre le 8 décembre 1984)",
+		"nom": "Jack LANG"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Jacques CHIRAC",
+	"debut_gouv": "20 mars 1986",
+	"fin_gouv": "10 mai 1988",
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre de l'Economie, des Finances et de la privatisation",
+		"nom": "Edouard BALLADUR"
+	}, {
+		"role": "MD chargé du Budget, porte-parole du Gouvernement",
+		"nom": "Alain JUPPE"
+	}, {
+		"role": "MD chargé du Commerce extérieur",
+		"nom": "Michel NOIR"
+	}, {
+		"role": "MD chargé de la Privatisation",
+		"fin": "19 août 1986",
+		"nom": "Camille CABANA"
+	}, {
+		"role": "MD chargé du Commerce, de l'Artisanat et des Services",
+		"nom": "Georges CHAVANES"
+	}, {
+		"role": "SE chargé de la Consommation et de la Concurrence (+ participation le 17 octobre 1987)",
+		"debut": "20 janvier 1987",
+		"nom": "Jean ARTHUIS"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Albin CHALANDON"
+	}, {
+		"role": "Ministre de la Défense",
+		"nom": "André GIRAUD"
+	}, {
+		"role": "SE auprès du ministre de la défense",
+		"debut": "19 août 1986",
+		"nom": "Jacques BOYON"
+	}, {
+		"role": "Ministre de la Culture et de la Communication",
+		"nom": "François LEOTARD"
+	}, {
+		"role": "SE auprès du ministre de la culture et de la communication",
+		"fin": "25 juin 1987",
+		"nom": "Philippe DE VILLIERS"
+	}, {
+		"role": "MD chargé de la Communication",
+		"debut": "28 août 1987",
+		"nom": "André SANTINI"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Charles PASQUA"
+	}, {
+		"role": "MD chargé de la Sécurité",
+		"nom": "Robert PANDRAUD"
+	}, {
+		"role": "SE chargé des Collectivités locales",
+		"fin": "19 août 1986",
+		"nom": "Bernard BOSSON"
+	}, {
+		"role": "SE chargé des Collectivités locales",
+		"debut": "19 août 1986",
+		"nom": "Yves GALLAND"
+	}, {
+		"role": "Ministre de l'Equipement, du Logement, de l'Aménagement du Territoire et des Transports",
+		"nom": "Pierre MEHAIGNERIE"
+	}, {
+		"role": "MD chargé des Transports",
+		"nom": "Jacques DOUFFIAGUES"
+	}, {
+		"role": "MD chargé de l'Environnement",
+		"nom": "Alain CARIGNON"
+	}, {
+		"role": "Ministre des DOM-TOM",
+		"nom": "Bernard PONS"
+	}, {
+		"role": "SE chargé des Problèmes du Pacifique Sud",
+		"nom": "Gaston FLOSSE"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Jean-Bernard RAYMOND"
+	}, {
+		"role": "MD chargé des Affaires européennes",
+		"debut": "19 août 1986",
+		"nom": "Bernard BOSSON"
+	}, {
+		"role": "SE auprès du ministre des affaires étrangères",
+		"nom": "Didier BARIANI"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"nom": "René MONORY"
+	}, {
+		"role": "MD chargé de la Recherche et de l'Enseignement supérieur",
+		"fin": "8 décembre 1986",
+		"nom": "Alain DEVAQUET"
+	}, {
+		"role": "MD chargé de la Recherche et de l'Enseignement supérieur",
+		"debut": "20 janvier 1987",
+		"nom": "Jacques VALADE"
+	}, {
+		"role": "SE chargée de l'Enseignement",
+		"nom": "Michèle ALLIOT-MARIE"
+	}, {
+		"role": "SE chargée de la Formation professionnelle",
+		"nom": "Nicole CATALA"
+	}, {
+		"role": "Ministre des Affaires sociales et de l'Emploi",
+		"nom": "Philippe SEGUIN"
+	}, {
+		"role": "MD chargée de la Santé et de la Famille",
+		"nom": "Michèle BARZACH"
+	}, {
+		"role": "SE auprès du ministre des affaires sociales et de l’emploi",
+		"fin": "20 janvier 1987",
+		"nom": "Jean ARTHUIS"
+	}, {
+		"role": "SE chargé de la Sécurité sociale",
+		"nom": "Adrien ZELLER"
+	}, {
+		"role": "Ministre de l'Industrie, des P.T.T. et du Tourisme",
+		"nom": "Alain MADELIN"
+	}, {
+		"role": "SE chargé des P.T.T (devenu MD le 19 août 1986)",
+		"nom": "Gérard LONGUET"
+	}, {
+		"role": "SE chargé du Tourisme",
+		"nom": "Jean-Jacques DESCAMPS"
+	}, {
+		"role": "Ministre de l'Agriculture",
+		"nom": "François GUILLAUME"
+	}, {
+		"role": "Ministre de la Coopération",
+		"nom": "Michel AURILLAC"
+	}, {
+		"role": "Ministre des Relations avec le Parlement",
+		"nom": "André ROSSINOT"
+	}, {
+		"role": "MD chargé de la Fonction Publique et du Plan",
+		"nom": "Hervé de CHARETTE"
+	}, {
+		"role": "MD chargé de la Réforme administrative (+ des Rapatriés à compter du 19 septembre 1987",
+		"debut": "19 août 1986",
+		"nom": "Camille CABANA"
+	}, {
+		"role": "SE chargée de la Francophonie",
+		"nom": "Lucette MICHAUX-CHEVRY"
+	}, {
+		"role": "SE chargé des Droits de l'Homme",
+		"nom": "Claude MALHURET"
+	}, {
+		"role": "SE chargé de la Jeunesse et des Sports",
+		"nom": "Christian BERGELIN"
+	}, {
+		"role": "SE chargé des Anciens Combattants",
+		"nom": "Georges FONTES"
+	}, {
+		"role": "SE chargé des Rapatriés",
+		"fin": "28 septembre 1987",
+		"nom": "André SANTINI"
+	}, {
+		"role": "SE chargé de la Mer",
+		"nom": "Ambroise GUELLEC"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Michel ROCARD (1er Gouvernement)",
+	"debut_gouv": "12 mai 1988",
+	"fin_gouv": "22 juin 1988",
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre de l'Education nationale, de la Recherche et des Sports",
+		"nom": "Lionel JOSPIN"
+	}, {
+		"role": "MD chargé de la Recherche",
+		"nom": "Hubert CURIEN"
+	}, {
+		"role": "SE chargé de l'Enseignement technique",
+		"nom": "Robert CHAPUIS"
+	}, {
+		"role": "SE chargé des Sports",
+		"nom": "Roger BAMBUCK"
+	}, {
+		"role": "Ministre d'Etat, Ministre de l'Economie, des Finances et du Budget",
+		"nom": "Pierre BEREGOVOY"
+	}, {
+		"role": "SE chargée de la Consommation",
+		"nom": "Véronique NEIERTZ"
+	}, {
+		"role": "Ministre d'Etat, Ministre de l'Equipement et du Logement",
+		"nom": "Maurice FAURE"
+	}, {
+		"role": "SE chargé du Logement",
+		"nom": "Philippe ESSIG"
+	}, {
+		"role": "SE chargé des Grands Travaux",
+		"nom": "Emile BIASINI"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Affaires étrangères",
+		"nom": "Roland DUMAS"
+	}, {
+		"role": "MD auprès du ministre d'État, ministre des affaires étrangères",
+		"nom": "Edwige AVICE"
+	}, {
+		"role": "SE chargé des Relations culturelles internationales et de la Francophonie",
+		"nom": "Thierry de BEAUCE"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Pierre ARPAILLANGE"
+	}, {
+		"role": "Ministre de la Défense",
+		"nom": "Jean-Pierre CHEVENEMENT"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Pierre JOXE"
+	}, {
+		"role": "SE chargé des collectivités territoriales",
+		"nom": "Jean-Michel BOUCHERON"
+	}, {
+		"role": "Ministre de l'Industrie, du Commerce extérieur et de l'Aménagement du territoire",
+		"nom": "Roger FAUROUX"
+	}, {
+		"role": "MD chargé de l'Aménagement du territoire",
+		"nom": "Jacques CHEREQUE"
+	}, {
+		"role": "MD chargé du Commerce, de l'Artisanat et du Tourisme",
+		"nom": "François DOUBIN"
+	}, {
+		"role": "Ministre des Affaires européennes",
+		"nom": "Edith CRESSON"
+	}, {
+		"role": "Ministre des Transports",
+		"nom": "Louis MERMAZ"
+	}, {
+		"role": "SE chargé des Voies navigables et des Transports routiers",
+		"nom": "Georges SARRE"
+	}, {
+		"role": "Ministre de la Fonction publique et de la Réforme administrative",
+		"nom": "Michel DURAFOUR"
+	}, {
+		"role": "Ministre des Affaires sociales et de l'Emploi",
+		"nom": "Michel DELEBARRE"
+	}, {
+		"role": "MD chargée de la Famille, des Droits de la Femme, de la Solidarité et des Rapatriés",
+		"nom": "Georgina DUFOIX"
+	}, {
+		"role": "MD chargé de la Santé et de la Protection sociale",
+		"nom": "Claude EVIN"
+	}, {
+		"role": "SE chargé de la Formation professionnelle",
+		"nom": "André LAIGNEL"
+	}, {
+		"role": "SE chargé de l'Insertion sociale",
+		"nom": "Bernard KOUCHNER"
+	}, {
+		"role": "SE chargée des Personnes âgées et des Handicapés",
+		"nom": "Catherine TRAUTMANN"
+	}, {
+		"role": "Ministre de la Coopération et du Développement",
+		"nom": "Jacques PELLETIER"
+	}, {
+		"role": "Ministre de la Culture et de la Communication",
+		"nom": "Jack LANG"
+	}, {
+		"role": "MD chargée de la Communication",
+		"nom": "Catherine TASCA"
+	}, {
+		"role": "Ministre de l'Agriculture et des Forêts",
+		"nom": "Henri NALLET"
+	}, {
+		"role": "Ministre des Postes et des Télécommunications",
+		"nom": "Paul QUILES"
+	}, {
+		"role": "Ministre de la Mer",
+		"nom": "Louis le PENSEC"
+	}, {
+		"role": "Ministre des Relations avec le Parlement",
+		"nom": "Jean POPEREN"
+	}, {
+		"role": "MD chargé des DOM-TOM",
+		"nom": "Olivier STIRN"
+	}, {
+		"role": "SE chargé du plan",
+		"nom": "Lionel STOLERU"
+	}, {
+		"role": "SE chargé de l'Environnement",
+		"nom": "Brice LALONDE"
+	}, {
+		"role": "SE chargé des Anciens Combattants",
+		"nom": "Jacques MELLICK"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Michel ROCARD (2ème Gouvernement)",
+	"debut_gouv": "23 juin 1988",
+	"fin_gouv": "15 mai 1991",
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre de l'Education nationale, de la Recherche et des Sports",
+		"nom": "Lionel JOSPIN"
+	}, {
+		"role": "SE chargé de l'Enseignement technique",
+		"nom": "Robert CHAPUIS"
+	}, {
+		"role": "SE chargé de la Jeunesse et des Sports",
+		"nom": "Roger BAMBUCK"
+	}, {
+		"role": "Ministre d'Etat, Ministre de l'Economie, des Finances et du Budget",
+		"nom": "Pierre BEREGOVOY"
+	}, {
+		"role": "MD chargé du Budget",
+		"nom": "Michel CHARASSE"
+	}, {
+		"role": "SE chargée de la Consommation",
+		"nom": "Véronique NEIERTZ"
+	}, {
+		"role": "Ministre d'Etat, Ministre de l'Equipement et du Logement",
+		"fin": "22 février 1989",
+		"nom": "Maurice FAURE"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Affaires étrangères",
+		"nom": "Roland DUMAS"
+	}, {
+		"role": "MD chargée des Affaires étrangères",
+		"nom": "Edwige AVICE"
+	}, {
+		"role": "MD chargé de la Francophonie",
+		"nom": "Alain DECAUX"
+	}, {
+		"role": "MD chargée des Affaires européennes",
+		"debut": "2 octobre 1990",
+		"nom": "Elisabeth GUIGOU"
+	}, {
+		"role": "SE chargé des Relations culturelles internationales ",
+		"nom": "Thierry de BEAUCE"
+	}, {
+		"role": "Ministre d'Etat, Ministre de la Ville",
+		"debut": "21 décembre 1990",
+		"nom": "Michel DELEBARRE"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"fin": "2 octobre 1990",
+		"nom": "Pierre ARPAILLANGE"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"debut": "2 octobre 1990",
+		"nom": "Henri NALLET"
+	}, {
+		"role": "MD chargé de la Justice",
+		"debut": "2 octobre 1990",
+		"nom": "Georges KIEJMAN"
+	}, {
+		"role": "Ministre de la Défense",
+		"fin": "29 janvier 1991",
+		"nom": "Jean-Pierre CHEVENEMENT"
+	}, {
+		"role": "Ministre de la Défense",
+		"debut": "29 janvier 1991",
+		"nom": "Pierre JOXE"
+	}, {
+		"role": "SE chargé de la Défense",
+		"debut": "29 mars 1989",
+		"nom": "Gérard RENON"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"fin": "29 janvier 1991",
+		"nom": "Pierre JOXE"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"debut": "29 janvier 1991",
+		"nom": "Philippe MARCHAND"
+	}, {
+		"role": "MD chargé de l'Intérieur",
+		"debut": "17 juillet 1990",
+		"fin": "29 janvier 1991",
+		"nom": "Philippe MARCHAND"
+	}, {
+		"role": "SE chargé des Collectivités territoriales",
+		"fin": "17 juillet 1990",
+		"nom": "Jean-Michel BAYLET"
+	}, {
+		"role": "Ministre de l'Industrie et de l'Aménagement du territoire",
+		"nom": "Roger FAUROUX"
+	}, {
+		"role": "MD chargé de l'Aménagement du territoire",
+		"nom": "Jacques CHEREQUE"
+	}, {
+		"role": "MD chargé du Commerce, de l'Artisanat et du Tourisme",
+		"nom": "François DOUBIN"
+	}, {
+		"role": "MD chargé du Tourisme",
+		"fin": "5 juillet 1990",
+		"nom": "Olivier STIRN"
+	}, {
+		"role": "MD chargé du Tourisme",
+		"debut": "17 juillet 1990",
+		"nom": "Jean-Michel BAYLET"
+	}, {
+		"role": "Ministre des Affaires européennes",
+		"fin": "2 octobre 1990",
+		"nom": "Edith CRESSON"
+	}, {
+		"role": "Ministre des Transports et de la Mer (puis Equipement, logement, transports et mer)",
+		"debut": "22 février 1989",
+		"fin": "21 décembre 1990",
+		"nom": "Michel DELEBARRE"
+	}, {
+		"role": "Ministre des Transports et de la Mer",
+		"debut": "21 décembre 1990",
+		"nom": "Louis BESSON"
+	}, {
+		"role": "MD chargé de la Mer",
+		"nom": "Jacques MELLICK"
+	}, {
+		"role": "SE chargé des Transports routiers et fluviaux",
+		"nom": "Georges SARRE"
+	}, {
+		"role": "SE chargé du Logement",
+		"debut": "29 mars 89",
+		"fin": "21 décembre 90",
+		"nom": "Louis BESSON"
+	}, {
+		"role": "Ministre de la Fonction Publique et des Réformes administratives (devenu Ministre d'Etat à compter du 22/02/89)",
+		"nom": "Michel DURAFOUR"
+	}, {
+		"role": "Ministre du Travail, de l'Emploi et de la Formation professionnelle",
+		"nom": "Jean-Pierre SOISSON"
+	}, {
+		"role": "SE chargé de la Formation professionnelle",
+		"nom": "André LAIGNEL"
+	}, {
+		"role": "Ministre de la Coopération et du Développement",
+		"nom": "Jacques PELLETIER"
+	}, {
+		"role": "Ministre de la Culture, de la Communication, des grands Travaux et du Bicentenaire (bicentenaire jusqu'au 02/10/90)",
+		"nom": "Jack LANG"
+	}, {
+		"role": "MD chargée de la Communication",
+		"nom": "Catherine TASCA"
+	}, {
+		"role": "SE chargé des grands Travaux",
+		"nom": "Emile BIASINI"
+	}, {
+		"role": "Ministre des DOM-TOM (+ Porte-parole du Gouvernement à compter du 14/02/89)",
+		"nom": "Louis LE PENSEC"
+	}, {
+		"role": "Ministre de l'Agriculture et des Forêts",
+		"fin": "2 octobre 1990",
+		"nom": "Henri NALLET"
+	}, {
+		"role": "Ministre de l'Agriculture et des Forêts",
+		"debut": "2 octobre 1990",
+		"nom": "Louis MERMAZ"
+	}, {
+		"role": "Ministre des Postes, des Télécommunications et de l'Espace",
+		"nom": "Paul QUILES"
+	}, {
+		"role": "Ministre des Relations avec le Parlement",
+		"nom": "Jean POPEREN"
+	}, {
+		"role": "Ministre de la Solidarité, de la Santé et de la Protection sociale (Porte-parole du Gouvernement jusqu'au 14 février 1989) puis à compter du 2 octobre 1990 : Affaires sociales et Solidarités)",
+		"nom": "Claude EVIN"
+	}, {
+		"role": "MD chargé de la Santé",
+		"fin": "8 juillet 1988",
+		"nom": "Léon SCHWARTZENBERG"
+	}, {
+		"role": "MD chargé de la Santé",
+		"debut": "2 octobre 1990",
+		"nom": "Bruno DURIEUX"
+	}, {
+		"role": "MD chargé des Personnes âgées",
+		"fin": "2 octobre 1990",
+		"nom": "Théo BRAUN"
+	}, {
+		"role": "SE chargée de la Famille (+ Personnes âgées à compter du 2 octobre 1990)",
+		"nom": "Hélène DORLHAC DE BORNE"
+	}, {
+		"role": "SE chargé des Handicapés et des accidentés de la vie",
+		"nom": "Michel GILLIBERT",
+		"info": "renouvelé le 2 octobre 1990"
+	}, {
+		"role": "Ministre de la Recherche  et de la Technologie",
+		"nom": "Hubert CURIEN"
+	}, {
+		"role": "Ministre du Commerce extérieur (+ Tourisme du 05/07/90 au 17/07/90)",
+		"nom": "Jean-Marie RAUSCH"
+	}, {
+		"role": "SE chargé du Plan",
+		"nom": "Lionel STOLERU"
+	}, {
+		"role": "SE chargé de l'Environnement  Devenu MD chargé de l’Environnement et de la prévention des risques technologiques et naturels majeurs le 02/10/1990)",
+		"nom": "Brice LALONDE"
+	}, {
+		"role": "SE",
+		"nom": "Tony DREYFUS"
+	}, {
+		"role": "SE chargé de l'Action humanitaire",
+		"nom": "Bernard KOUCHNER"
+	}, {
+		"role": "SE chargée des Droits des Femmes",
+		"nom": "Michèle ANDRE"
+	}, {
+		"role": "SE chargé des Anciens Combattants et des Victimes de guerre",
+		"nom": "André MERIC"
+	}, {
+		"role": "SE chargé de la Prévention des risques technologiques et naturels majeurs",
+		"fin": "29 mars 1989",
+		"nom": "Gérard RENON"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Edith CRESSON",
+	"debut_gouv": "16 mai 1991",
+	"fin_gouv": "2 avril 1992",
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre de l'Education nationale",
+		"nom": "Lionel JOSPIN"
+	}, {
+		"role": "SE chargé de l'Enseignement technique",
+		"nom": "Jacques GUYARD"
+	}, {
+		"role": "Ministre d'Etat, Ministre de l'Economie, des Finances et du Budget",
+		"nom": "Pierre BEREGOVOY"
+	}, {
+		"role": "MD chargé du Budget",
+		"nom": "Michel CHARASSE"
+	}, {
+		"role": "MD chargé de l'Industrie et du Commerce extérieur",
+		"nom": "Dominique STRAUSS-KHAN"
+	}, {
+		"role": "SE chargé du Commerce extérieur",
+		"nom": "Jean-Noël JEANNENEY"
+	}, {
+		"role": "MD chargé du Commerce et de l'Artisanat (devenu Artisanat, Commerce et Consommation le 25 mai 1991)",
+		"nom": "François DOUBIN"
+	}, {
+		"role": "MD chargé des Postes et des Télécommunications",
+		"nom": "Jean-Marie RAUSCH"
+	}, {
+		"role": "Ministre d'Etat, Ministre des Affaires étrangères",
+		"nom": "Roland DUMAS"
+	}, {
+		"role": "MD chargée des Affaires européennes",
+		"nom": "Elisabeth GUIGOU"
+	}, {
+		"role": "MD chargée de la Francophonie",
+		"nom": "Catherine TASCA"
+	}, {
+		"role": "SE chargé de l'Action humanitaire",
+		"nom": "Bernard KOUCHNER"
+	}, {
+		"role": "SE chargé des Affaires étrangères",
+		"nom": "Alain VIVIEN"
+	}, {
+		"role": "Ministre d'Etat, Ministre de la Fonction Publique et de la Modernisation de l'Administration",
+		"fin": "28 mars 1992",
+		"nom": "Jean-Pierre SOISSON"
+	}, {
+		"role": "Ministre d'Etat, Ministre de la Ville et de l'Aménagement du Territoire",
+		"nom": "Michel DELEBARRE"
+	}, {
+		"role": "SE chargé de la Ville et de l'Aménagement du territoire",
+		"nom": "André LAIGNEL"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Henri NALLET"
+	}, {
+		"role": "MD chargé de la Justice",
+		"nom": "Michel SAPIN"
+	}, {
+		"role": "Ministre de la Défense",
+		"nom": "Pierre JOXE"
+	}, {
+		"role": "SE chargé de la Défense",
+		"nom": "Jacques MELLICK"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Philippe MARCHAND"
+	}, {
+		"role": "SE chargé des Collectivités territoriales",
+		"nom": "Jean-Pierre SUEUR"
+	}, {
+		"role": "Ministre de la Culture et de la Communication, Porte-parole du Gouvernement",
+		"nom": "Jack LANG"
+	}, {
+		"role": "MD chargé de la Communication",
+		"nom": "Georges KIEJMAN"
+	}, {
+		"role": "SE chargé des grands Travaux",
+		"nom": "Emile BIASINI"
+	}, {
+		"role": "Ministre de l'Agriculture et des Forêts",
+		"nom": "Louis MERMAZ"
+	}, {
+		"role": "Ministre des Affaires sociales et de l'Intégration",
+		"nom": "Jean-Louis BIANCO"
+	}, {
+		"role": "MD chargé de la Santé",
+		"nom": "Bruno DURIEUX"
+	}, {
+		"role": "SE chargé des Affaires sociales et de l'Intégration",
+		"nom": "Kofi YAMGNANE"
+	}, {
+		"role": "SE chargé de la Famille et des Personnes âgées (+ rapatriés à compter du 22/07/91)",
+		"nom": "Laurent CATHALA"
+	}, {
+		"role": "SE chargé des Handicapés et des accidentés de la vie",
+		"nom": "Michel GILLIBERT"
+	}, {
+		"role": "Ministre du Travail, de l'Emploi et de la Formation professionnelle",
+		"nom": "Martine AUBRY"
+	}, {
+		"role": "SE chargée des Droits des Femmes (+ vie quotidienne à compter du 25/05/91)",
+		"nom": "Véronique NEIERTZ"
+	}, {
+		"role": "Ministre de l'Equipement, du Logement, des Transports et de l'Espace",
+		"nom": "Paul QUILES"
+	}, {
+		"role": "MD chargé du Tourisme ",
+		"nom": "Jean-Michel BAYLET"
+	}, {
+		"role": "SE chargé du Logement",
+		"nom": "Marcel DEBARGE"
+	}, {
+		"role": "SE chargé des Transports routiers et fluviaux",
+		"nom": "Georges SARRE"
+	}, {
+		"role": "SE chargé de la Mer",
+		"nom": "Jean-Yves LE DRIAN"
+	}, {
+		"role": "Ministre de la Coopération et du Développement",
+		"nom": "Edwige AVICE"
+	}, {
+		"role": "Ministre des DOM-TOM",
+		"nom": "Louis LE PENSEC"
+	}, {
+		"role": "Ministre de la Recherche  et de la Technologie",
+		"nom": "Hubert CURIEN"
+	}, {
+		"role": "Ministre des Relations avec le Parlement",
+		"nom": "Jean POPEREN"
+	}, {
+		"role": "Ministre de la Jeunesse et des Sports",
+		"nom": "Frédérique BREDIN"
+	}, {
+		"role": "Ministre de l'Environnement",
+		"nom": "Brice LALONDE"
+	}, {
+		"role": "SE chargé des Anciens Combattants et des Victimes de guerre",
+		"nom": "Louis MEXANDEAU"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Pierre BEREGOVOY",
+	"debut_gouv": "2 avril 1992",
+	"fin_gouv": "29 mars 1993",
+	 
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre de l'Education nationale et de la Culture",
+		"nom": "Jack LANG"
+	}, {
+		"role": "SE chargé de l'Enseignement technique",
+		"nom": "Jean GLAVANY"
+	}, {
+		"role": "SE chargé de la Communication",
+		"nom": "Jean-Noël JEANNENEY"
+	}, {
+		"role": "Ministre d'Etat, Ministre de la Défense",
+		"nom": "Roland DUMAS"
+	}, {
+		"role": "MD chargée des Affaires européennes",
+		"nom": "Elisabeth GUIGOU"
+	}, {
+		"role": "MD chargé des Affaires étrangères",
+		"nom": "Georges KIEJMAN"
+	}, {
+		"role": "MD chargé de la Coopération et du Développement",
+		"nom": "Marcel DEBARGE"
+	}, {
+		"role": "SE chargée de la Francophonie et des Relations culturelles extérieures",
+		"nom": "Catherine TASCA"
+	}, {
+		"role": "Ministre de la Fonction publique et des Réformes administratives",
+		"nom": "Michel DELEBARRRE"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Michel VAUZELLE"
+	}, {
+		"role": "Ministre de l'Intérieur et de la Sécurité publique",
+		"nom": "Paul QUILES"
+	}, {
+		"role": "SE chargé des Collectivités territoriales",
+		"nom": "Jean-Pierre SUEUR"
+	}, {
+		"role": "Ministre de la Défense devenu Premier ministre, Ministre de la Défense",
+		"fin": "9 mars 1993",
+		"nom": "Pierre JOXE"
+	}, {
+		"role": "Ministre de la Défense devenu Premier ministre, Ministre de la Défense",
+		"debut": "9 mars 1993",
+		"nom": "Pierre BEREGOVOY"
+	}, {
+		"role": "SE chargé de la Défense",
+		"nom": "Jacques MELLICK"
+	}, {
+		"role": "Ministre de l'Economie et des Finances",
+		"nom": "Michel SAPIN"
+	}, {
+		"role": "MD chargé du Commerce et de l'Artisanat ",
+		"fin": "2 octobre 1992",
+		"nom": "Jean-Marie RAUSCH"
+	}, {
+		"role": "MD chargé du Commerce et de l'Artisanat ",
+		"debut": "2 octobre 1992",
+		"nom": "Gilbert BAUMET"
+	}, {
+		"role": "SE chargée des Droits des Femmes et de la Consommation",
+		"nom": "Véronique NEIERTZ"
+	}, {
+		"role": "Ministre du Budget",
+		"fin": "2 octobre 1992",
+		"nom": "Michel CHARASSE"
+	}, {
+		"role": "Ministre du Budget",
+		"debut": "2 octobre 1992",
+		"nom": "Martin MALVY"
+	}, {
+		"role": "Ministre de l'Environnement",
+		"nom": "Ségolène ROYAL"
+	}, {
+		"role": "Ministre de l'Equipement, du Logement et des Transports ",
+		"nom": "Jean-Louis BIANCO"
+	}, {
+		"role": "MD chargée du Logement et du Cadre de vie",
+		"nom": "Marie-Noëlle LIENEMANN"
+	}, {
+		"role": "SE chargé des Transports routiers et fluviaux",
+		"nom": "Georges SARRE"
+	}, {
+		"role": "SE chargé de la Mer",
+		"nom": "Charles JOSSELIN"
+	}, {
+		"role": "Ministre de l'Industrie et du Commerce extérieur",
+		"nom": "Dominque STRAUSS-KHAN"
+	}, {
+		"role": "MD chargé du Tourisme",
+		"nom": "Jean-Michel BAYLET"
+	}, {
+		"role": "MD chargé du Commerce extérieur",
+		"debut": "3 juin 1992",
+		"nom": "Bruno DURIEUX"
+	}, {
+		"role": "MD chargé de l'Energie",
+		"debut": "2 octobre 1992",
+		"nom": "André BILLARDON"
+	}, {
+		"role": "SE chargé de l'Aménagement du Territoire",
+		"nom": "André LAIGNEL"
+	}, {
+		"role": "Ministre du Travail, de l'Emploi et de la Formation professionnelle",
+		"nom": "Martine AUBRY"
+	}, {
+		"role": "Ministre de l'Agriculture et du 'développement rural' (remplace 'forêt')",
+		"fin": "2 octobre 1992",
+		"nom": "Louis MERMAZ"
+	}, {
+		"role": "Ministre de l'Agriculture et du 'développement rural' (remplace 'forêt')",
+		"debut": "2 octobre 1992",
+		"nom": "Jean-Pierre SOISSON"
+	}, {
+		"role": "Ministre des Affaires sociales et de l'Intégration",
+		"nom": "René TEULADE"
+	}, {
+		"role": "SE chargé de la Famille, des Personnes âgées et des Rapatriés",
+		"nom": "Laurent CATHALA"
+	}, {
+		"role": "SE chargé de l'Intégration",
+		"nom": "Kofi YAMGNANE"
+	}, {
+		"role": "SE chargé des Handicapés ",
+		"nom": "Michel GILLIBERT"
+	}, {
+		"role": "Ministre de la Santé et de l'Action humanitaire",
+		"nom": "Bernard KOUCHNER"
+	}, {
+		"role": "Ministre de la Ville",
+		"fin": "23 mai 1992",
+		"nom": "Bernard TAPIE"
+	}, {
+		"role": "Ministre de la Ville",
+		"debut": "26 décembre 1992",
+		"nom": "Bernard TAPIE"
+	}, {
+		"role": "Ministre des Départements et Territoires d'Outre-Mer",
+		"nom": "Louis LE PENSEC"
+	}, {
+		"role": "Ministre de la Recherche  et de l'Espace",
+		"nom": "Hubert CURIEN"
+	}, {
+		"role": "Ministre des Relations avec le Parlement, Porte-parole du Gouvernement ",
+		"debut": "2 octobre 1992",
+		"nom": "Louis MERMAZ"
+	}, {
+		"role": "Ministre des Postes et des Télécommunications",
+		"nom": "Emile ZUCCARELLI"
+	}, {
+		"role": "Ministre de la Jeunesse et des Sports",
+		"nom": "Frédérique BREDIN"
+	}, {
+		"role": "Ministre du Plan",
+		"debut": "26 décembre 1992",
+		"nom": "François LONCLE"
+	}, {
+		"role": "SE chargé des Relations avec le Parlement, Porte-Parole du Gouvernement",
+		"fin": "2 octobre 1992",
+		"nom": "Martin MALVY"
+	}, {
+		"role": "SE chargé des Grands Travaux",
+		"nom": "Emile BIASINI"
+	}, {
+		"role": "SE chargé de la Ville",
+		"debut": "3 juin 1992",
+		"fin": "26 décembre 1992",
+		"nom": "François LONCLE"
+	}, {
+		"role": "SE chargé des Anciens Combattants et des Victimes de guerre",
+		"nom": "Louis MEXANDEAU"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Edouard BALLADUR",
+	"debut_gouv": "29 mars 1993",
+	"fin_gouv": "11 mai 1995",
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre des Affaires sociales, de la Santé et de la Ville",
+		"nom": "Simone VEIL"
+	}, {
+		"role": "MD chargé de la Santé, Porte-parole du Gouvernement",
+		"debut": "19 janvier 1995",
+		"nom": "Philippe DOUSTE-BLAZY"
+	}, {
+		"role": "Ministre de l'Intérieur et de l'Aménagement du Territoire",
+		"nom": "Charles PASQUA"
+	}, {
+		"role": "MD chargé de l'Aménagement du Territoire et des Collectivités territoriales",
+		"nom": "Daniel HOEFFEL"
+	}, {
+		"role": "Ministre d'Etat, Garde des Sceaux, Ministre de la Justice",
+		"nom": "Pierre MEHAIGNERIE"
+	}, {
+		"role": "Ministre d'Etat, Ministre de la Défense",
+		"nom": "François LEOTARD"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Alain JUPPE"
+	}, {
+		"role": "MD chargée de l'Action humanitaire et des Droits de l'Homme",
+		"nom": "Lucette MICHAUX-CHEVRY"
+	}, {
+		"role": "MD chargé des Affaires européennes",
+		"nom": "Alain LAMASSOURE"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"nom": "François BAYROU"
+	}, {
+		"role": "Ministre de l'Economie",
+		"nom": "Edmond ALPHANDERY"
+	}, {
+		"role": "Ministre de l'Industrie, des Postes et Télécommunications et du Commerce extérieur",
+		"fin": "14 octobre 1994",
+		"nom": "Gérard LONGUET"
+	}, {
+		"role": "Ministre de l'Industrie, des Postes et Télécommunications et du Commerce extérieur",
+		"debut": "16 octobre 1994",
+		"nom": "José ROSSI"
+	}, {
+		"role": "Ministre de l'Equipement, des Transports et du Tourisme",
+		"nom": "Bernard BOSSON"
+	}, {
+		"role": "Ministre des Entreprises et du Développement économique, des PME, du Commerce et de l'Artisanat",
+		"nom": "Alain MADELIN"
+	}, {
+		"role": "Ministre du Travail, de l'Emploi et de la Formation professionnelle",
+		"nom": "Michel GIRAUD"
+	}, {
+		"role": "Ministre de la Culture et de la Francophonie",
+		"nom": "Jacques TOUBON"
+	}, {
+		"role": "Ministre du Budget et de la Communication (Porte-Parole du Gouvernement jusqu'au 20 janvier 1995)",
+		"nom": "Nicolas SARKOZY"
+	}, {
+		"role": "Ministre de l'Agriculture et de la Pêche",
+		"nom": "Jean PUECH"
+	}, {
+		"role": "Ministre de l'Enseignement supérieur et de la Recherche",
+		"nom": "François FILLON"
+	}, {
+		"role": "Ministre de l'Environnement",
+		"nom": "Michel BARNIER"
+	}, {
+		"role": "Ministre de la Fonction publique",
+		"nom": "André ROSSINOT"
+	}, {
+		"role": "Ministre du Logement",
+		"nom": "Hervé de CHARETTE"
+	}, {
+		"role": "Ministre de la Coopération",
+		"fin": "12 novembre 1994",
+		"nom": "Michel ROUSSIN"
+	}, {
+		"role": "Ministre de la Coopération",
+		"debut": "12 novembre 1994",
+		"nom": "Bernard DEBRE"
+	}, {
+		"role": "Ministre des Départements et Territoires d'Outre-Mer",
+		"nom": "Dominique PERBEN"
+	}, {
+		"role": "Ministre de la Jeunesse et des Sports",
+		"nom": "Michèle ALLIOT-MARIE"
+	}, {
+		"role": "Ministre de la Communication",
+		"fin": "19 juillet 1994",
+		"nom": "Alain CARIGNON"
+	}, {
+		"role": "Ministre de la Communication",
+		"debut": "19 juillet 1994",
+		"nom": "Nicolas SARKOZY"
+	}, {
+		"role": "Ministre des anciens Combattants et des Victimes de guerre",
+		"nom": "Philippe MESTRE"
+	}, {
+		"role": "MD chargé des Relations avec l'Assemblée nationale",
+		"nom": "Pascal CLEMENT"
+	}, {
+		"role": "MD chargé des Relations avec le Sénat, chargé des Rapatriés",
+		"nom": "Roger ROMANI"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Alain JUPPE (1er Gouvernement)",
+	"debut_gouv": "19 mai 1995 ",
+	"fin_gouv": "7 novembre 1995",
+	"Ministres": [{
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Jacques TOUBON"
+	}, {
+		"role": "Ministre de l'Economie et des Finances",
+		"fin": "26 août 1995",
+		"nom": "Alain MADELIN"
+	}, {
+		"role": "Ministre de l'Economie, des Finances et du Plan",
+		"debut": "26 août 1995",
+		"nom": "Jean ARTHUIS"
+	}, {
+		"role": "SE chargé du Budget",
+		"nom": "François d'AUBERT"
+	}, {
+		"role": "SE chargé des Finances",
+		"nom": "Hervé GAYMARD"
+	}, {
+		"role": "Ministre de l'Education nationale, de l'Enseignement supérieur, de la Recherche et de l'Insertion professionnelle",
+		"nom": "François BAYROU"
+	}, {
+		"role": "SE chargé de l'Enseignement supérieur",
+		"nom": "Jean DE BOISHUE"
+	}, {
+		"role": "SE chargée de la Recherche",
+		"nom": "Elisabeth DUFOURCQ"
+	}, {
+		"role": "SE chargée de l'Enseignement scolaire",
+		"nom": "Françoise HOSTALIER"
+	}, {
+		"role": "Ministre de l'Aménagement du territoire, de l'Equipement et des Transports",
+		"nom": "Bernard PONS"
+	}, {
+		"role": "SE chargé du Développement rural",
+		"nom": "Raymond-Max AUBERT"
+	}, {
+		"role": "SE chargée des Transports",
+		"nom": "Anne-Marie IDRAC"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Hervé DE CHARETTE"
+	}, {
+		"role": "MD chargé de la Coopération",
+		"nom": "Jacques GODFRAIN"
+	}, {
+		"role": "MD chargé des Affaires européennes",
+		"nom": "Michel BARNIER"
+	}, {
+		"role": "SE chargée de la Francophonie",
+		"nom": "Margie SUDRE"
+	}, {
+		"role": "Ministre de la Défense",
+		"nom": "Charles MILLON"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Jean-Louis DEBRE"
+	}, {
+		"role": "Ministre des Relations avec le Parlement",
+		"nom": "Roger ROMANI"
+	}, {
+		"role": "Ministre du Travail, du Dialogue social et de la Participation",
+		"nom": "Jacques BARROT"
+	}, {
+		"role": "Ministre de la Culture",
+		"nom": "Philippe DOUSTE-BLAZY"
+	}, {
+		"role": "Ministre du Développement économique et du Plan ",
+		"fin": "25 août 1995",
+		"nom": "Jean ARTHUIS"
+	}, {
+		"role": "Ministre de la Réforme de l'Etat, de la Décentralisation et de la Citoyenneté",
+		"nom": "Claude GOASGUEN"
+	}, {
+		"role": "SE chargée de la Décentralisation",
+		"nom": "Nicole AMELINE"
+	}, {
+		"role": "Ministre de la Fonction publique",
+		"nom": "Jean PUECH"
+	}, {
+		"role": "Ministre de la Santé publique et de l'Assurance maladie",
+		"nom": "Elisabeth HUBERT"
+	}, {
+		"role": "Ministre de l'Intégration et de la Lutte contre l'Exclusion",
+		"nom": "Eric RAOULT"
+	}, {
+		"role": "SE chargée des Quartiers en difficulté",
+		"nom": "Françoise DE VEYRINAS"
+	}, {
+		"role": "Ministre de la Solidarité entre les générations",
+		"nom": "Colette CODACCIONI"
+	}, {
+		"role": "Ministre de l'Agriculture, de la Pêche et de l'Alimentation",
+		"nom": "Philippe VASSEUR"
+	}, {
+		"role": "Ministre de l'Industrie",
+		"nom": "Yves GALLAND"
+	}, {
+		"role": "SE chargée du Commerce extérieur",
+		"nom": "Christine CHAUVET"
+	}, {
+		"role": "Ministre du Logement",
+		"nom": "Pierre-André PERISSOL"
+	}, {
+		"role": "Ministre des Petites et Moyennes Entreprises, du Commerce et de l'Artisanat",
+		"nom": "Jean-Pierre RAFFARIN"
+	}, {
+		"role": "Ministre des Technologies de l'Information et de la Poste",
+		"nom": "François FILLON"
+	}, {
+		"role": "Ministre de l'Outre-Mer",
+		"nom": "Jean-Jacques DE PERETTI"
+	}, {
+		"role": "Ministre de l'Environnement",
+		"nom": "Corinne LEPAGE"
+	}, {
+		"role": "Ministre de la Jeunesse et des Sports",
+		"nom": "Guy DRUT"
+	}, {
+		"role": "Ministre du Tourisme",
+		"nom": "Françoise DE PANAFIEU"
+	}, {
+		"role": "Ministre des anciens Combattants et des Victimes de guerre",
+		"nom": "Pierre PASQUINI"
+	}, {
+		"role": "SE chargé de l'Action humanitaire d'urgence",
+		"nom": "Xavier EMMANUELLI"
+	}, {
+		"role": "SE chargée de l'Emploi",
+		"nom": "Anne-Marie COUDERC"
+	}, {
+		"role": "SE, Porte-parole du Gouvernement",
+		"nom": "François BAROIN"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Alain JUPPE (2ème Gouvernement)",
+	"debut_gouv": "7 novembre 1995",
+	"fin_gouv": "2 juin 1997",
+	"Ministres": [{
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Jacques TOUBON"
+	}, {
+		"role": "Ministre de l'Education nationale, de l'Enseignement supérieur et de la Recherche ",
+		"nom": "François BAYROU"
+	}, {
+		"role": "SE chargé de la Recherche",
+		"nom": "François d'AUBERT"
+	}, {
+		"role": "Ministre de la Défense",
+		"nom": "Charles MILLON"
+	}, {
+		"role": "Ministre de l'Equipement, du Logement, des Transports et du Tourisme",
+		"nom": "Bernard PONS"
+	}, {
+		"role": "MD chargé du Logement",
+		"nom": "Pierre-André PERISSOL"
+	}, {
+		"role": "SE chargée des Transports",
+		"nom": "Anne-Marie IDRAC"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Hervé DE CHARETTE"
+	}, {
+		"role": "MD chargé de la Coopération",
+		"nom": "Jacques GODFRAIN"
+	}, {
+		"role": "MD chargé des Affaires européennes",
+		"nom": "Michel BARNIER"
+	}, {
+		"role": "SE chargée de la Francophonie",
+		"nom": "Margie SUDRE"
+	}, {
+		"role": "Ministre du Travail et des Affaires sociales",
+		"nom": "Jacques BARROT"
+	}, {
+		"role": "MD chargée de l'Emploi",
+		"nom": "Anne-Marie COUDERC"
+	}, {
+		"role": "SE chargé de la Santé et de la Sécurité sociale",
+		"nom": "Hervé GAYMARD"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Jean-Louis DEBRE"
+	}, {
+		"role": "Ministre de l'Economie et des Finances",
+		"nom": "Jean ARTHUIS"
+	}, {
+		"role": "MD chargé du Budget, Porte-parole du Gouvernement",
+		"nom": "Alain LAMASSOURE"
+	}, {
+		"role": "MD chargé des Finances et du Commerce extérieur",
+		"nom": "Yves GALLAND"
+	}, {
+		"role": "Ministre des Relations avec le Parlement",
+		"nom": "Roger ROMANI"
+	}, {
+		"role": "Ministre de l'Environnement",
+		"nom": "Corinne LEPAGE"
+	}, {
+		"role": "Ministre de la Culture",
+		"nom": "Philippe DOUSTE-BLAZY"
+	}, {
+		"role": "Ministre de l'Industrie, des Postes et des Télécommunications",
+		"nom": "Franck BOROTRA"
+	}, {
+		"role": "MD chargé de la Poste, des Télécommunications et de l'Espace",
+		"nom": "François FILLON"
+	}, {
+		"role": "Ministre de l'Agriculture, de la Pêche et de l'Alimentation",
+		"nom": "Philippe VASSEUR"
+	}, {
+		"role": "Ministre de l'Aménagement du Territoire, de la Ville et de l'Intégration",
+		"nom": "Jean-Claude GAUDIN"
+	}, {
+		"role": "MD chargé de la Ville et de l'Intégration",
+		"nom": "Eric RAOULT"
+	}, {
+		"role": "Ministre des Petites et Moyennes Entreprises, du Commerce et de l'Artisanat",
+		"nom": "Jean-Pierre RAFFARIN"
+	}, {
+		"role": "MD chargé des anciens Combattants et des Victimes de guerre",
+		"nom": "Pierre PASQUINI"
+	}, {
+		"role": "MD chargé de l'Outre-Mer",
+		"nom": "Jean-Jacques de PERETTI"
+	}, {
+		"role": "MD chargé de la Jeunesse et des Sports",
+		"nom": "Guy DRUT"
+	}, {
+		"role": "SE chargé de l'Action humanitaire d'urgence",
+		"nom": "Xavier EMMANUELLI"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Lionel JOSPIN  (1er Gouvernement)",
+	"debut_gouv": "2 juin 1997",
+	"fin_gouv": "27 mars 2000",
+	"Ministres": [{
+		"role": "Ministre de l'emploi et de la Solidarité",
+		"nom": "Martine AUBRY"
+	}, {
+		"role": "MD chargé de la Ville",
+		"debut": "30 mars 1998",
+		"nom": "Claude BARTOLONE"
+	}, {
+		"role": "SE chargé de la Santé et de l'Action humanitaire",
+		"debut": "17 novembre 1998",
+		"fin": "7 juillet 1999",
+		"nom": "Bernard KOUCHNER"
+	}, {
+		"role": "SE chargé de la Santé et de l'Action humanitaire",
+		"debut": "7 juillet 1999",
+		"nom": "Dominique GILLOT"
+	}, {
+		"role": "SE chargée des Droits des Femmes et de la Formation professionnelle",
+		"debut": "17 novembre 1998",
+		"nom": "Nicole PERY"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Elisabeth GUIGOU"
+	}, {
+		"role": "Ministre de l'Education nationale, de la Recherche et de la Technologie",
+		"nom": "Claude ALLEGRE"
+	}, {
+		"role": "MD chargée de l'Enseignement scolaire",
+		"nom": "Ségolène ROYAL"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Jean-Pierre CHEVENEMENT"
+	}, {
+		"role": "SE chargé de l'Outre-Mer",
+		"nom": "Jean-Jack QUEYRANNE"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Hubert VEDRINE"
+	}, {
+		"role": "SE chargé de la Coopération et de la Francophonie",
+		"nom": "Charles JOSSELIN",
+		"info": "devenu MD à compter du 13 février 1998"
+	}, {
+		"role": "MD chargé des Affaires européennes",
+		"nom": "Pierre MOSCOVICI"
+	}, {
+		"role": "Ministre de l'Economie, des Finances et de l'Industrie",
+		"fin": "2 novembre 1999",
+		"nom": "Dominique STRAUSS-KAHN"
+	}, {
+		"role": "Ministre de l'Economie, des Finances et de l'Industrie",
+		"debut": "2 novembre 1999",
+		"nom": "Christian SAUTTER"
+	}, {
+		"role": "SE chargé du Commerce extérieur",
+		"fin": "28 juillet 1999",
+		"nom": "Jacques DONDOUX"
+	}, {
+		"role": "SE chargé du Commerce extérieur",
+		"debut": "28 juillet 1999",
+		"nom": "François HUWART"
+	}, {
+		"role": "SE chargé du Budget",
+		"fin": "3 janvier 2000",
+		"nom": "Christian SAUTTER"
+	}, {
+		"role": "SE chargé du Budget",
+		"debut": "3 janvier 2000",
+		"nom": "Florence PARLY"
+	}, {
+		"role": "SE chargée des PME, du Commerce et de l'Artisanat",
+		"nom": "Marylise LEBRANCHU"
+	}, {
+		"role": "SE chargé de l'Industrie",
+		"nom": "Christian PIERRET"
+	}, {
+		"role": "Ministre de la Défense",
+		"nom": "Alain RICHARD"
+	}, {
+		"role": "SE chargé des anciens Combattants",
+		"nom": "Jean-Pierre MASSERET"
+	}, {
+		"role": "Ministre de l'Equipement, des Transports et du Logement",
+		"nom": "Jean-Claude GAYSSOT"
+	}, {
+		"role": "SE chargé du Logement",
+		"nom": "Louis BESSON"
+	}, {
+		"role": "SE chargée du Tourisme",
+		"nom": "Michelle DEMESSINE"
+	}, {
+		"role": "Ministre de la Culture et de la Communication",
+		"nom": "Catherine TRAUTMANN"
+	}, {
+		"role": "Ministre de l'Agriculture et de la Pêche",
+		"fin": "20 octobre 1998",
+		"nom": "Louis LE PENSEC"
+	}, {
+		"role": "Ministre de l'Agriculture et de la Pêche",
+		"debut": "20 octobre 1998",
+		"nom": "Jean GLAVANY"
+	}, {
+		"role": "Ministre de l'Aménagement du Territoire et de l'Environnement",
+		"nom": "Dominique VOYNET"
+	}, {
+		"role": "Ministre des Relations avec le Parlement",
+		"nom": "Daniel VAILLANT"
+	}, {
+		"role": "Ministre de la Fonction publique, de la Réforme de l'Etat et de la Décentralisation",
+		"nom": "Emile ZUCCARELLI"
+	}, {
+		"role": "Ministre de la Jeunesse et des Sports",
+		"nom": "Marie-Georges BUFFET"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Lionel JOSPIN (2ème gouvernement)",
+	"debut_gouv": "27 mars 2000",
+	"fin_gouv": "6 mai 2002",
+	"Ministres": [{
+		"role": "Ministre de l'Economie, des Finances et de l'Industrie",
+		"nom": "Laurent FABIUS"
+	}, {
+		"role": "MD chargé de l'Industrie, des PME, du Commerce, de l'Artisanat et de la Consommation",
+		"debut": "25 février 2002",
+		"nom": "Christian PIERRET"
+	}, {
+		"role": "SE chargé du Commerce extérieur",
+		"nom": "François HUWART"
+	}, {
+		"role": "SE chargée du Budget",
+		"nom": "Florence PARLY"
+	}, {
+		"role": "SE chargée des PME, du Commerce, de l'Artisanat et de la Consommation",
+		"fin": "18 octobre 2000",
+		"nom": "Marylise LEBRANCHU"
+	}, {
+		"role": "SE chargée des PME, du Commerce, de l'Artisanat et de la Consommation",
+		"debut": "18 octobre 2000",
+		"fin": "25 février 2002",
+		"nom": "François PATRIAT"
+	}, {
+		"role": "SE chargée des PME, du Commerce, de l'Artisanat et de la Consommation",
+		"debut": "25 février 2002",
+		"nom": "Christian PIERRET"
+	}, {
+		"role": "Ministre de l'emploi et de la Solidarité",
+		"fin": "18 octobre 2000",
+		"nom": "Martine AUBRY"
+	}, {
+		"role": "Ministre de l'emploi et de la Solidarité",
+		"debut": "18 octobre 2000",
+		"nom": "Elisabeth GUIGOU"
+	}, {
+		"role": "MD chargé de la Santé",
+		"nom": "Bernard KOUCHNER"
+	}, {
+		"role": "MD chargée de la Famille, de l'Enfance et des personnes handicapées",
+		"nom": "Ségolène ROYAL"
+	}, {
+		"role": "MD chargé de la Ville",
+		"nom": "Claude BARTOLONE"
+	}, {
+		"role": "SE chargée des Personnes âgées",
+		"fin": "27 mars 2001",
+		"nom": "Dominique GILLOT"
+	}, {
+		"role": "SE chargée des Personnes âgées",
+		"debut": "27 mars 2001",
+		"nom": "Paulette GUINCHARD-KUNSTLER"
+	}, {
+		"role": "SE chargée des Droits des Femmes et de la Formation professionnelle",
+		"nom": "Nicole PERY"
+	}, {
+		"role": "SE chargé de l'Economie solidaire",
+		"nom": "Guy HASCOËT"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"fin": "18 octobre 2000",
+		"nom": "Elisabeth GUIGOU"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"debut": "18 octobre 2000",
+		"nom": "Marylise LEBRANCHU"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"fin": "29 août 2000",
+		"nom": "Jean-Pierre CHEVENEMENT"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"debut": "29 août 2000",
+		"nom": "Daniel VAILLANT"
+	}, {
+		"role": "SE chargé de l'Outre-Mer",
+		"fin": "29 août 2000",
+		"nom": "Jean-Jack QUEYRANNE"
+	}, {
+		"role": "SE chargé de l'Outre-Mer",
+		"debut": "29 août 2000",
+		"nom": "Christian PAUL"
+	}, {
+		"role": "Ministre de l'Education nationale",
+		"nom": "Jack LANG"
+	}, {
+		"role": "MD chargé de l'Enseignement professionnel",
+		"nom": "Jean-Luc MELENCHON"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Hubert VEDRINE"
+	}, {
+		"role": "MD chargé des Affaires européennes",
+		"nom": "Pierre MOSCOVICI"
+	}, {
+		"role": "MD chargé de la Coopération et de la Francophonie",
+		"nom": "Charles JOSSELIN"
+	}, {
+		"role": "Ministre de la Défense",
+		"nom": "Alain RICHARD"
+	}, {
+		"role": "SE chargé des anciens Combattants",
+		"fin": "3 septembre 2001",
+		"nom": "Jean-Pierre MASSERET"
+	}, {
+		"role": "SE chargé des anciens Combattants",
+		"debut": "3 septembre 2001",
+		"nom": "Jacques FLOCH"
+	}, {
+		"role": "Ministre de l'Equipement, des Transports et du Logement",
+		"nom": "Jean-Claude GAYSSOT"
+	}, {
+		"role": "SE chargé du Logement",
+		"fin": "27 mars 2001",
+		"nom": "Louis BESSON"
+	}, {
+		"role": "SE chargé du Logement",
+		"debut": "27 mars 2001",
+		"nom": "Marie-Noëlle LIENEMANN"
+	}, {
+		"role": "SE chargée du Tourisme",
+		"fin": "23 octobre 2001",
+		"nom": "Michelle DEMESSINE"
+	}, {
+		"role": "SE chargée du Tourisme",
+		"debut": "23 octobre 2001",
+		"nom": "Jacques BRUNHES"
+	}, {
+		"role": "Ministre de la Culture et de la Communication",
+		"nom": "Catherine TASCA"
+	}, {
+		"role": "SE chargé du Patrimoine et de la Décentralisation culturelle",
+		"nom": "Michel DUFFOUR"
+	}, {
+		"role": "Ministre de l'Agriculture et de la Pêche",
+		"fin": "25 février 2002",
+		"nom": "Jean GLAVANY"
+	}, {
+		"role": "Ministre de l'Agriculture et de la Pêche",
+		"debut": "25 février 2002",
+		"nom": "François PATRIAT"
+	}, {
+		"role": "Ministre de l'Aménagement du Territoire et de l'Environnement",
+		"fin": "10 juillet 2001",
+		"nom": "Dominique VOYNET"
+	}, {
+		"role": "Ministre de l'Aménagement du Territoire et de l'Environnement",
+		"debut": "10 juillet 2001",
+		"nom": "Yves COCHET"
+	}, {
+		"role": "Ministre des Relations avec le Parlement",
+		"fin": "29 août 2000",
+		"nom": "Michel VAILLANT"
+	}, {
+		"role": "Ministre des Relations avec le Parlement",
+		"debut": "29 août 2000",
+		"nom": "Jean-Jack QUEYRANNE"
+	}, {
+		"role": "Ministre de la Fonction publique, de la Réforme de l'Etat et de la Décentralisation",
+		"nom": "Michel SAPIN"
+	}, {
+		"role": "Ministre de la Jeunesse et des Sports",
+		"nom": "Marie-Georges BUFFET"
+	}, {
+		"role": "Ministre de la Recherche",
+		"nom": "Roger-Gérard SCHWARTZENBERG"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Jean-Pierre RAFFARIN (1er gouvernement)",
+	"debut_gouv": "07 mai 2002",
+	"fin_gouv": "17 juin 2002",
+	"Ministres": [{
+		"role": "Ministre de l'Intérieur, de la Sécurité intérieure et des Libertés locales",
+		"nom": "Nicolas SARKOZY"
+	}, {
+		"role": "MD chargé des Libertés locales",
+		"nom": "Patrick DEVEDJIAN"
+	}, {
+		"role": "Ministre des Affaires sociales, du Travail et de la Solidarité",
+		"nom": "François FILLON"
+	}, {
+		"role": "MD chargé de la Ville",
+		"nom": "Jean-Louis BORLOO"
+	}, {
+		"role": "SE chargée de la lutte contre la Précarité et l'Exclusion",
+		"nom": "Dominique VERSINI"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Dominique PERBEN"
+	}, {
+		"role": "Ministre des Affaires étrangères, de la Coopération et de la Francophonie",
+		"nom": "Dominique de VILLEPIN"
+	}, {
+		"role": "MD chargé des Affaires européennes",
+		"nom": "Renaud DONNEDIEU DE VABRES"
+	}, {
+		"role": "Ministre de la Défense et des anciens Combattants",
+		"nom": "Michèle ALLIOT-MARIE"
+	}, {
+		"role": "Ministre de la Jeunesse, de l'Education nationale et de la Recherche",
+		"nom": "Luc FERRY"
+	}, {
+		"role": "MD chargé de l'Enseignement scolaire",
+		"nom": "Xavier DARCOS"
+	}, {
+		"role": "MD chargé de l'Enseignement supérieur et de la Recherche",
+		"nom": "François LOOS"
+	}, {
+		"role": "Ministre de l'Economie, des Finances et de l'Industrie",
+		"nom": "Francis MER"
+	}, {
+		"role": "MD chargé du Budget",
+		"nom": "Alain LAMBERT"
+	}, {
+		"role": "SE chargé des PME, du Commerce, de l'Artisanat et des Professions libérales",
+		"nom": "Renaud DUTREIL"
+	}, {
+		"role": "Ministre de l'Equipement, des Transports, du Logement, du Tourisme et de la Mer",
+		"nom": "Gilles de ROBIEN"
+	}, {
+		"role": "SE chargée de la Mer",
+		"nom": "Nicole AMELINE"
+	}, {
+		"role": "SE chargé des Transports",
+		"nom": "Dominique BUSSEREAU"
+	}, {
+		"role": "Ministre de l'Ecologie et du Développement durable",
+		"nom": "Roselyne BACHELOT-NARQUIN"
+	}, {
+		"role": "SE chargée du Développement durable",
+		"nom": "Tokia SAIFI"
+	}, {
+		"role": "Ministre de la Santé et des Personnes handicapées",
+		"nom": "Jean-François MATTEI"
+	}, {
+		"role": "Ministre de l'Agriculture, de l'Alimentation, de la Pêche et des Affaires rurales",
+		"nom": "Hervé GAYMARD"
+	}, {
+		"role": "Ministre de la Culture et de la Communication",
+		"nom": "Jean-Jacques AILLAGON"
+	}, {
+		"role": "Ministre de la Fonction publique, de la Réforme de l'Etat et de l'Aménagement du territoire",
+		"nom": "Jean-Paul DELEVOYE"
+	}, {
+		"role": "Ministre de l'Outre-Mer",
+		"nom": "Brigitte GIRARDIN"
+	}, {
+		"role": "Ministre des Sports",
+		"nom": "Jean-François LAMOUR"
+	}, {
+		"role": "SE chargé des relations avec le Parlement - Porte-parole du Gouvernement",
+		"nom": "Jean-François COPE"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Jean-Pierre RAFFARIN (2ème gouvernement)",
+	"debut_gouv": "17 juin 2002",
+	"fin_gouv": "30 mars 2004",
+	"Ministres": [{
+		"role": "Ministre de l'Intérieur, de la Sécurité intérieure et des Libertés locales",
+		"nom": "Nicolas SARKOZY"
+	}, {
+		"role": "MD chargé des Libertés locales",
+		"nom": "Patrick DEVEDJIAN"
+	}, {
+		"role": "Ministre des Affaires sociales, du Travail et de la Solidarité",
+		"nom": "François FILLON"
+	}, {
+		"role": "MD chargé de la Ville et de la Rénovation urbaine",
+		"nom": "Jean-Louis BORLOO"
+	}, {
+		"role": "MD chargée de la Parité et de l'Egalité professionnelle",
+		"nom": "Nicole AMELINE"
+	}, {
+		"role": "SE chargée de la Lutte contre la Précarité et l'Exclusion",
+		"nom": "Dominique VERSINI"
+	}, {
+		"role": "SE chargé des Personnes âgées",
+		"nom": "Hubert FALCO"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Dominique PERBEN"
+	}, {
+		"role": "SE chargé des programmes immobiliers de la Justice",
+		"fin": "22 janvier 2004",
+		"nom": "Pierre BEDIER"
+	}, {
+		"role": "SE chargé des programmes immobiliers de la Justice",
+		"debut": "22 janvier 2004",
+		"nom": "Nicole GUEDJ"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Dominique de VILLEPIN"
+	}, {
+		"role": "MD chargée des Affaires européennes",
+		"nom": "Noëlle LENOIR"
+	}, {
+		"role": "MD chargé de la Coopération et de la Francophonie",
+		"nom": "Pierre-André WILTZER"
+	}, {
+		"role": "SE chargé des Affaires étrangères",
+		"nom": "Renaud MUSELIER"
+	}, {
+		"role": "Ministre de la Défense ",
+		"nom": "Michèle ALLIOT-MARIE"
+	}, {
+		"role": "SE chargé des anciens Combattants",
+		"nom": "Hamlaoui MEKACHERA"
+	}, {
+		"role": "Ministre de la Jeunesse, de l'Education nationale et de la Recherche",
+		"nom": "Luc FERRY"
+	}, {
+		"role": "MD chargé de l'Enseignement scolaire",
+		"nom": "Xavier DARCOS"
+	}, {
+		"role": "MD chargée de la Recherche et des nouvelles Technologies",
+		"nom": "Claudie HAIGNERE"
+	}, {
+		"role": "Ministre de l'Economie, des Finances et de l'Industrie",
+		"nom": "Francis MER"
+	}, {
+		"role": "MD chargé du Budget et de la Réforme budgétaire",
+		"nom": "Alain LAMBERT"
+	}, {
+		"role": "MD chargée de l'Industrie",
+		"nom": "Nicole FONTAINE"
+	}, {
+		"role": "MD chargé du Commerce extérieur",
+		"nom": "François LOOS"
+	}, {
+		"role": "SE chargé des PME, du Commerce, de l'Artisanat, des Professions libérales et de la Consommation",
+		"nom": "Renaud DUTREIL"
+	}, {
+		"role": "Ministre de l'Equipement, des Transports, du Logement, du Tourisme et de la Mer",
+		"nom": "Gilles de ROBIEN"
+	}, {
+		"role": "SE chargé des Transports et de la Mer",
+		"nom": "Dominique BUSSEREAU"
+	}, {
+		"role": "SE chargé du Tourisme",
+		"nom": "Léon BERTRAND"
+	}, {
+		"role": "Ministre de l'Ecologie et du Développement durable",
+		"nom": "Roselyne BACHELOT-NARQUIN"
+	}, {
+		"role": "SE chargée du Développement durable",
+		"nom": "Tokia SAIFI"
+	}, {
+		"role": "Ministre de la Santé, de la Famille et des Personnes handicapées",
+		"nom": "Jean-François MATTEI"
+	}, {
+		"role": "MD chargé de la Famille",
+		"nom": "Christian JACOB"
+	}, {
+		"role": "SE chargée des Personnes handicapées",
+		"nom": "Marie-Thérèse BOISSEAU"
+	}, {
+		"role": "Ministre de l'Agriculture, de l'Alimentation, de la Pêche et des Affaires rurales",
+		"nom": "Hervé GAYMARD"
+	}, {
+		"role": "Ministre de la Culture et de la Communication",
+		"nom": "Jean-Jacques AILLAGON"
+	}, {
+		"role": "Ministre de la Fonction publique, de la Réforme de l'Etat et de l'Aménagement du territoire",
+		"nom": "Jean-Paul DELEVOYE"
+	}, {
+		"role": "SE chargé de la Réforme de l'Etat",
+		"nom": "Henri PLAGNOL"
+	}, {
+		"role": "Ministre de l'Outre-Mer",
+		"nom": "Brigitte GIRARDIN"
+	}, {
+		"role": "Ministre des Sports",
+		"nom": "Jean-François LAMOUR"
+	}, {
+		"role": "SE chargé des relations avec le Parlement - Porte-parole du Gouvernement",
+		"nom": "Jean-François COPE"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Jean-Pierre RAFFARIN (3ème gouvernement)",
+	"debut_gouv": "31 mars 2004",
+	"fin_gouv": "28 novembre 2004",
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre de l'Economie, des Finances et de l'Industrie",
+		"nom": "Nicolas SARKOZY"
+	}, {
+		"role": "MD chargé de l'Industrie",
+		"nom": "Patrick DEVEDJIAN"
+	}, {
+		"role": "MD chargé des PME, du Commerce, de l'Artisanat, des Professions libérales et de la Consommation",
+		"nom": "Christian JACOB"
+	}, {
+		"role": "MD chargé du Commerce extérieur",
+		"nom": "François LOOS"
+	}, {
+		"role": "SE chargé du Budget et de la Réforme budgétaire",
+		"nom": "Dominique BUSSEREAU"
+	}, {
+		"role": "Ministre  de l'Education nationale, de l'Enseignement supérieur et de la Recherche",
+		"nom": "François FILLON"
+	}, {
+		"role": "MD chargé de la Recherche",
+		"nom": "François d'AUBERT"
+	}, {
+		"role": "Ministre de l'Intérieur, de la Sécurité intérieure et des Libertés locales",
+		"nom": "Dominique de VILLEPIN"
+	}, {
+		"role": "MD chargé de l'Intérieur - Porte-parole du Gouvernement",
+		"nom": "Jean-François COPE"
+	}, {
+		"role": "Ministre de l'Emploi, du Travail et de la Cohésion sociale",
+		"nom": "Jean-Louis BORLOO"
+	}, {
+		"role": "MD chargé des relations du Travail",
+		"nom": "Gérard LARCHER"
+	}, {
+		"role": "MD chargée de la Lutte contre la précarité et l'Exclusion",
+		"fin": "28 octobre 2004",
+		"nom": "Nelly OLIN"
+	}, {
+		"role": "MD chargée de l'Intégration, de l'Egalité des Chances et de la Lutte contre l'Exclusion",
+		"debut": "28 octobre 2004",
+		"nom": "Nelly OLIN"
+	}, {
+		"role": "MD chargé du Logement et de la Ville",
+		"debut": "28 octobre 2004",
+		"nom": "Marc-Philippe DAUBRESSE"
+	}, {
+		"role": "SE chargé de l'Insertion professionnelle des Jeunes",
+		"nom": "Laurent HENART"
+	}, {
+		"role": "SE chargé du Logement",
+		"fin": "28 octobre 2004",
+		"nom": "Marc-Philippe DAUBRESSE"
+	}, {
+		"role": "SE chargée de l'Intégration et à l'Egalité des Chances",
+		"fin": "28 octobre 2004",
+		"nom": "Catherine VAUTRIN"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Dominique PERBEN"
+	}, {
+		"role": "SE chargée de l'Aide aux Victimes",
+		"nom": "Nicole GUEDJ"
+	}, {
+		"role": "Ministre de la Défense ",
+		"nom": "Michèle ALLIOT-MARIE"
+	}, {
+		"role": "MD chargé des anciens Combattants",
+		"nom": "Hamlaoui MEKACHERA"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Michel BARNIER"
+	}, {
+		"role": "MD chargée des Affaires européennes",
+		"nom": "Claudie HAIGNERE"
+	}, {
+		"role": "MD chargé de la Coopération, du Développement et de la Francophonie",
+		"nom": "Xavier DARCOS"
+	}, {
+		"role": "SE chargé des Affaires étrangères",
+		"nom": "Renaud MUSELIER"
+	}, {
+		"role": "Ministre de la Santé et de la Protection sociale",
+		"nom": "Philippe DOUSTE-BLAZY"
+	}, {
+		"role": "MD chargé des Personnes âgées",
+		"fin": "28 octobre 2004",
+		"nom": "Hubert FALCO"
+	}, {
+		"role": "SE chargée des Personnes handicapées",
+		"nom": "Marie-Anne MONTCHAMP"
+	}, {
+		"role": "SE chargé de l'Assurance maladie",
+		"nom": "Xavier BERTRAND"
+	}, {
+		"role": "SE chargée des Personnes âgées",
+		"debut": "28 octobre 2004",
+		"nom": "Catherine VAUTRIN"
+	}, {
+		"role": "Ministre de l'Equipement, des Transports, de l'Aménagement du Territoire, du Tourisme et de la Mer",
+		"nom": "Gilles de ROBIEN"
+	}, {
+		"role": "MD chargé du Tourisme",
+		"nom": "Léon BERTRAND"
+	}, {
+		"role": "SE chargé des Transports et de la Mer",
+		"nom": "François GOULARD"
+	}, {
+		"role": "SE chargé de l'Aménagement du Territoire",
+		"fin": "14 avril 2004",
+		"nom": "Philippe BRIAND"
+	}, {
+		"role": "SE chargé de l'Aménagement du Territoire",
+		"debut": "14 avril 2004",
+		"nom": "Frédéric de SAINT-SERNIN"
+	}, {
+		"role": "Ministre de la Fonction publique, de la Réforme de l'Etat et de l'Aménagement du territoire",
+		"nom": "Renaud DUTREIL"
+	}, {
+		"role": "SE chargé de la Réforme de l'Etat",
+		"nom": "Eric WOERTH"
+	}, {
+		"role": "Ministre de l'Agriculture, de l'Alimentation, de la Pêche et des Affaires rurales",
+		"nom": "Hervé GAYMARD"
+	}, {
+		"role": "SE chargé de l'Agriculture, de l'Alimentation, de la Pêche et des Affaires rurales",
+		"nom": "Nicolas FORISSIER"
+	}, {
+		"role": "Ministre de l'Ecologie et du Développement durable",
+		"nom": "Serge LEPELTIER"
+	}, {
+		"role": "SE chargée du Développement durable",
+		"fin": "21 juin 2004",
+		"nom": "Tokia SAIFI"
+	}, {
+		"role": "Ministre de la Culture et de la Communication",
+		"nom": "Renaud DONNEDIEU DE VABRES"
+	}, {
+		"role": "Ministre de la Famille et de l'Enfance",
+		"nom": "Marie-Josée ROIG"
+	}, {
+		"role": "Ministre de l'Outre-Mer",
+		"nom": "Brigitte GIRARDIN"
+	}, {
+		"role": "Ministre de la Jeunesse, des Sports et de la Vie associative",
+		"nom": "Jean-François LAMOUR"
+	}, {
+		"role": "Ministre de la Parité et de l'Egalité professionnelle",
+		"nom": "Nicole AMELINE"
+	}, {
+		"role": "MD chargé des relations avec le Parlement ",
+		"nom": "Henri CUQ"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Jean-Pierre RAFFARIN (Remaniement du 3ème gouvernement)",
+	"debut_gouv": "28 novembre 2004",
+	"fin_gouv": "31 mai 2005",
+	"Ministres": [{
+		"role": "Ministre de l'Education nationale, de l'Enseignement supérieur et de la Recherche",
+		"nom": "François FILLON"
+	}, {
+		"role": "MD chargé de la Recherche",
+		"nom": "François d'AUBERT"
+	}, {
+		"role": "Ministre de l'Intérieur, de la Sécurité intérieure et des Libertés locales",
+		"nom": "Dominique de VILLEPIN"
+	}, {
+		"role": "MD chargée de l'Intérieur ",
+		"nom": "Marie-Josée ROIG"
+	}, {
+		"role": "Ministre de l'Emploi, du Travail et de la Cohésion sociale",
+		"nom": "Jean-Louis BORLOO"
+	}, {
+		"role": "MD chargé des relations du Travail",
+		"nom": "Gérard LARCHER"
+	}, {
+		"role": "MD chargée de l'Intégration, de l'Egalité des Chances et de la Lutte contre l'Exclusion",
+		"nom": "Nelly OLIN"
+	}, {
+		"role": "MD chargé du Logement et de la Ville",
+		"nom": "Marc-Philippe DAUBRESSE"
+	}, {
+		"role": "SE chargé de l'Insertion professionnelle des Jeunes",
+		"nom": "Laurent HENART"
+	}, {
+		"role": "Ministre des Solidarités, de la Santé et de la Famille",
+		"nom": "Philippe DOUSTE-BLAZY"
+	}, {
+		"role": "SE chargée des Personnes handicapées",
+		"nom": "Marie-Anne MONTCHAMP"
+	}, {
+		"role": "SE chargée des Personnes âgées",
+		"nom": "Catherine VAUTRIN"
+	}, {
+		"role": "SE chargé de l'Assurance maladie",
+		"nom": "Xavier BERTRAND"
+	}, {
+		"role": "Ministre de la Défense ",
+		"nom": "Michèle ALLIOT-MARIE"
+	}, {
+		"role": "MD chargé des anciens Combattants",
+		"nom": "Hamlaoui MEKACHERA"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Dominique PERBEN"
+	}, {
+		"role": "SE chargée de l'Aide aux Victimes",
+		"nom": "Nicole GUEDJ"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Michel BARNIER"
+	}, {
+		"role": "MD chargée des Affaires européennes",
+		"nom": "Claudie HAIGNERE"
+	}, {
+		"role": "MD chargé de la Coopération, du Développement et de la Francophonie",
+		"nom": "Xavier DARCOS"
+	}, {
+		"role": "SE chargé des Affaires étrangères",
+		"nom": "Renaud MUSELIER"
+	}, {
+		"role": "Ministre de l'Economie, des Finances et de l'Industrie",
+		"fin": "25 février 2005",
+		"nom": "Hervé GAYMARD"
+	}, {
+		"role": "Ministre de l'Economie, des Finances et de l'Industrie",
+		"debut": "25 février 2005",
+		"nom": "Thierry BRETON"
+	}, {
+		"role": "MD chargé de l'Industrie",
+		"nom": "Patrick DEVEDJIAN"
+	}, {
+		"role": "MD chargé du Budget et de la Réforme de l'Etat - Porte-parole du Gouvernement",
+		"nom": "Jean-François COPE"
+	}, {
+		"role": "MD chargé du Commerce extérieur",
+		"nom": "François LOOS"
+	}, {
+		"role": "Ministre de l'Equipement, des Transports, de l'Aménagement du Territoire, du Tourisme et de la Mer",
+		"nom": "Gilles de ROBIEN"
+	}, {
+		"role": "MD chargé du Tourisme",
+		"nom": "Léon BERTRAND"
+	}, {
+		"role": "SE chargé des Transports et de la Mer",
+		"nom": "François GOULARD"
+	}, {
+		"role": "SE chargé de l'Aménagement du Territoire",
+		"nom": "Frédéric de SAINT-SERNIN"
+	}, {
+		"role": "Ministre de la Fonction publique, de la Réforme de l'Etat et de l'Aménagement du territoire",
+		"nom": "Renaud DUTREIL"
+	}, {
+		"role": "SE chargé de la Réforme de l'Etat",
+		"nom": "Eric WOERTH"
+	}, {
+		"role": "Ministre de l'Agriculture, de l'Alimentation, de la Pêche et de la Ruralité",
+		"nom": "Dominique BUSSEREAU"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Dominique de VILLEPIN (31 mai 2005- 25 mars 2007)",
+	"debut_gouv": "31 mai 2005",
+	"fin_gouv": "25 mars 2007",
+	"Ministres": [{
+		"role": "Ministre d'Etat, Ministre de l'Intérieur et de l'Aménagement du Territoire",
+		"nom": "Nicolas SARKOZY"
+	}, {
+		"role": "MD chargé des Collectivités locales",
+		"nom": "Brice HORTEFEUX"
+	}, {
+		"role": "MD chargé de l'Aménagement du Territoire",
+		"nom": "Christian ESTROSI"
+	}, {
+		"role": "Ministre de la Défense ",
+		"nom": "Michèle ALLIOT-MARIE"
+	}, {
+		"role": "MD chargé des anciens Combattants",
+		"nom": "Hamlaoui MEKACHERA"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Philippe DOUSTE-BLAZY"
+	}, {
+		"role": "MD chargée de la Coopération, du Développement et de la Francophonie",
+		"nom": "Brigitte GIRARDIN"
+	}, {
+		"role": "MD chargée des Affaires européennes",
+		"nom": "Catherine COLONNA"
+	}, {
+		"role": "Ministre de l'Emploi, de la Cohésion sociale et du Logement",
+		"nom": "Jean-Louis BORLOO"
+	}, {
+		"role": "MD chargé de l'Emploi, du Travail de l'Insertion professionnelle des Jeunes",
+		"nom": "Gérard LARCHER"
+	}, {
+		"role": "MD chargée de la Cohésion sociale et de la Parité",
+		"nom": "Catherine VAUTRIN"
+	}, {
+		"role": "Ministre de l'Economie, des Finances et de l'Industrie",
+		"nom": "Thierry BRETON"
+	}, {
+		"role": "MD chargé du Budget et de la Réforme de l'Etat - Porte-parole du Gouvernement",
+		"nom": "Jean-François COPE"
+	}, {
+		"role": "MD chargé de l'Industrie",
+		"nom": "François LOOS"
+	}, {
+		"role": "MD chargée du Commerce extérieur",
+		"nom": "Christine LAGARDE"
+	}, {
+		"role": "Ministre  de l'Education nationale, de l'Enseignement supérieur et de la Recherche",
+		"nom": "François FILLON"
+	}, {
+		"role": "MD chargé de l'Enseignement supérieur et de la Recherche",
+		"nom": "François GOULARD"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Pascal CLEMENT"
+	}, {
+		"role": "Ministre des Transports, de l'Equipement,  du Tourisme et de la Mer",
+		"nom": "Dominique PERBEN"
+	}, {
+		"role": "MD chargé du Tourisme",
+		"nom": "Léon BERTRAND"
+	}, {
+		"role": "Ministre de la Santé et de la Solidarité",
+		"nom": "Xavier BERTRAND"
+	}, {
+		"role": "MD chargé de la Sécurité sociale, des Personnes âgées, des Personnes handicapées et de la Famille",
+		"nom": "Philippe BAS"
+	}, {
+		"role": "Ministre de l'Agriculture et de la Pêche ",
+		"nom": "Dominique BUSSEREAU"
+	}, {
+		"role": "Ministre de la Fonction publique",
+		"nom": "Christian JACOB"
+	}, {
+		"role": "Ministre de la Culture et de la Communication",
+		"nom": "Renaud DONNEDIEU DE VABRES"
+	}, {
+		"role": "Ministre de l'Ecologie et du Développement durable",
+		"nom": "Nelly OLIN"
+	}, {
+		"role": "Ministre de l'Outre-Mer",
+		"nom": "François BAROIN"
+	}, {
+		"role": "Ministre des Petites et Moyennes Entreprises, du Commerce, de l'Artisanat, des Professions libérales et de la Consommation",
+		"nom": "Renaud DUTREIL"
+	}, {
+		"role": "Ministre de la Jeunesse, des Sports et de la Vie associative",
+		"nom": "Jean-François LAMOUR"
+	}, {
+		"role": "MD chargé des relations avec le Parlement ",
+		"nom": "Henri CUQ"
+	}, {
+		"role": "MD chargé de la promotion de l'égalité des chances",
+		"nom": "Azouz BEGAG"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Dominique de VILLEPIN",
+	"debut_gouv": "26 mars 2007",
+	"fin_gouv": "15 mai 2007",
+	"Ministres": [{
+		"role": "Ministre de la Défense ",
+		"nom": "Michèle ALLIOT-MARIE"
+	}, {
+		"role": "MD chargé des anciens Combattants",
+		"nom": "Hamlaoui MEKACHERA"
+	}, {
+		"role": "Ministre des Affaires étrangères",
+		"nom": "Philippe DOUSTE-BLAZY"
+	}, {
+		"role": "MD chargée de la Coopération, du Développement et de la Francophonie",
+		"nom": "Brigitte GIRARDIN"
+	}, {
+		"role": "MD chargée des Affaires européennes",
+		"nom": "Catherine COLONNA"
+	}, {
+		"role": "Ministre de l'Emploi, de la Cohésion sociale et du Logement",
+		"nom": "Jean-Louis BORLOO"
+	}, {
+		"role": "MD chargé de l'Emploi, du Travail de l'Insertion professionnelle des Jeunes",
+		"nom": "Gérard LARCHER"
+	}, {
+		"role": "MD chargée de la Cohésion sociale et de la Parité",
+		"nom": "Catherine VAUTRIN"
+	}, {
+		"role": "Ministre de l'Economie, des Finances et de l'Industrie",
+		"nom": "Thierry BRETON"
+	}, {
+		"role": "MD chargé du Budget et de la Réforme de l'Etat - Porte-parole du Gouvernement",
+		"nom": "Jean-François COPE"
+	}, {
+		"role": "MD chargé de l'Industrie",
+		"nom": "François LOOS"
+	}, {
+		"role": "MD chargée du Commerce extérieur",
+		"nom": "Christine LAGARDE"
+	}, {
+		"role": "Ministre de l'Intérieur et de l'Aménagement du Territoire",
+		"fin": "26 Mars 2007",
+		"nom": "François BAROIN"
+	}, {
+		"role": "MD chargé des Collectivités locales",
+		"nom": "Brice HORTEFEUX"
+	}, {
+		"role": "MD chargé de l'Aménagement du Territoire",
+		"nom": "Christian ESTROSI"
+	}, {
+		"role": "Ministre  de l'Education nationale, de l'Enseignement supérieur et de la Recherche",
+		"nom": "François FILLON"
+	}, {
+		"role": "MD chargé de l'Enseignement supérieur et de la Recherche",
+		"nom": "François GOULARD"
+	}, {
+		"role": "Garde des Sceaux, Ministre de la Justice",
+		"nom": "Pascal CLEMENT"
+	}, {
+		"role": "Ministre des Transports, de l'Equipement,  du Tourisme et de la Mer",
+		"nom": "Dominique PERBEN"
+	}, {
+		"role": "MD chargé du Tourisme",
+		"nom": "Léon BERTRAND"
+	}, {
+		"role": "Ministre de la Santé et des Solidarités",
+		"fin": "26 Mars 2007",
+		"nom": "Philippe BAS"
+	}, {
+		"role": "Ministre de l'Agriculture et de la Pêche ",
+		"nom": "Dominique BUSSEREAU"
+	}, {
+		"role": "Ministre de la Fonction publique",
+		"nom": "Christian JACOB"
+	}, {
+		"role": "Ministre de la Culture et de la Communication",
+		"nom": "Renaud DONNEDIEU DE VABRES"
+	}, {
+		"role": "Ministre de l'Ecologie et du Développement durable",
+		"nom": "Nelly OLIN"
+	}, {
+		"role": "Ministre de l'Outre-Mer",
+		"fin": "26 Mars 2007",
+		"nom": "Hervé MARITON"
+	}, {
+		"role": "Ministre des Petites et Moyennes Entreprises, du Commerce, de l'Artisanat, des Professions libérales et de la Consommation",
+		"nom": "Renaud DUTREIL"
+	}, {
+		"role": "Ministre de la Jeunesse, des Sports et de la Vie associative",
+		"nom": "Jean-François LAMOUR"
+	}, {
+		"role": "MD chargé des relations avec le Parlement",
+		"nom": "Henri CUQ"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de François FILLON (1er Gouvernement)",
+	"debut_gouv": "18 mai 2007",
+	"fin_gouv": "18 juin 2007",
+	"Ministres": [{
+		"role": "Ministre d’Etat, ministre de l’écologie, du développement et de l’aménagement durables",
+		"nom": "Alain JUPPE"
+	}, {
+		"role": "Secrétaire d’Etat chargé des transports",
+		"nom": "Dominique BUSSEREAU"
+	}, {
+		"role": "Ministre de l’économie, des finances et de l’emploi",
+		"nom": "Jean-Louis BORLOO"
+	}, {
+		"role": "Ministre de l’intérieur, de l’outre-mer et des collectivités territoriales",
+		"nom": "Michèle ALLIOT-MARIE"
+	}, {
+		"role": "Ministre des affaires étrangères et européennes",
+		"nom": "Bernard KOUCHNER"
+	}, {
+		"role": "Secrétaire d’Etat chargé des affaires européennes",
+		"nom": "Jean-Pierre JOUYET"
+	}, {
+		"role": "Ministre de l’immigration, de l’identité nationale et du codéveloppement",
+		"nom": "Brice HORTEFEUX"
+	}, {
+		"role": "Garde des sceaux, Ministre de la justice",
+		"nom": "Rachida DATI"
+	}, {
+		"role": "Ministre du travail, des relations sociales et de la solidarité",
+		"nom": "Xavier BERTRAND"
+	}, {
+		"role": "Ministre de l’éducation nationale",
+		"nom": "Xavier DARCOS"
+	}, {
+		"role": "Ministre de l’enseignement supérieur et de la recherche",
+		"nom": "Valérie PECRESSE"
+	}, {
+		"role": "Ministre de la défense",
+		"nom": "Hervé MORIN"
+	}, {
+		"role": "Ministre de la santé, de la jeunesse et des sports",
+		"nom": "Roselyne BACHELOT-NARQUIN"
+	}, {
+		"role": "Ministre du logement et de la ville",
+		"nom": "Christine BOUTIN"
+	}, {
+		"role": "Ministre de l’agriculture et de la pêche",
+		"nom": "Christine LAGARDE"
+	}, {
+		"role": "Ministre de la culture et de la communication, porte-parole du Gouvernement",
+		"nom": "Christine ALBANEL"
+	}, {
+		"role": "Ministre du budget, des comptes publics et de la fonction publique",
+		"nom": "Eric WOERTH"
+	}, {
+		"role": "Secrétaire d’Etat chargé des relations avec le Parlement",
+		"nom": "Roger KAROUTCHI"
+	}, {
+		"role": "Secrétaire d’Etat chargé de la prospective et de l’évaluation des politiques publiques",
+		"nom": "Eric BESSON"
+	}, {
+		"role": "Haut-commissaire aux solidarités actives contre la pauvreté",
+		"nom": " Martin HIRSCH"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de François FILLON (2ème Gouvernement)",
+	"debut_gouv": "18 juin 2007",
+	"fin_gouv": "18 mars 2008",
+	"Ministres": [{
+		"role": "Ministre d’Etat, ministre de l’écologie, du développement et de l’aménagement durables",
+		"nom": "Jean-Louis BORLOO"
+	}, {
+		"role": "Secrétaire d’Etat chargé des transports",
+		"nom": "Dominique BUSSEREAU"
+	}, {
+		"role": "Secrétaire d’Etat chargée de l’écologie",
+		"nom": "Nathalie KOSCIUSKO-MORIZET"
+	}, {
+		"role": "Ministre de l’intérieur, de l’outre-mer et des collectivités territoriales",
+		"nom": "Michèle ALLIOT-MARIE"
+	}, {
+		"role": "Secrétaire d’Etat chargé de l’outre-mer",
+		"nom": "Christian ESTROSI"
+	}, {
+		"role": "Ministre des affaires étrangères et européennes",
+		"nom": "Bernard KOUCHNER"
+	}, {
+		"role": "Secrétaire d’Etat chargé des affaires européennes",
+		"nom": "Jean-Pierre JOUYET"
+	}, {
+		"role": "Secrétaire d’Etat chargé de la coopération et de la francophonie",
+		"nom": "Jean-Marie BOCKEL"
+	}, {
+		"role": "Secrétaire d’Etat chargée des affaires étrangères et des droits de l’homme",
+		"nom": "Rama YADE"
+	}, {
+		"role": "Ministre de l’économie, des finances et de l’emploi",
+		"nom": "Christine LAGARDE"
+	}, {
+		"role": "Secrétaire d’Etat chargé des entreprises et du commerce extérieur",
+		"nom": "Hervé NOVELLI"
+	}, {
+		"role": "Secrétaire d’Etat chargé de la consommation et du tourisme",
+		"nom": "Luc CHATEL"
+	}, {
+		"role": "Ministre de l’immigration, de l’identité nationale et du codéveloppement",
+		"nom": "Brice HORTEFEUX"
+	}, {
+		"role": "Garde des sceaux, Ministre de la justice",
+		"nom": "Rachida DATI"
+	}, {
+		"role": "Ministre de l’agriculture et de la pêche",
+		"nom": "Michel BARNIER"
+	}, {
+		"role": "Ministre du travail, des relations sociales et de la solidarité",
+		"nom": "Xavier BERTRAND"
+	}, {
+		"role": "Secrétaire d’Etat chargée de la solidarité",
+		"nom": "Valérie LETARD"
+	}, {
+		"role": "Ministre de l’éducation nationale",
+		"nom": "Xavier DARCOS"
+	}, {
+		"role": "Ministre de l’enseignement supérieur et de la recherche",
+		"nom": "Valérie PECRESSE"
+	}, {
+		"role": "Ministre de la défense",
+		"nom": "Hervé MORIN"
+	}, {
+		"role": "Secrétaire d’Etat à la défense, chargé des anciens combattants",
+		"nom": "Alain MARLEIX"
+	}, {
+		"role": "Ministre de la santé, de la jeunesse et des sports",
+		"nom": "Roselyne BACHELOT-NARQUIN"
+	}, {
+		"role": "Secrétaire d’État chargé des sports",
+		"debut": "22 octobre 2007",
+		"nom": "Bernard LAPORTE"
+	}, {
+		"role": "Ministre du logement et de la ville",
+		"nom": "Christine BOUTIN"
+	}, {
+		"role": "Secrétaire d’Etat chargée de la politique de la ville",
+		"nom": "Fadela AMARA"
+	}, {
+		"role": "Ministre de la culture et de la communication",
+		"nom": "Christine ALBANEL"
+	}, {
+		"role": "Ministre du budget, des comptes publics et de la fonction publique",
+		"nom": "Eric WOERTH"
+	}, {
+		"role": "Secrétaire d’Etat chargé de la fonction publique",
+		"nom": "André SANTINI"
+	}, {
+		"role": "Secrétaire d’Etat chargé des relations avec le Parlement",
+		"nom": "Roger KAROUTCHI"
+	}, {
+		"role": "Secrétaire d’Etat, porte-parole du Gouvernement",
+		"nom": "Laurent WAUQUIEZ"
+	}, {
+		"role": "Secrétaire d’Etat chargé de la prospective et de l’évaluation des politiques publiques",
+		"nom": "Eric BESSON"
+	}, {
+		"role": "Haut-commissaire aux solidarités actives contre la pauvreté",
+		"nom": " Martin HIRSCH"
+	}]
+}, {
+	"nom_gouv": "Remaniements du 2ème Gouvernement de François FILLON",
+	"debut_gouv": "18 mars 2008",
+	"fin_gouv": "13 novembre 2010",
+	"Ministres": [{
+		"role": "Ministre d’Etat, ministre de l’écologie, de l’énergie, du développement durable et de l’aménagement du territoire puis Ministre d’Etat, ministre de l’écologie, de l’énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat",
+		"nom": "Jean-Louis BORLOO"
+	}, {
+		"role": "Secrétaire d’Etat chargé des transports",
+		"nom": "Dominique BUSSEREAU"
+	}, {
+		"role": "Secrétaire d’Etat chargée de l’écologie",
+		"fin": "21 janvier 2009",
+		"nom": "Nathalie KOSCIUSKO-MORIZET"
+	}, {
+		"role": "Secrétaire d’Etat chargée de l’écologie",
+		"debut": "21 janvier 2009",
+		"nom": "Chantal JOUANNO"
+	}, {
+		"role": "Secrétaire d’Etat en charge des technologies vertes et des négociations sur le climat",
+		"fin": "23 juin 2009",
+		"nom": "Valérie LETARD"
+	}, {
+		"role": "Ministre du logement et de la ville devenu Ministre du logement puis Secrétaire d’Etat chargé du logement et de l’urbanisme ",
+		"fin": "15 janvier 2009",
+		"nom": "Christine BOUTIN"
+	}, {
+		"role": "Ministre du logement et de la ville devenu Ministre du logement puis Secrétaire d’Etat chargé du logement et de l’urbanisme ",
+		"debut": "15 janvier 2009",
+		"nom": "Benoist APPARU"
+	}, {
+		"role": "Garde des sceaux, Ministre de la justice devient Ministre d’Etat, garde des sceaux, ministre de la justice et des libertés",
+		"fin": "23 juin 2009",
+		"nom": "Rachida DATI"
+	}, {
+		"role": "Garde des sceaux, Ministre de la justice devient Ministre d’Etat, garde des sceaux, ministre de la justice et des libertés",
+		"debut": "23 juin 2009",
+		"nom": "Michèle ALLIOT-MARIE"
+	}, {
+		"role": "Secrétaire d’Etat à la justice",
+		"fin": "23 juin 2009",
+		"nom": "Jean-Marie BOCKEL"
+	}, {
+		"role": "Ministre des affaires étrangères et européennes",
+		"nom": "Bernard KOUCHNER"
+	}, {
+		"role": "Secrétaire d’Etat chargé des affaires européennes,",
+		"fin": "12 décembre 2008",
+		"nom": "Jean-Pierre JOUYET"
+	}, {
+		"role": "Secrétaire d’Etat chargé des affaires européennes,",
+		"debut": "12 décembre 2008",
+		"fin": "24 juin 2009",
+		"nom": "Bruno LE MAIRE"
+	}, {
+		"role": "Secrétaire d’Etat chargé des affaires européennes,",
+		"debut": "24 juin 2009",
+		"nom": "Pierre LELLOUCHE"
+	}, {
+		"role": "Secrétaire d’Etat chargé de la coopération et de la francophonie",
+		"nom": "Alain JOYANDET (démissionnaire au 04/07/2010)"
+	}, {
+		"role": "Secrétaire d’Etat chargée des affaires étrangères et des droits de l’homme",
+		"fin": "23 juin 2009",
+		"nom": "Rama YADE"
+	}, {
+		"role": "Ministre de l’économie, de l’industrie et de l’emploi",
+		"nom": "Christine LAGARDE"
+	}, {
+		"role": "Secrétaire d’Etat chargé de l’industrie et de la consommation, porte-parole du Gouvernement devenu Ministre auprès du ministre de l’économie, de l’industrie et de l’emploi, chargé de l’industrie",
+		"fin": "23 juin 2009",
+		"nom": "Luc CHATEL"
+	}, {
+		"role": "Secrétaire d’Etat chargé de l’industrie et de la consommation, porte-parole du Gouvernement devenu Ministre auprès du ministre de l’économie, de l’industrie et de l’emploi, chargé de l’industrie",
+		"debut": "23 juin 2009",
+		"nom": "Christian ESTROSI"
+	}, {
+		"role": "Secrétaire d’Etat chargé du commerce, de l’artisanat, des petites et moyennes entreprises, du tourisme et des services devenu Secrétaire d’Etat chargé du commerce, de l’artisanat, des PME, du tourisme, des services et de la consommation",
+		"fin": "23 juin 2009",
+		"nom": "Hervé NOVELLI"
+	}, {
+		"role": "Secrétaire d’Etat chargé de l’emploi",
+		"debut": "18 mars 2008",
+		"nom": "Laurent WAUQUIEZ"
+	}, {
+		"role": "Secrétaire d’Etat chargée du commerce extérieur",
+		"debut": "18 mars 2008",
+		"nom": "Anne-Marie IDRAC"
+	}, {
+		"role": "Ministre de l’intérieur, de l’outre-mer et des collectivités territoriales",
+		"fin": "24 juin 2009",
+		"nom": "Michèle ALLIOT-MARIE"
+	}, {
+		"role": "Ministre de l’intérieur, de l’outre-mer et des collectivités territoriales",
+		"debut": "24 juin 2009",
+		"fin": "13 novembre 2010",
+		"nom": "Brice HORTEFEUX"
+	}, {
+		"role": "Secrétaire d’Etat chargé de l’outre-mer",
+		"fin": "23 juin 2009",
+		"nom": "Yves JEGO"
+	}, {
+		"role": "Secrétaire d’Etat chargé de l’outre-mer devenu (07/11/2009) Ministre auprès du ministre de l’intérieur chargée de l’outre-mer",
+		"debut": "23 juin 2009",
+		"nom": "Marie-Luce PENCHARD"
+	}, {
+		"role": "Secrétaire d’État à l’intérieur et aux collectivités territoriales",
+		"debut": "18 mars 2008",
+		"nom": "Alain MARLEIX"
+	}, {
+		"role": "Ministre du travail, des relations sociales, de la famille et de la solidarité devenu Ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville puis Ministre du travail, de la solidarité et de la fonction publique ",
+		"fin": "15 janvier 2009",
+		"nom": "Xavier BERTRAND"
+	}, {
+		"role": "Ministre du travail, des relations sociales, de la famille et de la solidarité devenu Ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville puis Ministre du travail, de la solidarité et de la fonction publique ",
+		"debut": "15 janvier 2009",
+		"fin": "24 juin 2009",
+		"nom": "Brice HORTEFEUX"
+	}, {
+		"role": "Ministre du travail, des relations sociales, de la famille et de la solidarité devenu Ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville puis Ministre du travail, de la solidarité et de la fonction publique ",
+		"debut": "24 juin 2009",
+		"fin": "22 mars 2010",
+		"nom": "Xavier DARCOS"
+	}, {
+		"role": "Ministre du travail, des relations sociales, de la famille et de la solidarité devenu Ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville puis Ministre du travail, de la solidarité et de la fonction publique ",
+		"debut": "22 mars 2010",
+		"nom": "Eric WOERTH"
+	}, {
+		"role": "Secrétaire d’Etat chargée de la solidarité",
+		"fin": "23 juin 2009",
+		"nom": "Valérie LETARD"
+	}, {
+		"role": "Secrétaire d’Etat chargée de la politique de la ville",
+		"debut": "15 janvier 2009",
+		"nom": "Fadela AMARA"
+	}, {
+		"role": "Secrétaire d’Etat chargée de la famille et de la solidarité",
+		"debut": "18 mars 2008",
+		"nom": "Nadine MORANO"
+	}, {
+		"role": "Secrétaire d’Etat chargée des aînés",
+		"fin": "23 juin 2009",
+		"nom": "Nora BERRA"
+	}, {
+		"role": "Secrétaire d’Etat chargé de la fonction publique",
+		"fin": "22 mars 2010",
+		"nom": "Georges TRON"
+	}, {
+		"role": "Ministre du budget, des comptes publics et de la fonction publique devenu Ministre du budget, des comptes publics, de la fonction publique et de la réforme de l’Etat puis Ministre du budget, des comptes publics et de la réforme de l’Etat",
+		"fin": "22 mars 2010",
+		"nom": "Eric WOERTH"
+	}, {
+		"role": "Ministre du budget, des comptes publics et de la fonction publique devenu Ministre du budget, des comptes publics, de la fonction publique et de la réforme de l’Etat puis Ministre du budget, des comptes publics et de la réforme de l’Etat",
+		"debut": "22 mars 2010",
+		"nom": "François BAROIN"
+	}, {
+		"role": "Secrétaire d’Etat chargé de la fonction publique",
+		"fin": "23 juin 2009",
+		"nom": "André SANTINI"
+	}, {
+		"role": "Ministre de l’éducation nationale devenu Ministre de l’éducation nationale, porte-parole du Gouvernement",
+		"fin": "23 juin 2009",
+		"nom": "Xavier DARCOS"
+	}, {
+		"role": "Ministre de l’éducation nationale devenu Ministre de l’éducation nationale, porte-parole du Gouvernement",
+		"debut": "23 juin 2009",
+		"nom": "Luc CHATEL"
+	}, {
+		"role": "Ministre de l’enseignement supérieur et de la recherche",
+		"nom": "Valérie PECRESSE"
+	}, {
+		"role": "Ministre de la défense",
+		"nom": "Hervé MORIN"
+	}, {
+		"role": "Secrétaire d’Etat à la défense et aux anciens combattants",
+		"fin": "23 juin 2009",
+		"nom": "Jean-Marie BOCKEL"
+	}, {
+		"role": "Secrétaire d’Etat à la défense et aux anciens combattants",
+		"debut": "23 juin 2009",
+		"nom": "Hubert FALCO"
+	}, {
+		"role": "Ministre de la santé, de la jeunesse, des sports et de la vie associative devenu : Ministre de la santé et des sports",
+		"nom": "Roselyne BACHELOT-NARQUIN"
+	}, {
+		"role": "Secrétaire d’État chargé des sports, de la jeunesse et de la vie associative devenu : ministre puis Secrétaire d’Etat chargée des sports",
+		"debut": "22 octobre 2007",
+		"fin": "23 juin 2009",
+		"nom": "Bernard LAPORTE"
+	}, {
+		"role": "Secrétaire d’État chargé des sports, de la jeunesse et de la vie associative devenu : ministre puis Secrétaire d’Etat chargée des sports",
+		"debut": "23 juin 2009",
+		"nom": "Rama YADE"
+	}, {
+		"role": "Ministre de l’agriculture et de la pêche devient Ministre de l’alimentation, de l’agriculture et de la pêche",
+		"fin": "23 juin 2009",
+		"nom": "Michel BARNIER"
+	}, {
+		"role": "Ministre de l’agriculture et de la pêche devient Ministre de l’alimentation, de l’agriculture et de la pêche",
+		"debut": "23 juin 2009",
+		"nom": "Bruno LE MAIRE"
+	}, {
+		"role": "Ministre de la culture et de la communication",
+		"fin": "23 juin 2009",
+		"nom": "Christine ALBANEL"
+	}, {
+		"role": "Ministre de la culture et de la communication",
+		"debut": "23 juin 2009",
+		"nom": "Frédéric MITTERRAND"
+	}, {
+		"role": "Ministre de l’immigration, de l’intégration, de l’identité nationale et du développement solidaire",
+		"fin": "15 janvier 2009",
+		"nom": "Brice HORTEFEUX"
+	}, {
+		"role": "Ministre de l’immigration, de l’intégration, de l’identité nationale et du développement solidaire",
+		"debut": "15 janvier 2009",
+		"nom": "Eric BESSON"
+	}, {
+		"role": "Secrétaire d’Etat chargé de l’aménagement du territoire devenu Ministre de l’espace rural et de l’aménagement du territoire",
+		"debut": "18 mars 2008",
+		"fin": "23 juin 2009",
+		"nom": "Hubert FALCO"
+	}, {
+		"role": "Secrétaire d’Etat chargé de l’aménagement du territoire devenu Ministre de l’espace rural et de l’aménagement du territoire",
+		"debut": "23 juin 2009",
+		"nom": "Michel MERCIER"
+	}, {
+		"role": "Ministre de la jeunesse et des solidarités actives",
+		"debut": "22 mars 2010",
+		"nom": "Marc-Philippe DAUBRESSE"
+	}, {
+		"role": "Ministre auprès du Premier ministre chargé de la mise en œuvre du plan de relance",
+		"debut": "5 décembre 2008",
+		"nom": "Patrick DEVEDJIAN"
+	}, {
+		"role": "Secrétaire d’Etat chargé des relations avec le Parlement devenu Ministre auprès du Premier ministre, chargé des relations avec le Parlement",
+		"fin": "23 juin 2009",
+		"nom": "Roger KAROUTCHI"
+	}, {
+		"role": "Secrétaire d’Etat chargé des relations avec le Parlement devenu Ministre auprès du Premier ministre, chargé des relations avec le Parlement",
+		"debut": "23 juin 2009",
+		"nom": "Henri DE RAINCOURT"
+	}, {
+		"role": "Secrétaire d’Etat chargé du développement de la région capitale",
+		"debut": "18 mars 2008",
+		"fin": "04 juillet 2010",
+		"nom": "Christian BLANC"
+	}, {
+		"role": "Secrétaire d’Etat chargé de la prospective, de l’évaluation des politiques publiques et du développement de l’économie numérique devenu Secrétaire d’Etat chargée de la prospective et du développement numérique",
+		"fin": "15 janvier 2009",
+		"nom": "Eric BESSON"
+	}, {
+		"role": "Secrétaire d’Etat chargé de la prospective, de l’évaluation des politiques publiques et du développement de l’économie numérique devenu Secrétaire d’Etat chargée de la prospective et du développement numérique",
+		"debut": "15 janvier 2009",
+		"nom": "Nathalie KOSCIUSKO-MORIZET"
+	}, {
+		"role": "Haut-commissaire aux solidarités actives contre la pauvreté et Haut-commissaire à la jeunesse",
+		"debut": "12 janvier 2009",
+		"fin": "22 mars 2010 ",
+		"nom": " Martin HIRSCH"
+	}]
+}, {
+	"nom_gouv": "3ème Gouvernement de François FILLON",
+	"debut_gouv": "14 novembre 2010",
+	"fin_gouv": "22 février 2012",
+	"Ministres": [{
+		"role": "Premier ministre",
+		"nom": "François FILLON"
+	}, {
+		"role": "Ministre de l’écologie, du développement durable, des transports et du logement relève du Premier ministre",
+		"nom": "Nathalie KOSCIUSKO-MORIZET"
+	}, {
+		"role": "Secrétaire d’Etat chargé des transports devenu Ministre auprès de la ministre de l’écologie, du développement durable, des transports et du logement, chargé des transports puis Ministre auprès du ministre",
+		"debuit": "29 juin 2011",
+		"nom": "Thierry MARIANI"
+	}, {
+		"role": "Secrétaire d’Etat chargé du logement devenu Ministre auprès du ministre de l’écologie, du développement durable, des transports et du logement, chargé du logement",
+		"nom": "Benoist APPARU"
+	}, {
+		"role": "Ministre d’Etat, ministre des affaires étrangères et européennes",
+		"fin": "03 mars 2011",
+		"nom": "Michèle ALLIOT-MARIE"
+	}, {
+		"role": "Ministre d’Etat, ministre des affaires étrangères et européennes",
+		"debut": "03 mars 2011",
+		"nom": "Alain JUPPE"
+	}, {
+		"role": "Ministre auprès de la ministre d’Etat, ministre des affaires étrangères et européennes, chargé de la coopération ",
+		"nom": "Henri DE RAINCOURT "
+	}, {
+		"role": "Ministre auprès de la ministre d’Etat, ministre des affaires étrangères et européennes, chargé des affaires européennes",
+		"fin": "29 juin 2011",
+		"nom": "Laurent WAUQUIEZ"
+	}, {
+		"role": "Ministre auprès de la ministre d’Etat, ministre des affaires étrangères et européennes, chargé des affaires européennes",
+		"debut": "29 juin 2011",
+		"nom": "Jean LEONETTI"
+	}, {
+		"role": "Secrétaire d’Etat auprès du ministre d’Etat, ministre des affaires étrangères et européennes, chargé des Français de l’étranger",
+		"fin": "29 juin 2011",
+		"nom": "David DOUILLET"
+	}, {
+		"role": "Secrétaire d’Etat auprès du ministre d’Etat, ministre des affaires étrangères et européennes, chargé des Français de l’étranger",
+		"debut": "29 juin 2011",
+		"nom": "Edouard COURTIAL"
+	}, {
+		"role": "Ministre d’Etat, ministre de la défense et des anciens combattants  devenu : Ministre de la défense et des anciens combattants",
+		"fin": "1 mars 2011",
+		"nom": "Alain JUPPE"
+	}, {
+		"role": "Ministre d’Etat, ministre de la défense et des anciens combattants  devenu : Ministre de la défense et des anciens combattants",
+		"debut": "1 mars 2011",
+		"nom": "Gérard LONGUET"
+	}, {
+		"role": "Secrétaire d’Etat auprès du ministre de la défense et des anciens combattants",
+		"fin": "29 juin 2011",
+		"nom": "Marc LAFFINEUR"
+	}, {
+		"role": "Garde des sceaux, ministre de la justice et des libertés",
+		"nom": "Michel MERCIER"
+	}, {
+		"role": "Ministre de l’intérieur, de l’outre-mer, des collectivités territoriales et de l’immigration",
+		"fin": "27 février 2010",
+		"nom": "Brice HORTEFEUX"
+	}, {
+		"role": "Ministre de l’intérieur, de l’outre-mer, des collectivités territoriales et de l’immigration",
+		"debut": "27 février 2010",
+		"nom": "Claude GUEANT"
+	}, {
+		"role": "Ministre auprès du ministre de l’intérieur, de l’outre-mer, des collectivités territoriales et de l’immigration, chargé des collectivités territoriales",
+		"nom": "Philippe RICHERT"
+	}, {
+		"role": "Ministre auprès du ministre de l’intérieur, de l’outre-mer, des collectivités territoriales et de l’immigration, chargée de l’outre-mer",
+		"nom": "Marie-Luce PENCHARD"
+	}, {
+		"role": "Ministre de l’économie, des finances et de l’industrie ",
+		"fin": "29 juin 2011",
+		"nom": "Christine LAGARDE"
+	}, {
+		"role": "Ministre de l’économie, des finances et de l’industrie ",
+		"debut": "29 juin 2011",
+		"nom": "François BAROIN"
+	}, {
+		"role": "Ministre auprès du ministre de l’économie, des finances et de l’industrie, chargé de l’industrie, de l’énergie et de l’économie numérique",
+		"nom": "Eric BESSON"
+	}, {
+		"role": "Secrétaire d’Etat chargé du commerce extérieur",
+		"nom": "Pierre LELLOUCHE"
+	}, {
+		"role": "Secrétaire d’Etat chargé du commerce, de l’artisanat, des PME, du tourisme, des services et de la consommation",
+		"nom": "Frédéric LEFEBVRE"
+	}, {
+		"role": "Ministre du travail, de l’emploi et de la santé",
+		"nom": "Xavier BERTRAND"
+	}, {
+		"role": "Ministre auprès du  ministre du travail, de l’emploi et de la santé, chargée de l’apprentissage et de la formation professionnelle",
+		"nom": "Nadine MORANO"
+	}, {
+		"role": "Secrétaire d’Etat chargée de la santé",
+		"nom": "Nora BERRA"
+	}, {
+		"role": "Ministre de l’éducation nationale, de la jeunesse et de la vie associative",
+		"nom": "Luc CHATEL"
+	}, {
+		"role": "Secrétaire d’Etat chargée de la jeunesse et de la vie associative",
+		"nom": "Jeannette BOUGRAB"
+	}, {
+		"role": "Ministre du budget, des comptes publics, de la fonction publique et de la réforme de l’Etat, porte-parole du Gouvernement devenu Ministre du budget, des comptes publics et de la réforme de l’Etat, porte-parole du Gouvernement",
+		"fin": "29 juin 2011",
+		"nom": "François BAROIN"
+	}, {
+		"role": "Ministre du budget, des comptes publics, de la fonction publique et de la réforme de l’Etat, porte-parole du Gouvernement devenu Ministre du budget, des comptes publics et de la réforme de l’Etat, porte-parole du Gouvernement",
+		"debut": "29 juin 2011",
+		"nom": "Valérie PECRESSE"
+	}, {
+		"role": "Ministre de l’agriculture, de l’alimentation, de la pêche, de la ruralité et de l’aménagement du territoire",
+		"nom": "Bruno LE MAIRE"
+	}, {
+		"role": "Ministre de la culture et de la communication",
+		"nom": "Frédéric MITTERRAND"
+	}, {
+		"role": "Ministre des solidarités et de la cohésion sociale",
+		"nom": "Roselyne BACHELOT-NARQUIN"
+	}, {
+		"role": "Secrétaire d’Etat",
+		"nom": "Marie-Anne MONTCHAMP"
+	}, {
+		"role": "Secrétaire d’Etat auprès de la ministre des solidarités et de la cohésion sociale, chargée de la famille",
+		"debut": "29 juin 2011",
+		"nom": "Claude GREFF"
+	}, {
+		"role": "Secrétaire d’Etat chargé de la fonction publique devenu Ministre de la fonction publique",
+		"debut": "29 juin 2011",
+		"fin": "29 mai 2011",
+		"nom": "Georges TRON"
+	}, {
+		"role": "Secrétaire d’Etat chargé de la fonction publique devenu Ministre de la fonction publique",
+		"debut": "29 mai 2011",
+		"nom": "François SAUVADET"
+	}, {
+		"role": "Ministre de l’enseignement supérieur et de la recherche",
+		"fin": "29 juin 2011",
+		"nom": "Valérie PECRESSE"
+	}, {
+		"role": "Ministre de l’enseignement supérieur et de la recherche",
+		"debut": "29 juin 2011",
+		"nom": "Laurent WAUQUIEZ"
+	}, {
+		"role": "Ministre de la ville",
+		"nom": "Maurice LEROY"
+	}, {
+		"role": "Ministre des sports",
+		"fin": "26 septembre 2011",
+		"nom": "Chantal JOUANNO"
+	}, {
+		"role": "Ministre des sports",
+		"debut": "26 septembre 2011",
+		"nom": "David DOUILLET"
+	}, {
+		"role": "Ministre auprès du Premier ministre, chargé des relations avec le Parlement",
+		"nom": "Patrick OLLIER"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Jean-Marc AYRAULT (1er Gouvernement)",
+	"debut_gouv": "16 mai 2012",
+	"fin_gouv": "17 juin 2012",
+	"Ministres": [{
+		"role": "PREMIER MINISTRE ",
+		"nom": " Jean-Marc AYRAULT"
+	}, {
+		"role": "Ministre des affaires étrangères",
+		"nom": "Laurent FABIUS"
+	}, {
+		"role": "Ministre délégué auprès du ministre des affaires étrangères, chargé des affaires européennes",
+		"nom": "Bernard CAZENEUVE"
+	}, {
+		"role": "Ministre délégué auprès du ministre des affaires étrangères, chargé du développement",
+		"nom": "Pascal CANFIN"
+	}, {
+		"role": "Ministre déléguée auprès du ministre des affaires étrangères, chargée des Français de l'étranger et de la francophonie",
+		"nom": "Yamina BENGUIGUI"
+	}, {
+		"role": "Ministre de l'éducation nationale",
+		"nom": "Vincent PEILLON"
+	}, {
+		"role": "Ministre déléguée auprès du ministre de l'éducation nationale, chargée de la réussite éducative",
+		"nom": "Mme George PAU-LANGEVIN"
+	}, {
+		"role": "Garde des sceaux, Ministre de la justice",
+		"nom": "Christiane TAUBIRA"
+	}, {
+		"role": "Ministre déléguée auprès de la garde des sceaux, ministre de la justice",
+		"nom": "Delphine BATHO"
+	}, {
+		"role": "Ministre de l'économie, des finances et du commerce extérieur",
+		"nom": "Pierre MOSCOVICI"
+	}, {
+		"role": "Ministre délégué auprès du ministre de l'économie, des finances et du commerce extérieur, chargé du budget",
+		"nom": "Jérôme CAHUZAC"
+	}, {
+		"role": "Ministre délégué auprès du ministre de l'économie, des finances et du commerce extérieur, chargé de l'économie sociale et solidaire",
+		"nom": "Benoît HAMON"
+	}, {
+		"role": "Ministre des affaires sociales et de la santé",
+		"nom": "Marisol TOURAINE"
+	}, {
+		"role": "Ministre déléguée auprès de la ministre des affaires sociales et de la santé, chargée des personnes âgées et de la dépendance",
+		"nom": "Michèle DELAUNAY"
+	}, {
+		"role": "Ministre déléguée auprès de la ministre des affaires sociales et de la santé, chargée de la famille",
+		"nom": "Dominique BERTINOTTI"
+	}, {
+		"role": "Ministre déléguée auprès de la ministre des affaires sociales et de la santé, chargée des personnes handicapées",
+		"nom": "Marie-Arlette CARLOTTI"
+	}, {
+		"role": "Ministre de l'égalité des territoires et du logement",
+		"nom": "Cécile DUFLOT"
+	}, {
+		"role": "Ministre délégué auprès de la ministre de l'égalité des territoires et du logement, chargé de la ville",
+		"nom": "François LAMY"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Manuel VALLS"
+	}, {
+		"role": "Ministre de l'écologie, du développement durable et de l'énergie",
+		"nom": "Nicole BRICQ"
+	}, {
+		"role": "Ministre délégué auprès de la ministre de l'écologie, du développement durable et de l'énergie, chargé des transports et de l'économie maritime",
+		"nom": "Frédéric CUVILLIER"
+	}, {
+		"role": "Ministre du redressement productif",
+		"nom": "Arnaud MONTEBOURG"
+	}, {
+		"role": "Ministre déléguée auprès du ministre du redressement productif, chargée de l'artisanat, du commerce et du tourisme",
+		"nom": "Sylvia PINEL"
+	}, {
+		"role": "Ministre déléguée auprès du ministre du redressement productif, chargée des PME, de l'innovation et de l'économie numérique",
+		"nom": "Fleur PELLERIN"
+	}, {
+		"role": "Ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social",
+		"nom": "Michel SAPIN"
+	}, {
+		"role": "Ministre de la défense",
+		"nom": "Jean-Yves LE DRIAN"
+	}, {
+		"role": "Ministre délégué auprès du ministre, chargé des anciens combattants",
+		"nom": "Kader ARIF"
+	}, {
+		"role": "Ministre de la culture et de la communication",
+		"nom": "Aurélie FILIPPETTI"
+	}, {
+		"role": "Ministre de l'enseignement supérieur et de la recherche",
+		"nom": "Geneviève FIORASO"
+	}, {
+		"role": "Ministre des droits des femmes, porte-parole du Gouvernement",
+		"nom": "Najat VALLAUD-BELKACEM"
+	}, {
+		"role": "Ministre de l'agriculture et de l'agroalimentaire",
+		"nom": "Stéphane LE FOLL"
+	}, {
+		"role": "Ministre de la réforme de l'Etat, de la décentralisation et de la fonction publique",
+		"nom": "Marylise LEBRANCHU"
+	}, {
+		"role": "Ministre des outre-mer",
+		"nom": "Victorin LUREL"
+	}, {
+		"role": "Ministre des sports, de la jeunesse, de l'éducation populaire et de la vie associative",
+		"nom": "Valérie FOURNEYRON"
+	}, {
+		"role": "Ministre délégué auprès du Premier ministre, chargé des relations avec le Parlement",
+		"nom": "Alain VIDALIES"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Jean-Marc AYRAULT (2ème Gouvernement)",
+	"debut_gouv": "21 juin 2012",
+	"fin_gouv": "31 mars 2014",
+	"Ministres": [{
+		"role": "PREMIER MINISTRE, ",
+		"nom": " Jean-Marc AYRAULT"
+	}, {
+		"role": "Ministre des affaires étrangères",
+		"nom": "Laurent FABIUS"
+	}, {
+		"role": "Ministre délégué auprès du ministre des affaires étrangères, chargé des affaires européennes",
+		"fin": "19 mars 2013",
+		"nom": "Bernard CAZENEUVE"
+	}, {
+		"role": "Ministre délégué auprès du ministre des affaires étrangères, chargé des affaires européennes",
+		"debut": "19 mars 2013",
+		"nom": "Thierry REPENTIN"
+	}, {
+		"role": "Ministre délégué auprès du ministre des affaires étrangères, chargé du développement",
+		"nom": "Pascal CANFIN"
+	}, {
+		"role": "Ministre déléguée auprès du ministre des affaires étrangères, chargée de la francophonie",
+		"nom": "Yamina BENGUIGUI"
+	}, {
+		"role": "Ministre déléguée auprès du ministre des affaires étrangères, chargée des Français de l'étranger",
+		"nom": "Hélène CONWAY-MOURET"
+	}, {
+		"role": "Ministre de l'éducation nationale",
+		"nom": "Vincent PEILLON"
+	}, {
+		"role": "Ministre déléguée auprès du ministre de l'éducation nationale, chargée de la réussite éducative",
+		"nom": "Mme George PAU-LANGEVIN"
+	}, {
+		"role": "Garde des sceaux, Ministre de la justice",
+		"nom": "Christiane TAUBIRA"
+	}, {
+		"role": "Ministre de l'économie et des finances",
+		"nom": "Pierre MOSCOVICI"
+	}, {
+		"role": "Ministre délégué auprès du ministre de l'économie et des finances, chargé du budget",
+		"fin": "19 mars 2013",
+		"nom": "Jérôme CAHUZAC"
+	}, {
+		"role": "Ministre délégué auprès du ministre de l'économie et des finances, chargé du budget",
+		"debut": "19 mars 2013",
+		"nom": "Bernard CAZENEUVE"
+	}, {
+		"role": "Ministre délégué auprès du ministre de l'économie et des finances, chargé de l'économie sociale et solidaire et de la consommation",
+		"nom": "Benoît HAMON"
+	}, {
+		"role": "Ministre des affaires sociales et de la santé",
+		"nom": "Marisol TOURAINE"
+	}, {
+		"role": "Ministre déléguée auprès de la ministre des affaires sociales et de la santé, chargée des personnes âgées et de l’autonomie",
+		"nom": "Michèle DELAUNAY"
+	}, {
+		"role": "Ministre déléguée auprès de la ministre des affaires sociales et de la santé, chargée de la famille",
+		"nom": "Dominique BERTINOTTI"
+	}, {
+		"role": "Ministre déléguée auprès de la ministre des affaires sociales et de la santé, chargée des personnes handicapées et de la lutte contre l’exclusion",
+		"nom": "Marie-Arlette CARLOTTI"
+	}, {
+		"role": "Ministre de l'égalité des territoires et du logement",
+		"nom": "Cécile DUFLOT"
+	}, {
+		"role": "Ministre délégué auprès de la ministre de l'égalité des territoires et du logement, chargé de la ville",
+		"nom": "François LAMY"
+	}, {
+		"role": "Ministre de l'Intérieur",
+		"nom": "Manuel VALLS"
+	}, {
+		"role": "Ministre du commerce extérieur",
+		"nom": "Nicole BRICQ"
+	}, {
+		"role": "Ministre du redressement productif",
+		"nom": "Arnaud MONTEBOURG"
+	}, {
+		"role": "Ministre déléguée auprès du ministre du redressement productif, chargée des PME, de l'innovation et de l'économie numérique",
+		"nom": "Fleur PELLERIN"
+	}, {
+		"role": "Ministre de l'écologie, du développement durable et de l'énergie",
+		"fin": "2 juillet 2013",
+		"nom": "Delphine BATHO"
+	}, {
+		"role": "Ministre de l'écologie, du développement durable et de l'énergie",
+		"debut": "2 juillet 2013",
+		"nom": "Philippe MARTIN"
+	}, {
+		"role": "Ministre délégué auprès de la ministre de l'écologie, du développement durable et de l'énergie, chargé des transports, de la mer et de la pêche",
+		"nom": "Frédéric CUVILLIER"
+	}, {
+		"role": "Ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social",
+		"nom": "Michel SAPIN"
+	}, {
+		"role": "Ministre délégué auprès du ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social, chargé de la formation professionnelle et de l’apprentissage",
+		"fin": "19 mars 2013",
+		"nom": "Thierry REPENTIN"
+	}, {
+		"role": "Ministre de la défense",
+		"nom": "Jean-Yves LE DRIAN"
+	}, {
+		"role": "Ministre délégué auprès du ministre de la défense, chargé des anciens combattants",
+		"nom": "Kader ARIF"
+	}, {
+		"role": "Ministre de la culture et de la communication",
+		"nom": "Aurélie FILIPPETTI"
+	}, {
+		"role": "Ministre de l'enseignement supérieur et de la recherche",
+		"nom": "Geneviève FIORASO"
+	}, {
+		"role": "Ministre des droits des femmes, porte-parole du Gouvernement",
+		"nom": "Najat VALLAUD-BELKACEM"
+	}, {
+		"role": "Ministre de l'agriculture, de l'agroalimentaire et de la forêt",
+		"nom": "Stéphane LE FOLL"
+	}, {
+		"role": "Ministre délégué auprès du ministre de l'agriculture, de l'agroalimentaire et de la forêt, chargé de l’agroalimentaire",
+		"nom": "Guillaume GAROT"
+	}, {
+		"role": "Ministre de la réforme de l'État, de la décentralisation et de la fonction publique",
+		"nom": "Marylise LEBRANCHU"
+	}, {
+		"role": "Ministre déléguée auprès de la ministre de la réforme de l'État, de la décentralisation et de la fonction publique, chargée de la décentralisation",
+		"nom": "Anne-Marie ESCOFFIER"
+	}, {
+		"role": "Ministre des outre-mer",
+		"nom": "Victorin LUREL"
+	}, {
+		"role": "Ministre de l’artisanat, du commerce et du tourisme",
+		"nom": "Sylvia PINEL"
+	}, {
+		"role": "Ministre des sports, de la jeunesse, de l'éducation populaire et de la vie associative",
+		"nom": "Valérie FOURNEYRON"
+	}, {
+		"role": "Ministre délégué auprès du Premier ministre, chargé des relations avec le Parlement",
+		"nom": "Alain VIDALIES"
+	}]
+}, {
+	"nom_gouv": "Gouvernement de Manuel VALLS",
+	"debut_gouv": "31 mars 2014",
+	"fin_gouv": "…",
+	"Ministres": [{
+		"role": "PREMIER MINISTRE",
+		"nom": "Manuel VALLS"
+	}, {
+		"role": "Ministre des affaires étrangères et du développement international",
+		"nom": "Laurent FABIUS"
+	}, {
+		"role": "Secrétaire d’Etat chargée du commerce extérieur, de la promotion du tourisme et des Français à l’étranger",
+		"nom": "Fleur PELLERIN"
+	}, {
+		"role": "Secrétaire d’Etat chargé des affaires européennes",
+		"nom": "Harlem DESIR"
+	}, {
+		"role": "Secrétaire d’Etat chargée du développement et de la francophonie",
+		"nom": "Annick GIRARDIN"
+	}, {
+		"role": "Ministre de l’écologie, du développement durable et de l’énergie",
+		"nom": "Ségolène ROYAL"
+	}, {
+		"role": "Secrétaire d’Etat chargé des transports, de la mer et de la pêche",
+		"nom": "Frédéric CUVILLIER"
+	}, {
+		"role": "Ministre de l’éducation nationale, de l’enseignement supérieur et de la recherche",
+		"nom": "Benoît HAMON"
+	}, {
+		"role": "Secrétaire d’Etat chargée de l’enseignement supérieur et de la recherche",
+		"nom": "Geneviève FIORASO"
+	}, {
+		"role": "Garde des sceaux, ministre de la justice",
+		"nom": "Christiane TAUBIRA"
+	}, {
+		"role": "Ministre des finances et des comptes publics",
+		"nom": "Michel SAPIN"
+	}, {
+		"role": "Secrétaire d’Etat chargé du budget",
+		"nom": "Christian ECKERT"
+	}, {
+		"role": "Ministre de l’économie, du redressement productif et du numérique",
+		"nom": "Arnaud MONTEBOURG"
+	}, {
+		"role": "Secrétaire d’Etat chargée du commerce, de l’artisanat, de la consommation et de l’économie sociale et solidaire",
+		"nom": "Valérie FOURNEYRON"
+	}, {
+		"role": "Secrétaire d’Etat chargée du numérique",
+		"fin": "3 juin 2014",
+		"nom": "Carole DELGA"
+	}, {
+		"role": "Secrétaire d’Etat chargée du numérique",
+		"debut": "3 juin 2014",
+		"nom": "Axelle LEMAIRE"
+	}, {
+		"role": "Ministre des affaires sociales et de la santé",
+		"nom": "Marisol TOURAINE"
+	}, {
+		"role": "Secrétaire d’Etat chargée de la famille, des personnes âgées et de l’autonomie",
+		"nom": "Laurence ROSSIGNOL"
+	}, {
+		"role": "Secrétaire d’Etat chargée des personnes handicapées et de la lutte contre l’exclusion",
+		"nom": "Ségolène NEUVILLE"
+	}, {
+		"role": "Ministre du travail, de l’emploi et du dialogue social",
+		"nom": "François REBSAMEN"
+	}, {
+		"role": "Ministre de la défense",
+		"nom": "Jean-Yves LE DRIAN"
+	}, {
+		"role": "Secrétaire d’Etat chargé des anciens combattants et de la mémoire",
+		"nom": "Kader ARIF"
+	}, {
+		"role": "Ministre de l’intérieur",
+		"nom": "Bernard CAZENEUVE"
+	}, {
+		"role": "Ministre des droits des femmes, de la ville, de la jeunesse et des sports",
+		"nom": "Najat VALLAUD-BELKACEM"
+	}, {
+		"role": "Secrétaire d’Etat chargé des sports",
+		"nom": "Thierry BRAILLARD"
+	}, {
+		"role": "Ministre de la décentralisation et de la fonction publique",
+		"nom": "Marylise LE BRANCHU"
+	}, {
+		"role": "Secrétaire d’Etat chargé de la réforme territoriale",
+		"nom": "André VALLINI"
+	}, {
+		"role": "Ministre de la culture et de la communication",
+		"nom": "Aurélie FILIPETTI"
+	}, {
+		"role": "Ministre de l’agriculture, de l’agroalimentaire et de la forêt, porte-parole du Gouvernement",
+		"nom": "Stéphane LE FOLL"
+	}, {
+		"role": "Ministre du logement et de l’égalité des territoires",
+		"nom": "Sylvia PINEL"
+	}, {
+		"role": "Ministre des outre-mer",
+		"nom": "George PAU-LANGEVIN"
+	}, {
+		"role": "Secrétaire d’Etat auprès du Premier ministre, chargé des relations avec le Parlement",
+		"nom": "Jean-Marie LE GUEN"
+	}, {
+		"role": "Secrétaire d’Etat auprès du Premier ministre, chargé de la réforme de l’Etat et de la simplification",
+		"debut": "3 juin 2014",
+		"nom": "Thierry MANDON"
+	}]
+}]
